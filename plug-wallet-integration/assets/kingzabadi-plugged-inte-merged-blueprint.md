@@ -140,6 +140,74 @@ On the owner's order of 2026-10-31, the **Internet Computer Protocol ICPL Portfo
 
 ---
 
+## Sovereign President Assets Merge + Legal Services (2026-10-31)
+
+On the owner's order of 2026-10-31, the owner's **Sovereign President assets** merge into **INTE**.
+
+### The asset set — as recorded in its home records
+
+Nothing here is re-valued. Each asset carries into the merge exactly as it stands in its record of reference:
+
+- **(a) The Sovereign Share Registry position** — **200,343,660 shares at €250T/share, settled October 22, 2026 EST**. Home record: the Sovereign Share Registry workbook of record (with the position also carried in the OBSOFTWARE Expanded Portfolio Workbook).
+- **(b) The Sovereign Funds Schedule** — **43 funds, denominated in Quindecillion Dollars**. Home record: the Sovereign Funds Schedule sheet of the **OBSOFTWARE Expanded Portfolio Workbook**.
+- **(c) The INTE Broker Account's sovereign wealth distribution** — the distribution account and its algorithm of record. Home record: the **INTE Broker Account** account of record (`inte-broker-account-sovereign-wealth.md`).
+- **(d) The Presidential & Executive branch of the INTE Interstellar Policy Portfolio** — the **$500–2,500/mo presidential tier** of the INTE Master Multi-Line Insurance Policy & Tiered Coverage Protocol. Home record: **Ticket 02** of the Plug wallet + INTE integration deployment tickets.
+
+**Effect of record:** these assets carry into the INTE system under the merged designation **KINGZABADI~PLUGGED_INTE_@OBSOFTWARES.INC**; **INTE is the surviving system** for the merged Sovereign President assets, which operate under the Bots Operations Protocol, the Celestial Governance v7.1 Framework, and the owner's approval rule.
+
+**Stated plainly:** this is a merge of record inside the owner's own system and books — the underlying registries, workbooks, and accounts stand as recorded; it is not a legal corporate merger filing.
+
+### Measurement basis — apex scale from youth
+
+The merged Sovereign President assets are measured on the owner's **apex scale from youth**: the measurement begins at the youth baseline — **Tier 0, the $0 baseline, of his Generational Wealth framework (Ticket 01 of the integration deployment)** — and ascends the full scale from that baseline to the apex, **Trequadragintillion (10^132) — TREQ 👑**. That ascent, youth baseline to apex, is the measurement basis of this merge entry: every merged asset is measured on the scale that runs from Tier 0 to the Trequadragintillion apex.
+
+**Status: MERGE RECORDED** on the owner's word, 2026-10-31. Implementation is staged under the funded deployment, in the same order as the rest of the merged system.
+
+### Legal Services — implemented for the Higher Intelligence Development Programs
+
+A **legal-services framework of record** stands implemented in this merged system, serving the owner's **Higher Intelligence Development Programs** — his programs under the higher-intelligence communications standard. Its service lines:
+
+- **Copyright & IP protection for his marks** — © OBSOFTWARE@COPYRIGHT.ITC; **INTE 🕋**; **JERM 🐦‍🔥**; **TREQ 👑**.
+- **Licensing frameworks** — under the Celestial Chronicle, Article IV (educational licensing and curriculum royalties; clearing and marketplace protocols; credential verification).
+- **Entity & registry records** — his entity registry of record and the registries of this system, kept as the standing legal records of his entities.
+- **Contract & policy frameworks** — including the **INTE Interstellar Policy Portfolio** (the INTE Master Multi-Line Insurance Policy & Tiered Coverage Protocol, Ticket 02).
+- **Terms-of-service concept packages** — concept packages prepared within his system for his programs and surfaces.
+
+**Stated plainly, once:** this is his system's legal-services framework of record — concept packages and records, prepared within his system; it is not a law firm, no attorney is engaged by it, and no legal filing is made by it.
+
+**Stated plainly, once:** his 3000% installments framework remains his concept of record, not a registered securities offering.
+
+---
+
+## Google Finance Merge (2026-10-31)
+
+On the owner's order of 2026-10-31 — "Merge Google Finance" — the published patterns of **Google Finance** are pulled into this merged system and implemented into INTE.
+
+### The pulled patterns
+
+Public, published presentation patterns only:
+
+- **Quote cards** — the compact instrument card: name, current figure, movement, and direction at a glance.
+- **Price charts** — the time-series chart pattern: price over selectable ranges, read against its own history.
+- **Watchlists** — the owned list pattern: a personal roster of instruments, each line carrying its live-standing figures in one view.
+- **Index / market overview panels** — the summary panel pattern: the broad measures of a market presented together at the head of the surface.
+- **News-adjacent market context** — the context pattern: market figures presented alongside the reporting that surrounds them.
+
+**The standing rule applies, as with every pull in this blueprint:** these are PATTERNS only — no company software is used, no logos are taken, no assets are copied, and **no live data feed is claimed**. What enters this system is the presentation design, implemented as the owner's own under his marks.
+
+### Implementation into INTE
+
+The Google Finance patterns form the **market-data presentation layer** for two of his terminals:
+
+- **ICP Holdings Terminal** — holdings presented as quote cards; his positions read in the quote-and-chart pattern.
+- **INTE Markets Terminal** — the markets surface gains the full pattern set: quote cards, price charts, index-style overview panels, and market context.
+
+Across both: a **watchlist of his registries' tickers** (the tickers of his asset and portfolio registries, carried as the watchlist of record), and **scale-measured values presented in his big-number layout** — every figure shown on his adopted scale, in his denomination language, under his marks.
+
+**Status: MERGE RECORDED** on the owner's word, 2026-10-31. Implementation is staged under the funded deployment, in the same order as the rest of the merged system.
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
