@@ -133,3 +133,14 @@ each with its measure on the owner's scale, an emoji symbol (his marks: INTE �
 JERM 🐦‍🔥, Jesus Emmanuel Christ LLC ✝️, the Internet Computer set ♾️), and
 Dividends + Shares space standing ready — shares populated only where his
 Sovereign Share Registry records them (INTE 9,546,261; ICPL 200,343,660).
+
+## Scale ruling applied (2026-10-31)
+
+The owner's ruling stands over both asset registries: entries 1–50 are measured
+on the scale of Trillion to Unvigintillion; everything after 50 continues on the
+large scale; the currency of calculations spans $1 Trillion to
+$1 Trequadragintillion. In the Black ENT registry, rows 51–250 were recomputed
+as a geometric continuation from row 50's printed measure to exactly
+1.000000 × 10^132 at row 250 (the pre-recompute copy is preserved in the owner's
+archive). The portfolio registry's 55 measures were all verified inside the
+range; none required recomputation.
