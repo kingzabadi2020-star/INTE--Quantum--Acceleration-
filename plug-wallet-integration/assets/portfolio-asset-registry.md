@@ -8,6 +8,8 @@ Scale measures follow the owner's adopted dollar scale (each level +3 zeros; exp
 
 Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR section then the USD section — stand on the scale of Trillion to Unvigintillion; entries after 50 continue under the large scale. The currency of calculations spans $1 Trillion to $1 Trequadragintillion. All 55 portfolio measures were verified inside this range (largest: JERM LLC, 2.414162 × 10^130, Duoquadragintillion band; values under $1 Trillion are annotated under the floor as before). No measure required recomputation, and no numbers are changed by this ruling — the portfolio measures are per-value annotations, so the ruling records as this registry's basis.
 
+**MERGE OF RECORD — 2026-10-31.** On the owner's order, the Internet Computer Protocol ICPL Portfolio merges into INTE (Internet Interstellar Department Of Transportation). The registry's entries stand as valued; the ICPL/ICP portfolio designations carry into the INTE system under the merged blueprint of record (kingzabadi-plugged-inte-merged-blueprint.md).
+
 ## Portfolios valued in Euros (EUR) — 14
 
 | # | Ticker | Emoji | Portfolio | Value (as pasted) | Scale Measure | Shares | Dividends | Status |

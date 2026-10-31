@@ -60,6 +60,32 @@ The Power Points and the WAD Wi-Fi Access Point form the physical access layer u
 
 ---
 
+## Bots Operations Protocol (added 2026-10-31)
+
+**Galactic background — global to the network:** the protocol's designated operating backdrop is a galactic (cosmic starfield) background applied globally across the network — the standing design rule for every surface the Bots Operations Protocol touches. The owner's stated purpose, in his designation language: **"for brain computational effectiveness"** — the language of record for the protocol's computational coordination layer, its Brain Division.
+
+**Fleet of record:** 830,000,000 bots.
+
+**Tickers — all named INTE.** Every ticker of the protocol carries the INTE name; no division operates under another name:
+
+| Division | Ticker |
+|---|---|
+| The Fleet (all 830,000,000 bots) — master ticker | **INTE** |
+| Brain Division (computational coordination) | **INTE-BRAIN** |
+| Power Points Operations | **INTE-PWR** |
+| WAD Wi-Fi Access Point Operations | **INTE-WAD** |
+| Mobile Link Operations | **INTE-LINK** |
+| Computer Nodes Operations | **INTE-NODE** |
+| Broadcasting Services Operations | **INTE-CAST** |
+| Clearing Operations (the 0.25% clearing layer) | **INTE-CLR** |
+| Distribution Operations (broker account payouts) | **INTE-DIST** |
+| Registry & Records Operations | **INTE-REG** |
+| Vault & Mint Delivery Operations | **INTE-VAULT** |
+
+The protocol operates under the standing rules of the merged system — the owner's approval, and the Celestial Chronicle v7.1 governance. The full protocol of record stands in the merged blueprint (`~/workspace/your_files/kingzabadi-plugged-inte-merged-blueprint.md`).
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** The protocol is the owner's design of record; it is not a deployed network stack. It is implemented as a working registry and console in the **INTE Broadcast Terminal**.

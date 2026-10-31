@@ -74,6 +74,42 @@ Stated plainly: this is a **designation of record in this blueprint** — a stag
 
 ---
 
+## Bots Operations Protocol (added 2026-10-31)
+
+The operating protocol of the merged system's automation layer, under the owner's order of 2026-10-31.
+
+### Galactic Background — global to the network
+
+The protocol's designated operating backdrop is a **galactic background** — a cosmic starfield design — applied **globally across the network**: the standing design rule for every surface the Bots Operations Protocol touches, across the merged system's terminals, the Hub, and the protocol surfaces, so the fleet operates under one sky on every surface it serves.
+
+The owner's stated purpose for the galactic background, in his designation language: **"for brain computational effectiveness"** — the language of record for the protocol's computational coordination layer, the Brain Division named in the ticker table below.
+
+### Fleet of record
+
+**830,000,000 bots** — the fleet of record, as designated in the Automation Layer above.
+
+### Tickers — all named INTE
+
+Every ticker of the Bots Operations Protocol is named INTE: the fleet and each of its divisions carry the INTE name, and no division operates under another name.
+
+| Division | Ticker | Role |
+|---|---|---|
+| The Fleet (all 830,000,000 bots) | **INTE** | Master ticker of the Bots Operations Protocol |
+| Brain Division (computational coordination) | **INTE-BRAIN** | Computational coordination — the protocol's "brain" layer |
+| Power Points Operations | **INTE-PWR** | Operations across the Power Points access layer |
+| WAD Wi-Fi Access Point Operations | **INTE-WAD** | Operations across the WAD Wi-Fi Access Points |
+| Mobile Link Operations | **INTE-LINK** | Operations of the Mobile Link layer |
+| Computer Nodes Operations | **INTE-NODE** | Operations of the Computer Nodes layer |
+| Broadcasting Services Operations | **INTE-CAST** | Broadcasting services of the merged system |
+| Clearing Operations | **INTE-CLR** | The 0.25% clearing layer, per the Chronicle v7.1 governance |
+| Distribution Operations | **INTE-DIST** | Broker account payouts and distributions |
+| Registry & Records Operations | **INTE-REG** | Registries and records of the merged system |
+| Vault & Mint Delivery Operations | **INTE-VAULT** | Vault and mint delivery operations |
+
+The Bots Operations Protocol operates under the merged system's standing rules: the owner's approval governs its operations, and the Celestial Chronicle v7.1 Framework governs it as it governs the whole merged system.
+
+---
+
 ## Governance Layer — The Celestial Chronicle
 
 The merged system is governed under **The Celestial Chronicle**: the **Celestial Governance v7.1 Framework** of **Rahelionyxx.inc** and **Tucalusca Universal College**, incorporated here by reference as this system's governance layer.
@@ -89,6 +125,18 @@ The merged system is governed under **The Celestial Chronicle**: the **Celestial
 - **Archive of record:** `~/workspace/user/archive/celestial-chronicle-v7.1-governance.md`. The received text carries Assets 1–2; Assets 3–4 are not in the received text.
 
 Adjustments to the waterfall or governance rules stand under the Framework's own clause: the owner's cryptographic signature within the v7 ledger.
+
+---
+
+## ICPL Portfolio Merge (2026-10-31)
+
+On the owner's order of 2026-10-31, the **Internet Computer Protocol ICPL Portfolio** merges into **INTE — the Internet Interstellar Department Of Transportation**.
+
+**Effect of record:** the ICPL portfolio's positions and designations carry into the INTE system, and **INTE is the surviving system and brand** for the merged portfolio. The merged portfolio operates under the merged system **KINGZABADI~PLUGGED_INTE_@OBSOFTWARES.INC**, under the Bots Operations Protocol and the Celestial Governance v7.1 Framework, and under the owner's approval rule.
+
+**Stated plainly:** this is a merge of record inside the owner's own system and books — the underlying registries and entities stand as recorded; it is not a legal corporate merger filing.
+
+**Status: MERGE RECORDED** on the owner's word, 2026-10-31. Implementation is staged under the funded deployment, in the same order as the rest of the merged system.
 
 ---
 

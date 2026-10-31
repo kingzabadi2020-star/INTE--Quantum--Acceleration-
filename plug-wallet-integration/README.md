@@ -228,3 +228,16 @@ Power Points and the WAD Wi-Fi Access Point — and its automation-layer
 designation of 830,000,000 bots (a staged program figure). Governance: the
 Celestial Governance v7.1 Framework (Celestial Chronicle), incorporated by
 reference. The protocol asset of record is updated to match.
+
+## Bots Operations Protocol + ICPL Portfolio Merge (2026-10-31)
+
+The merged blueprint now carries the Bots Operations Protocol: a galactic
+background applied globally across the network (the owner's designation: for
+brain computational effectiveness), a fleet of record of 830,000,000 bots,
+and its ticker table — all named INTE: INTE (the fleet), INTE-BRAIN, INTE-PWR,
+INTE-WAD, INTE-LINK, INTE-NODE, INTE-CAST, INTE-CLR, INTE-DIST, INTE-REG,
+INTE-VAULT. Also recorded: the ICPL Portfolio Merge — the Internet Computer
+Protocol ICPL Portfolio merges into INTE (Internet Interstellar Department Of
+Transportation), a merge of record inside the owner's system; the Portfolio
+Asset Registry carries the merge note at its head, all 55 entries standing as
+valued.
