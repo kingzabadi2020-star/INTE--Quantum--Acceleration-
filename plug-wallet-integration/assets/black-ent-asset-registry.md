@@ -264,13 +264,15 @@ Dollar values are extracted from the file as valued there (Black ENT document, P
 | 248 | TOWNSEND | Robert Townsend | TOWNSEND | as valued in file — see original PDF | $5,766,275,758.99 | as valued in file — see original PDF | $1,422,028,861,612.73 | $21,741,628,239,046.90 | Unvigintillion (10^66) | 1.777857 × 10^66 USD | STAGED — Plug wallet asset |
 | 249 | DIVERSITY HIRE | Robin Thede | DIVERSITY HIRE | as valued in file — see original PDF | $6,055,954,779.59 | as valued in file — see original PDF | $1,521,913,976,733.28 | $23,268,689,797,342.80 | Unvigintillion (10^66) | 1.848571 × 10^66 USD | STAGED — Plug wallet asset |
 | 250 | RDU | Rockmond Dunbar | — | as valued in file — see original PDF | $6,360,159,535.47 | as valued in file — see original PDF | $1,628,808,285,814.00 | $24,902,904,238,762.00 | Unvigintillion (10^66) | 1.919286 × 10^66 USD | STAGED — Plug wallet asset |
+| 251 | BEYONCE | Beyoncé | — | owner-created — no file row | — | — | — | — | Septillion (10^24) | 1.000000 × 10^24 USD | STAGED — Plug wallet asset |
 
 ## Registry counts and rules
 
-- **Total assets:** 250
+- **Total assets:** 251
 - **Tickers carried from the document:** 114 (the row's document symbol is its ticker, verbatim — including multiword studio/brand marks)
-- **Tickers newly created:** 136
-- **Uniqueness:** verified programmatically across the whole registry — 250 tickers, 0 duplicates. Where a document symbol repeats across rows, or a created ticker collides, the first occurrence in roster order keeps the plain form and later occurrences take the smallest free numeric suffix (2, 3, …).
+- **Tickers newly created:** 137
+- **Uniqueness:** verified programmatically across the whole registry — 251 tickers, 0 duplicates. Where a document symbol repeats across rows, or a created ticker collides, the first occurrence in roster order keeps the plain form and later occurrences take the smallest free numeric suffix (2, 3, …).
+- **Owner-added asset (2026-10-31):** #251 **BEYONCE** (Beyoncé) — created by the owner's order, its default set in the band under Octillions to begin with: **Septillion (10^24)**, opening scaled measure 1.000000 × 10^24 USD. She carries no row of her own in the Black ENT file — her presence there runs through PARKWOOD / Blue Ivy Carter (row 44) and Destiny's Child / MWE (row 95) — so her dollar columns open unset until the owner values them.
 - **Ticker derivation rule (created tickers):** 3–5 uppercase ASCII letters — the initials of the name's letter-groups (e.g. A.J. Johnson → AJJ); single names take their distinctive opening letters (e.g. Aaliyah → AALI); short initialisms are completed from the final word; long initialisms are capped at five letters.
 - **Alignment basis:** exact per-row alignment. The document prints one scaled amount per roster row and the extraction recovered all 250 amounts against all 250 rows (first three verified: 1.000000 × 10^12, 1.076154 × 10^12, 1.152308 × 10^12 USD), so each asset carries its own printed scaled measure and scale band — no positional band assignment was needed.
 - **Value basis:** every dollar figure in this registry is extracted from the Black ENT file as valued there; nothing is recomputed. Cells the document itself prints clipped are marked, never estimated.
