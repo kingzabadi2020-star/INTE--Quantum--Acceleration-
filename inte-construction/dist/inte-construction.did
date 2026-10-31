@@ -1,0 +1,17 @@
+type Institution = 
+ record {
+   name: text;
+   role: text;
+ };
+type ConstructionProgram = 
+ record {
+   framework: text;
+   fundingLine: text;
+   program: text;
+   status: text;
+ };
+service : {
+  getApprovalRule: () -> (text) query;
+  getConstructionProgram: () -> (ConstructionProgram) query;
+  getInstitutions: () -> (vec Institution) query;
+}
