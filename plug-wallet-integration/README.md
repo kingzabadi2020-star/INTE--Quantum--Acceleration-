@@ -155,4 +155,4 @@ rates (3000% payout, 0.25% clearing), a Calculated Vault underwriting the
 blueprint at $9,750,000,000,000,000 gross capacity (INTE 🕋, delivered through
 the Mint Vault route, Plug wallet default), and 13 FDIC-insured app payout
 rails (Cash App first) as fiat alternatives. Blueprint status: staged —
-executes only under the funded deployment and the owner's approval rule.
+executes only under the funded deployment and the owner's approval rule. The implementation's Public Service Announcements channel is the owner's YouTube — ~INTE~ Interstellar Computer (https://www.youtube.com/@obsoftwarecopyrightitc) — monitored daily for new PSAs (blueprint Section 5).

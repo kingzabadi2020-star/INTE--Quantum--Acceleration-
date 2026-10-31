@@ -18,7 +18,7 @@ Ranked by global user reach. User figures are approximate public reference figur
 | Rank | Platform | Approx. Users (public reference) | Creator Dividend Pool | Blueprint — Free INTE Dividends & Creator Payouts |
 |---:|---|---|---:|---|
 | 1 | Facebook | ≈ 3.07 billion monthly active users | $25,000,000,000,000.00 | Pages, Reels, and long-form posts accrue INTE dividends per engagement epoch; creators claim free INTE 🕋 payouts routed by default to the Plug wallet rail, at no cost to the creator. |
-| 2 | YouTube | ≈ 2.53 billion monthly active users | $24,000,000,000,000.00 | Watch-time and subscriber milestones convert to INTE dividend accrual on every upload; payouts settle to creators free in INTE 🕋, defaulting to the Plug wallet. |
+| 2 | YouTube | ≈ 2.53 billion monthly active users | $24,000,000,000,000.00 | Watch-time and subscriber milestones convert to INTE dividend accrual on every upload; payouts settle to creators free in INTE 🕋, defaulting to the Plug wallet. **The owner's own channel — ~INTE~ Interstellar Computer (https://www.youtube.com/@obsoftwarecopyrightitc) — is this implementation's Public Service Announcements channel (see Section 5).** |
 | 3 | WhatsApp | ≈ 3.00 billion monthly active users | $23,000,000,000,000.00 | Channel creators and community admins earn INTE dividends on channel growth and broadcast engagement, paid free in INTE 🕋 via the Plug rail. |
 | 4 | Instagram | ≈ 2.00 billion monthly active users | $22,000,000,000,000.00 | Reels, carousels, and Lives accrue INTE dividends per reach epoch; creator payouts are free and default to the Plug wallet. |
 | 5 | TikTok | ≈ 1.59 billion monthly active users | $21,000,000,000,000.00 | Completion rate and viral velocity drive INTE dividend accrual per video; payouts settle free to creators in INTE 🕋 on the Plug rail. |
@@ -342,6 +342,18 @@ The vault that underwrites this blueprint, its value **calculated** from Section
 | Found | Banking services through Lead Bank (FDIC member) | Fiat payout rail alternative — USD settlement to Found business balances for self-employed creators. |
 
 ---
+
+## Section 5 — Public Service Announcements & Monitoring (added 2026-10-31)
+
+The owner's YouTube channel — **~INTE~ Interstellar Computer**,
+https://www.youtube.com/@obsoftwarecopyrightitc — is the official Public Service
+Announcements channel for this implementation: deployment announcements, creator
+payout notices, and OBSOFTWARE@COPYRIGHT.ITC public statements publish there.
+
+Monitoring stands on the owner's order: the channel is checked daily for new
+uploads; each new video is reported to the owner in chat (title + link) as a new
+PSA on record, against a running seen-list. Monitoring is read-only — nothing is
+posted, commented, or altered on the channel by the agent.
 
 **Verification note (builder):** 25 platforms; 250 payout entries; column totals in Section 2 are summed from the entries themselves and cross-checked against the closed-form totals (shares $325,000,000,000,000.00; gross $9,750,000,000,000,000.00; clearing $24,375,000,000,000.00; net $9,725,625,000,000,000.00). Rank-1 and rank-25 entries hand-checked against the formulas.
 
