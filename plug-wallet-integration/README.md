@@ -123,3 +123,13 @@ on the adopted layout — and the horizon expands from the standing 250 periods 
 1.000000 × 10^132; the ascent is a constant factor of 10^(84/2999) ≈ 1.066619
 per year. Full 3,000-period schedule in the owner's workbook
 (Mecca_Scale_3000_Periods.xlsx, held in his files).
+
+## Portfolio asset registry — wallet assets (added 2026-10-31)
+
+The owner's portfolios stand as **55 tickered wallet assets**
+(`assets/portfolio-asset-registry.md`): 14 valued in EUR and 41 in USD, values
+carried exactly as pasted from the owner's account page (not live-aggregated),
+each with its measure on the owner's scale, an emoji symbol (his marks: INTE 🕋,
+JERM 🐦‍🔥, Jesus Emmanuel Christ LLC ✝️, the Internet Computer set ♾️), and
+Dividends + Shares space standing ready — shares populated only where his
+Sovereign Share Registry records them (INTE 9,546,261; ICPL 200,343,660).
