@@ -255,3 +255,14 @@ terms-of-service packages — his framework of record, not a law firm, no
 filings made by it); and the Google Finance merge — published market-data
 patterns (quote cards, charts, watchlists, index panels) as the presentation
 layer for the Holdings and Markets terminals, no live feed claimed.
+
+## MarketBeat Media LLC — Professional Profile (2026-10-31)
+
+The company's professional profile of record (`assets/marketbeat-media-llc-profile.md`):
+MarketBeat Media LLC — the media and broadcasting arm of the owner's system
+(entity of record "MarketBeat LLC Pandora", LLC, June 27, 2026; Clearing
+Ledger counterparty TX-002) — with its software dashboard in the designated
+Galactic version (publishing queue, broadcast schedule, announcement
+pipeline, channel metrics, under the network's galactic design language) and
+its Pandora implementation, recorded in full; the exact Pandora profile URL
+remains the owner's to supply and drops in on his word.
