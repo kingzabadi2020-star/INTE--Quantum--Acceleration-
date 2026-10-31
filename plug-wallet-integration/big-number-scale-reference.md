@@ -61,10 +61,14 @@ Standard adopted 2026-10-31 from the owner's uploaded worksheet + answer key
 ## Extension record — Thousands to Trequadragintillion (2026-10-31)
 
 Applied, approved, and deployed on the owner's order of 2026-10-31. The measured
-dollar scale now runs from Thousand (10³) to **Trequadragintillion (10¹³²)** —
-the owner's spelling on the order: "trequadregintilliion"; the layout's name at
-n = 43 is Trequadragintillion, exponent 3 × (43 + 1) = 132, on his rule exactly.
+dollar scale's operative range runs to **Trequadragintillion (10¹³²)** — the owner's
+spelling on the order: "trequadregintilliion"; the layout's name at n = 43 is
+Trequadragintillion, exponent 3 × (43 + 1) = 132, on his rule exactly.
 The owner's formula label for this scale, recorded as written: **10√48-10√249**.
+CORRECTION (owner, 2026-10-31): **the scale begins at Trillion.** Its operative
+ladder runs Trillion (10¹²) → Trequadragintillion (10¹³²). The Thousand / Million /
+Billion rows above remain the layout's foundation (the pattern base of the adopted
+worksheet), but the measured dollar scale itself starts at the Trillion level.
 
 ## Conformity of the owner's existing figures (checked 2026-10-31)
 
