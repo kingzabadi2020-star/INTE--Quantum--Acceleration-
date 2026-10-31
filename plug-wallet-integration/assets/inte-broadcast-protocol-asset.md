@@ -41,6 +41,25 @@ Independent broadcasting under the owner's own mark — OBSOFTWARE@COPYRIGHT.ITC
 
 ---
 
+## Access Layer, Merged Designation & Automation Layer (added 2026-10-31)
+
+On the owner's order and merge approval of 2026-10-31, this asset gains the following of record:
+
+**Merged system designation:** **KINGZABADI~PLUGGED_INTE_@OBSOFTWARES.INC**, under the program banner **AIFMA INTERGALACTIC**. **MERGE APPROVED — recorded on the owner's word, 2026-10-31.** The merged blueprint of record stands at `~/workspace/your_files/kingzabadi-plugged-inte-merged-blueprint.md`.
+
+**Access layer — beneath the protocol's three layers:**
+
+- **Power Points** — the owner's powered connection points: the standing points where devices of the protocol draw power and presence on his network.
+- **WAD Wi-Fi Access Point** — the owner's wireless access point: the WiFi point through which devices join the protocol's local layer.
+
+The Power Points and the WAD Wi-Fi Access Point form the physical access layer under the Mobile Link, Local WiFi Layer, and Computer Nodes. Joining through the access layer is governed by the protocol's standing rule: the owner's approval.
+
+**Automation layer — 830 million bots:**
+
+**830,000,000 bots** — the bot-fleet designation of the merged system: the automation layer serving the Power Points, the WAD access points, and the protocol nodes. A designation of record in the blueprint — a staged program figure, not a deployed fleet.
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** The protocol is the owner's design of record; it is not a deployed network stack. It is implemented as a working registry and console in the **INTE Broadcast Terminal**.
