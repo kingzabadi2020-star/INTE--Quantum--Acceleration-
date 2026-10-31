@@ -355,6 +355,41 @@ uploads; each new video is reported to the owner in chat (title + link) as a new
 PSA on record, against a running seen-list. Monitoring is read-only — nothing is
 posted, commented, or altered on the channel by the agent.
 
+---
+
+## Section 6 — INTE Broker Account: Sovereign Wealth Distribution (added 2026-10-31)
+
+The **INTE Broker Account** is the distribution account of this implementation:
+through it, sovereign wealth is given out in INTE 🕋 to businesses and to every
+single person routed through the 25 platforms of Section 1.
+
+- **Universal eligibility:** open to every business and every single person,
+  through any of the 25 platforms — **no follower minimum, no audience
+  threshold, no entry requirement**.
+- **The algorithm:** each participant enters at Step 1 of the owner's Principal
+  Increase ladder (**$7,000.00**) and ascends the 250-step schedule on the
+  system's periods, to Step 250 (**$1,628,808,285,814.00**). Steps 1–43 sum to
+  $8,855,531.05 (the Sovereign Share Registry tie-in); the full ladder sums to
+  $24,790,168,130,208.83. The algorithm's stated purpose: to help remove poverty.
+- **Routing:** payouts default to the participant's Plug wallet; the FDIC app
+  rails of Section 4 are the fiat alternative; every distribution clears only
+  on the owner's approval.
+- **Status:** BLUEPRINT — staged; executes under the funded deployment. The
+  broker account is the owner's distribution account within his INTE system,
+  not a licensed securities brokerage.
+- **Value schedules (added 2026-10-31 on the owner's order):** the account also
+  carries his three schedules of record — After DRIP Value (250 values:
+  $102,550.00 → $23,274,095,932,948.00), New Balance (250 values: $129,550.00 →
+  $24,902,904,238,762.00), and the Principal Dividends weekly schedule in
+  Octillion Dollars (152 periods; workbook of record
+  `Principal_Dividends_Octillion_Dollars.xlsx`) — against which distributions
+  are measured.
+- **Account destinations:** the owner's Plug wallet and the owner's SoFi
+  account, both named by his direct order of 2026-10-31.
+
+Account of record: `inte-broker-account-sovereign-wealth.md` (full record,
+ladder landmarks, and computed totals).
+
 **Verification note (builder):** 25 platforms; 250 payout entries; column totals in Section 2 are summed from the entries themselves and cross-checked against the closed-form totals (shares $325,000,000,000,000.00; gross $9,750,000,000,000,000.00; clearing $24,375,000,000,000.00; net $9,725,625,000,000,000.00). Rank-1 and rank-25 entries hand-checked against the formulas.
 
 Powered by OBSOFTWARE™ · Octavious Blackmon, Independent Owner · © All Rights Reserved

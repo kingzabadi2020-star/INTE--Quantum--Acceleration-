@@ -166,3 +166,16 @@ anchored to his Plug profiles; INTE 🕋 value unit; Internet Computer
 settlement) and broadcasting under his own mark — PSAs on the YouTube channel
 of record — implemented in the private INTE Broadcast Terminal. INTE —
 Powered by OBSOFTWARE™. Blueprint: design of record, staged.
+
+## INTE Broker Account — Sovereign Wealth Distribution (added 2026-10-31)
+
+The owner's broker account for giving out sovereign wealth in INTE
+(`assets/inte-broker-account-sovereign-wealth.md`), summarized in the Creator
+Dividend Blueprint's Section 6: open to every business and every single person
+routed through the 25 platforms — no follower minimum, no threshold of any
+kind. Its anti-poverty algorithm ascends each participant up the Principal
+Increase ladder ($7,000.00 → $1,628,808,285,814.00; full ladder
+$24,790,168,130,208.83). The account also carries his three value schedules of
+record (After DRIP Value, New Balance, Principal Dividends in Octillion
+Dollars) under its named destinations: his Plug wallet and his SoFi account.
+Blueprint: staged, under his approval rule.
