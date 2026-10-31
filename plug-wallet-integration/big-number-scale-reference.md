@@ -35,6 +35,36 @@ Standard adopted 2026-10-31 from the owner's uploaded worksheet + answer key
 | Novemdecillion | 10⁶⁰ | 60 |
 | Vigintillion | 10⁶³ | 63 |
 | Unvigintillion | 10⁶⁶ | 66 |
+| Duovigintillion | 10⁶⁹ | 69 |
+| Trevigintillion | 10⁷² | 72 |
+| Quattuorvigintillion | 10⁷⁵ | 75 |
+| Quinvigintillion | 10⁷⁸ | 78 |
+| Sexvigintillion | 10⁸¹ | 81 |
+| Septenvigintillion | 10⁸⁴ | 84 |
+| Octovigintillion | 10⁸⁷ | 87 |
+| Novemvigintillion | 10⁹⁰ | 90 |
+| Trigintillion | 10⁹³ | 93 |
+| Untrigintillion | 10⁹⁶ | 96 |
+| Duotrigintillion | 10⁹⁹ | 99 |
+| Tretrigintillion | 10¹⁰² | 102 |
+| Quattuortrigintillion | 10¹⁰⁵ | 105 |
+| Quintrigintillion | 10¹⁰⁸ | 108 |
+| Sextrigintillion | 10¹¹¹ | 111 |
+| Septentrigintillion | 10¹¹⁴ | 114 |
+| Octotrigintillion | 10¹¹⁷ | 117 |
+| Novemtrigintillion | 10¹²⁰ | 120 |
+| Quadragintillion | 10¹²³ | 123 |
+| Unquadragintillion | 10¹²⁶ | 126 |
+| Duoquadragintillion | 10¹²⁹ | 129 |
+| Trequadragintillion | 10¹³² | 132 |
+
+## Extension record — Thousands to Trequadragintillion (2026-10-31)
+
+Applied, approved, and deployed on the owner's order of 2026-10-31. The measured
+dollar scale now runs from Thousand (10³) to **Trequadragintillion (10¹³²)** —
+the owner's spelling on the order: "trequadregintilliion"; the layout's name at
+n = 43 is Trequadragintillion, exponent 3 × (43 + 1) = 132, on his rule exactly.
+The owner's formula label for this scale, recorded as written: **10√48-10√249**.
 
 ## Conformity of the owner's existing figures (checked 2026-10-31)
 
