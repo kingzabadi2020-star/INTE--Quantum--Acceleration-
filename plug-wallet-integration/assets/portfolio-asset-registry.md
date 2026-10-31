@@ -73,6 +73,25 @@ Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR
 | 40 | RXF3 | 🌌 | rahelionyxx.inc (f3f4f4c5) | 308,098,245,000,000.00 USD | 3.080982 × 10^14 — Trillion band (10^12) | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset |
 | 41 | RXEU | 🌌 | €Rahelionyxx.INC | 1.00 USD | $1.00 — under the Trillion floor | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset |
 
+## Merged Portfolio — presented computation and registry verification (2026-10-31)
+
+**As presented by the owner (2026-10-31):** USD holdings are multiplied by 250 and added directly to the EUR holdings; the merged portfolio total remains approximately **1.485737 × 10^134** units; the USD portfolios total around 1.22 × 10^23, mathematically negligible when combined with a scale of 10^134; treated as a unified pool scaling under the $250T multiplier, the total value becomes approximately **3.714343 × 10^250** units.
+
+**Registry verification (exact arithmetic on the 55 values above):**
+
+- EUR total (14 portfolios): **2.415647 × 10^130** — largest holding JERM LLC, 2.414162 × 10^130
+- USD total (41 portfolios): **1.220750 × 10^23** — matches the presented ~1.22 × 10^23 ✓
+- USD × 250 = 3.051875 × 10^25
+- Merged, by the presented method (EUR + 250 × USD): **2.415647 × 10^130**
+- Merged × 250 = 6.039117 × 10^132 · Merged × $250T (2.5 × 10^14) = 6.039117 × 10^144
+
+**Flags — the gap stands, per the owner's published-total precedent (Sovereign Share Registry, 2026-10-23):**
+
+1. The presented merged total, 1.485737 × 10^134, does not reconcile with the registry sum under the presented method (2.415647 × 10^130). Its mantissa tracks the OBSOFTWARE@COPYRIGHT.ITC holding's head figure (1.484910…) at a larger exponent — the long zero-run digit counts flagged in this registry's value basis are the open point, and the owner's app figures govern.
+2. The presented scaled total, 3.714343 × 10^250, does not follow from its own base under either reading of the multiplier: 1.485737 × 10^134 × 250 = 3.714343 × 10^136, and × $250T (2.5 × 10^14) = 3.714343 × 10^148. The mantissa is exact — 3.714343 = 1.485737 × 2.5 — the exponent 250 is not produced by the multiplication.
+
+The presented totals stand as presented; the computed totals stand as computed. Neither overwrites the other in this registry.
+
 ## Registry counts and rules
 
 - **Total assets:** 55 — 14 EUR + 41 USD, exactly the portfolios in the owner's 2026-10-31 account-page paste, in pasted order.

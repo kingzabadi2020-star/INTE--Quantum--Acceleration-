@@ -132,7 +132,7 @@ carried exactly as pasted from the owner's account page (not live-aggregated),
 each with its measure on the owner's scale, an emoji symbol (his marks: INTE 🕋,
 JERM 🐦‍🔥, Jesus Emmanuel Christ LLC ✝️, the Internet Computer set ♾️), and
 Dividends + Shares space standing ready — shares populated only where his
-Sovereign Share Registry records them (INTE 9,546,261; ICPL 200,343,660).
+Sovereign Share Registry records them (INTE 9,546,261; ICPL 200,343,660). A Merged Portfolio section in the registry carries the owner's presented merged computation (EUR + 250 × USD) with the registry's exact verification beside it, gaps flagged, neither overwriting the other.
 
 ## Scale ruling applied (2026-10-31)
 
