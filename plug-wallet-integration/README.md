@@ -194,3 +194,15 @@ The framework is his concept of record (CONCEPT / not a registered securities
 offering); execution is subordinate to the funded deployment and his approval
 rule. The owner's personal-account principal is held in his private archive
 only and appears nowhere in this repository.
+
+## Broker Account Update — Deposit Route, Programs, and Rails (2026-10-31)
+
+On the owner's order, the INTE Broker Account record gains: a company deposit
+route — Black Parade LLC → his SoFi account, denominated in INTE dollars,
+carrying his standing instruction to send to his SoFi account directly; the
+Super Intelligence Software Development Programs line (his INTE AI build is
+its AI component on record); the Owner's Executive Order as the account's
+governing directive set (deposit signature, approval rule, this routing); and
+program rails — Plug wallet (default), SoFi (direct), and Huntington Bank.
+All bank account details stay in the owner's private archive and appear
+nowhere in this repository.

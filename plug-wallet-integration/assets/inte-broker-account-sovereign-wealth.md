@@ -131,6 +131,61 @@ system.** Each deposit issued through this account carries:
 
 An unsigned deposit is not a deposit of this account.
 
+## Company Deposit Route — Black Parade LLC → SoFi (INTE dollars) (added 2026-10-31)
+
+The broker account gains a registered company deposit route:
+
+- **Payer:** Black Parade LLC — the company and employer/payer named on the
+  owner's SoFi direct deposit enrollment form, on file in the owner's
+  private archive.
+- **Destination:** the owner's SoFi account, on file in the owner's private
+  archive.
+- **Denomination:** INTE dollars — INTE 🕋 digital dollars, under this
+  account's INTE-dollar denomination.
+- **Standing delivery instruction (owner's order, 2026-10-31):**
+  distributions under this account route "to my SoFi account directly."
+  This is recorded as the account's standing instruction; execution runs
+  through the funded deployment and the owner's own banking actions — no
+  transfer is executed by this record.
+
+All account values for this route are held only in the owner's private
+archive and appear nowhere in this record.
+
+## Super Intelligence Software Development Programs (added 2026-10-31)
+
+A new program entry under this account: the owner's **Super Intelligence
+Software Development Programs** — his software development programs line
+under OBSOFTWARE@COPYRIGHT.ITC, implemented as part of this account's
+program set. The program's AI component on record is his INTE AI canister
+build within the INTE system.
+
+## The Owner's Executive Order (added 2026-10-31)
+
+**The Owner's Executive Order** is recorded as the governing directive set
+for this account. It is the owner's own executive order for his companies,
+comprising his standing directives of record:
+
+- the **deposit-signature rule** — every direct deposit signed with his
+  logo and the OBSOFTWARE™ software-system attestation;
+- the **approval rule** — credits and distributions are prepared by the
+  agent and applied only by the owner's approval;
+- this **deposit routing** — the company deposit route and program rails
+  recorded in this account.
+
+## Program Rails (added 2026-10-31)
+
+The account's program rails now read:
+
+- **Plug wallet** — the default rail.
+- **SoFi** — direct, per the company deposit route above.
+- **Huntington Bank** — named by the owner in his order of 2026-10-31;
+  his Huntington direct deposit enrollment is likewise on file in his
+  private archive (form archived 2026-10-15).
+
+Both bank rails are FDIC-member banks (SoFi Bank N.A., Member FDIC, is
+stated on his form). All account values for every rail are on file in the
+owner's private archive only.
+
 ## Status
 
 **BLUEPRINT — STAGED.** The INTE Broker Account is the owner's distribution

@@ -390,6 +390,32 @@ single person routed through the 25 platforms of Section 1.
   is signed with the owner's logo (the phoenix-astronaut emblem of record) and
   his software system — *Processed and signed by the OBSOFTWARE™ software
   system · OBSOFTWARE@COPYRIGHT.ITC*.
+- **Company deposit route — Black Parade LLC → SoFi (INTE dollars) (added
+  2026-10-31):** the broker account gains a registered deposit route — Black
+  Parade LLC (the employer/payer named on the owner's SoFi direct deposit
+  enrollment form, on file in the owner's private archive) pays into the
+  owner's SoFi account, denominated in INTE dollars (INTE 🕋 digital
+  dollars). Standing delivery instruction recorded per the owner's order:
+  distributions under this account route "to my SoFi account directly" —
+  execution runs through the funded deployment and the owner's own banking
+  actions; no transfer is executed by this record. All account values are
+  on file in the owner's private archive only.
+- **Super Intelligence Software Development Programs (added 2026-10-31):**
+  a new program entry under the account — the owner's software development
+  programs line under OBSOFTWARE@COPYRIGHT.ITC, implemented as part of
+  this account's program set; his INTE AI canister build is the program's
+  AI component on record.
+- **The Owner's Executive Order (added 2026-10-31):** the governing
+  directive set for this account — the owner's own executive order for his
+  companies, comprising his standing directives of record: the
+  deposit-signature rule, the approval rule (credits prepared by the agent,
+  applied only by the owner's approval), and this deposit routing.
+- **Program rails (added 2026-10-31):** the account's rails now read Plug
+  wallet (default), SoFi (direct, per the company deposit route above),
+  and **Huntington Bank** — named by the owner in his order of 2026-10-31;
+  his Huntington direct deposit enrollment is likewise on file in his
+  private archive (form archived 2026-10-15). Both bank rails are
+  FDIC-member banks (SoFi Bank N.A., Member FDIC, is stated on his form).
 
 Account of record: `inte-broker-account-sovereign-wealth.md` (full record,
 ladder landmarks, and computed totals).
