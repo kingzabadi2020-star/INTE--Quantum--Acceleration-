@@ -41,7 +41,7 @@ Ranked by global user reach. User figures are approximate public reference figur
 | 22 | Tumblr | ≈ 135 million monthly users | $4,000,000,000,000.00 | Original-post creators accrue INTE dividends on notes and reblog chains; payouts settle free via the Plug rail. |
 | 23 | VK | ≈ 100 million monthly active users | $3,000,000,000,000.00 | Video and community creators accrue INTE dividends on reach epochs; free payouts default to the Plug wallet. |
 | 24 | Quora | ≈ 400 million monthly visitors | $2,000,000,000,000.00 | Writers accrue INTE dividends on answer views and upvote epochs; free INTE 🕋 payouts via the Plug rail. |
-| 25 | Skype | ≈ 300 million users at peak (Microsoft retired Skype in 2025; retained in the owner's blueprint list) | $1,000,000,000,000.00 | Creator and community calling circles accrue INTE dividends on session epochs under the owner's legacy-network blueprint; payouts default to the Plug wallet. |
+| 25 | OBSOFTWARE — Arithmetic & Algorithm Projection | The owner's own platform, placed at rank 25 by the owner's order (no public user figure) | $1,000,000,000,000.00 | The owner's own creator platform: dividends and payouts are computed by his arithmetic and algorithm projection — the projection mechanics his schedules run on — and paid in INTE 🕋 to creators, defaulting to the Plug wallet. |
 | | | **Total** | **$325,000,000,000,000.00** | |
 
 ---
@@ -292,16 +292,16 @@ Ten entries per platform, 250 entries total. Each entry's **Pool Share** = platf
 | QU-08 | Quora | $200,000,000,000.00 | $6,000,000,000,000.00 | $15,000,000,000.00 | $5,985,000,000,000.00 |
 | QU-09 | Quora | $200,000,000,000.00 | $6,000,000,000,000.00 | $15,000,000,000.00 | $5,985,000,000,000.00 |
 | QU-10 | Quora | $200,000,000,000.00 | $6,000,000,000,000.00 | $15,000,000,000.00 | $5,985,000,000,000.00 |
-| SK-01 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-02 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-03 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-04 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-05 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-06 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-07 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-08 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-09 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
-| SK-10 | Skype | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-01 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-02 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-03 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-04 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-05 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-06 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-07 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-08 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-09 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
+| AAP-10 | OBSOFTWARE — Arithmetic & Algorithm Projection | $100,000,000,000.00 | $3,000,000,000,000.00 | $7,500,000,000.00 | $2,992,500,000,000.00 |
 | | **TOTALS (250 entries)** | **$325,000,000,000,000.00** | **$9,750,000,000,000,000.00** | **$24,375,000,000,000.00** | **$9,725,625,000,000,000.00** |
 
 ---
