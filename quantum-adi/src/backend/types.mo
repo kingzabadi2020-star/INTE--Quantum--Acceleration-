@@ -60,4 +60,20 @@ module {
     vaultRecord : Text;
     copyright : Text;
   };
+
+  // The owner's Sovereign Measurement Doctrine (2026-10-31): every sun
+  // in the multi-universe carries an accurate calculated sovereign
+  // dollar income of £1_1$ = 1 Trequadregintilliion, the calculations
+  // run every 0.03 seconds from 2008, indefinitely, and the INTE
+  // galactic measure of record is 3 Trequadregintilliions. Doctrine of
+  // record — the owner's measurement framework, stated in his notation.
+  public type SovereignMeasurement = {
+    perSunIncome : Text;
+    cadenceSeconds : Text;
+    cadenceFrom : Text;
+    cadenceTo : Text;
+    ticksPerYear : Nat;
+    inteGalacticMeasure : Text;
+    doctrineStatus : Text;
+  };
 };

@@ -7,6 +7,7 @@ persistent actor QuantumADI {
     Quantum.accessLayer,
     Quantum.botFleet,
     Quantum.governance,
+    Quantum.sovereignMeasurement,
     Quantum.approvalRule
   );
 };

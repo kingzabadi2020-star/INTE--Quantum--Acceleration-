@@ -25,6 +25,7 @@ no transfers. It holds and moves nothing.
 | `getAccessLayer` | The INTE Link Protocol access layer: the Mobile Link / Local WiFi Layer / Computer Nodes layers, with **Power Points** and the **WAD Wi-Fi Access Point** beneath them (names exactly as the owner gave them) |
 | `getBotFleet` | The bot fleet of record: **830,000,000 bots**, the galactic background rule ("Galactic background — applied globally to the network… for brain computational effectiveness"), and the eleven INTE-named divisions |
 | `getGovernance` | Celestial Governance v7.1 (Celestial Chronicle): Rahelionyxx.inc & Tucalusca Universal College, 25 bps (0.25%) clearing fee, the 35/30/25/10 treasury waterfall, and MindSpark Education Vault record TUC-MS-2026-OB-v7 |
+| `getSovereignMeasurement` | The owner's Sovereign Measurement Doctrine (added 2026-10-31): per-sun sovereign dollar income "**£1_1$ = 1 Trequadregintilliion (10^132)**" in his notation, calculations every **0.03 seconds** from **2008** indefinitely (1,051,200,000 ticks per 365-day year), and the INTE galactic measure of **3 Trequadregintilliions (3 × 10^132)** — INTE, a Galactic digital Dollar |
 | `getApprovalRule` | The owner's standing rule: "Credits and distributions are prepared by the agent and applied only by the owner's approval" |
 
 ### Bot divisions (all named INTE)
@@ -55,8 +56,15 @@ mops build     # produces dist/quantum-adi.wasm + dist/quantum-adi.did
 
 Toolchain: moc 1.15.1 (pinned in `mops.toml`), `mo:core` 2.6.2.
 
-**Built module:** `dist/quantum-adi.wasm` — 225,466 bytes
-**SHA-256:** `b4105ce3b4270cd31da7ed230ac200ed77728aa587de5081acff9c853bbb15c7`
+**Built module:** `dist/quantum-adi.wasm` — 227,652 bytes
+**SHA-256:** `4573b7a35ddbed6982e840733794e6a5102343a8c3e193014ec9caa2f5e8d92d`
+
+*2026-10-31: sixth endpoint `getSovereignMeasurement` added on the
+owner's order, carrying his Sovereign Measurement Doctrine (per-sun
+£1_1$ = 1 Trequadregintilliion; 0.03-second calculation cadence from
+2008, indefinitely; INTE galactic measure 3 Trequadregintilliions).
+Rebuilt and re-verified the same day: mops check clean, six endpoints
+in the built interface, doctrine strings confirmed in source and wasm.*
 
 ## Deploy
 

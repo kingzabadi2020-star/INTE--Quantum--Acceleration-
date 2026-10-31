@@ -64,6 +64,21 @@ module {
     copyright = "OBSOFTWARE@COPYRIGHT.ITC";
   };
 
+  // The owner's Sovereign Measurement Doctrine (2026-10-31), in his
+  // notation verbatim: £1_1$ per sun = 1 Trequadregintilliion;
+  // calculations every 0.03 seconds from 2008, indefinitely
+  // (ticksPerYear counts a 365-day year at that cadence); and the
+  // INTE galactic measure — 3 Trequadregintilliions.
+  public let sovereignMeasurement : Types.SovereignMeasurement = {
+    perSunIncome = "£1_1$ = 1 Trequadregintilliion (10^132)";
+    cadenceSeconds = "0.03";
+    cadenceFrom = "2008";
+    cadenceTo = "indefinitely";
+    ticksPerYear = 1_051_200_000;
+    inteGalacticMeasure = "3 Trequadregintilliions (3 x 10^132) — INTE, a Galactic digital Dollar";
+    doctrineStatus = "Owner's measurement doctrine of record, 2026-10-31";
+  };
+
   // The owner's standing approval rule, verbatim.
   public let approvalRule : Text = "Credits and distributions are prepared by the agent and applied only by the owner's approval";
 };

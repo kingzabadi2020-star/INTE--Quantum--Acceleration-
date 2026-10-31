@@ -5,6 +5,16 @@ type TreasuryWaterfall =
    rdInterstellarInfrastructure: nat;
    sovereignLiquidityReserve: nat;
  };
+type SovereignMeasurement = 
+ record {
+   cadenceFrom: text;
+   cadenceSeconds: text;
+   cadenceTo: text;
+   doctrineStatus: text;
+   inteGalacticMeasure: text;
+   perSunIncome: text;
+   ticksPerYear: nat;
+ };
 type MergedSystem = 
  record {
    brand: text;
@@ -52,4 +62,5 @@ service : {
   getBotFleet: () -> (BotFleet) query;
   getGovernance: () -> (Governance) query;
   getMergedSystem: () -> (MergedSystem) query;
+  getSovereignMeasurement: () -> (SovereignMeasurement) query;
 }

@@ -5,6 +5,7 @@ mixin (
   accessLayer : Types.AccessLayer,
   botFleet : Types.BotFleet,
   governance : Types.Governance,
+  sovereignMeasurement : Types.SovereignMeasurement,
   approvalRule : Text
 ) {
   // The merged system record: designation, program, brand, and the
@@ -29,6 +30,14 @@ mixin (
   // treasury waterfall, and the MindSpark Education Vault record.
   public query func getGovernance() : async Types.Governance {
     governance;
+  };
+
+  // The owner's Sovereign Measurement Doctrine: £1_1$ of sovereign
+  // dollar income per sun (= 1 Trequadregintilliion), calculations
+  // every 0.03 seconds from 2008 indefinitely, and the INTE galactic
+  // measure of 3 Trequadregintilliions.
+  public query func getSovereignMeasurement() : async Types.SovereignMeasurement {
+    sovereignMeasurement;
   };
 
   // The owner's standing approval rule.
