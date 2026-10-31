@@ -238,6 +238,24 @@ On the owner's order of 2026-10-31, the owner's **Alabama Power account** — hi
 
 ---
 
+## Galactic Cloud + Galactic Wi-Fi (2026-10-31)
+
+On the owner's order of 2026-10-31 — "BUILDING GALACTIC CLOUD FOR MY IOS TO OPEN OBSOFTWARE@COPYRIGHT.ITC VAULT FOR SPACE" and "push galatic Wi-Fi -INTE-" — the merged system gains its galactic cloud layer and the galactic form of its access layer.
+
+### Galactic Cloud
+
+**Galactic Cloud** is the owner's designated cloud layer of this merged system: the layer through which his **iOS devices** open the **OBSOFTWARE@COPYRIGHT.ITC vaults for space** (storage). The vaults of record reached through it are his own — the **WASM Asset Vault**, the **Mint Vault**, the **ICP Holdings Vault**, and the **Tap Pay Digital Vault** — reached from his iPhone through his private Hub and terminal surfaces, under the galactic design language that stands as the network's backdrop under the Bots Operations Protocol.
+
+**Stated plainly:** Galactic Cloud is his designated layer and name within his own system — access runs through his existing private surfaces on his devices; no third-party cloud account is created or provisioned by this record.
+
+### Galactic Wi-Fi — INTE
+
+**Galactic Wi-Fi — INTE** is the pushed designation for the access layer's galactic form: the **WAD Wi-Fi Access Point** operating under the galactic background rule, designated **"Galactic Wi-Fi — INTE"**. It is the same access layer of record — the Power Points and the WAD Wi-Fi Access Point beneath the protocol's Mobile Link, Local WiFi, and Computer Nodes layers — named in its galactic form for the merged system, and joining through it stands under the same rule as the protocol itself: the owner's approval.
+
+**Status: RECORDED** on the owner's word, 2026-10-31. Implementation is staged under the funded deployment, in the same order as the rest of the merged system.
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.

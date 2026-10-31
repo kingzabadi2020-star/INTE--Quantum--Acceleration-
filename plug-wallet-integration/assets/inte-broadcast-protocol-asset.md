@@ -86,6 +86,17 @@ The protocol operates under the standing rules of the merged system — the owne
 
 ---
 
+## Galactic Wi-Fi — INTE & Galactic Cloud (added 2026-10-31)
+
+On the owner's order of 2026-10-31, this asset gains the galactic designations of the merged system:
+
+- **Galactic Wi-Fi — INTE** — the galactic designation of the WAD access layer: the **WAD Wi-Fi Access Point** operating under the galactic background rule, designated "Galactic Wi-Fi — INTE." It is the same access layer of record — the Power Points and the WAD Wi-Fi Access Point beneath the protocol's three layers — in its galactic form, and joining through it stands under the protocol's standing rule: the owner's approval.
+- **Galactic Cloud** — the owner's designated cloud layer for opening his **OBSOFTWARE@COPYRIGHT.ITC vaults** from his **iOS devices**: his vaults of record (the WASM Asset Vault, the Mint Vault, the ICP Holdings Vault, and the Tap Pay Digital Vault) reached from his iPhone through his private Hub and terminal surfaces, for space (storage), under the galactic design language. Stated plainly: Galactic Cloud is his designated layer and name within his own system — access runs through his existing private surfaces on his devices; no third-party cloud account is created or provisioned by this record.
+
+The merged blueprint of record carries the full section (`~/workspace/your_files/kingzabadi-plugged-inte-merged-blueprint.md`).
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** The protocol is the owner's design of record; it is not a deployed network stack. It is implemented as a working registry and console in the **INTE Broadcast Terminal**.

@@ -5,6 +5,11 @@
 **Brand family:** INTE — Powered by OBSOFTWARE™
 **Entity of record:** MarketBeat Media LLC (registered in the owner's entity
 registry as "MarketBeat LLC Pandora," LLC, June 27, 2026)
+**Company contact of record:** Kingzabadi2020@Marketbeat.com — implemented as
+the company contact address of record for OBSOFTWARE@COPYRIGHT.ITC
+(MarketBeat Media LLC), on the owner's order, 2026-10-31. Stated plainly: the
+address is recorded as his designated company address in his records; Muse
+cannot create or verify a mailbox on that domain.
 **Profile date:** 2026-10-31
 
 ---
