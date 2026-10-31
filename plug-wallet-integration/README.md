@@ -93,3 +93,20 @@ Three documents ride with this integration deployment as its tickets
   verified schedule mechanics (After DRIP / Principal Increase / New Balance
   columns) keyed to a 1990–2026 entertainment roster, measured on the expanded
   dollar scale beginning at Trillion.
+
+## Black ENT asset registry — Plug wallet assets (added 2026-10-31)
+
+The Black ENT roster (Ticket 03) now stands as **250 registered assets** for the
+Plug wallet integration (`assets/black-ent-asset-registry.md`):
+
+- **250 tickers, 0 duplicates** — 114 carried from the document's own symbols,
+  136 created by the owner's registry rule (initials / opening letters, numeric
+  suffix on collision).
+- Every asset carries the file's own dollar values as valued in the document —
+  Baseline (Starting Balance), Dividend Income, After DRIP Value, Principal
+  Increase, New Balance — chain-checked across all 249 links (202 exact, 47
+  prefix-consistent, 0 breaks).
+- Measures begin at **Trillion** (10^12) and climb the owner's expanded dollar
+  scale to Unvigintillion (10^66), each asset carrying its own printed scaled
+  amount from the document.
+- All 250 assets: STAGED — Plug wallet assets, under the owner's approval rule.
