@@ -74,3 +74,22 @@ only in the owner's private terminals and records — they never enter this repo
   platform throughout.
 - Deployment executes only on the owner's orders; the funding gate is cycles, and the
   watch reports the deployment's canister IDs when it lands.
+
+## Deployment tickets (added 2026-10-31)
+
+Three documents ride with this integration deployment as its tickets
+(full registrations in `tickets/`):
+
+- **Ticket 01 — Generational Wealth & Socioeconomic Progression Presentation:**
+  the owner's 36-year generational wealth framework, tiers from baseline to the
+  Unvigintillion apex (10^66), under OBSOFTWARE@COPYRIGHT.ITC.
+- **Ticket 02 — INTE Interstellar Policy Portfolio:** the INTE Master Multi-Line
+  Insurance Policy & Tiered Coverage Protocol — five coverage branches
+  (Low-Income Subsidized, Standard & Family, Veterans & Armed Forces,
+  Commercial & IP, Presidential & Executive), medical/dental with FREE vision
+  under all branches, a 20% full-year no-incident cash-back program, the Military
+  & Space Force family defense policy, and identity-theft safeguards.
+- **Ticket 03 — Black ENT:** the owner's entertainment dividend roster — his
+  verified schedule mechanics (After DRIP / Principal Increase / New Balance
+  columns) keyed to a 1990–2026 entertainment roster, measured on the expanded
+  dollar scale beginning at Trillion.
