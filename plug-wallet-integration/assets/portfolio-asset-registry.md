@@ -29,6 +29,8 @@ Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR
 | 13 | OBMP | 🔱 | Octavious Blackmon LLC Main Portfolio | 589,680,072,000,000,000,000,000.00 EUR | 5.896801 × 10^23 — Sextillion band (10^21) | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset |
 | 14 | ICPD | ♾️ | ICP Diversified | 1,293,795,697,193,550,300,000,000,000,000,000,000,000,000,000,000,000,000,000,000.00 EUR | 1.293796 × 10^60 — Novemdecillion band (10^60) | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset |
 
+**Note on entry 7 (JERM LLC 🐦‍🔥) — 2026-10-31:** Alabama Power account merged under this portfolio per the owner's order, 2026-10-31 — recorded by name as the power line of the merged system (utility of record behind the Power Points); account details are not on file and appear nowhere in this registry.
+
 ## Portfolios valued in US Dollars (USD) — 41
 
 | # | Ticker | Emoji | Portfolio | Value (as pasted) | Scale Measure | Shares | Dividends | Status |

@@ -266,3 +266,19 @@ Galactic version (publishing queue, broadcast schedule, announcement
 pipeline, channel metrics, under the network's galactic design language) and
 its Pandora implementation, recorded in full; the exact Pandora profile URL
 remains the owner's to supply and drops in on his word.
+
+## Civil Rights & Constitutional Bill · Alabama Power Merge · 421358073LLC (2026-10-31)
+
+The INTE Civil Rights & Constitutional Bill (`assets/inte-civil-rights-constitutional-bill.md`)
+merges the civil rights and constitutional corpus — the Bill of Rights, the
+XIII/XIV/XV/XIX/XXIV/XXVI Amendments, and the statutes of 1866–2009 — as the
+operating foundation of the owner's system, in sections: the corpus; why the
+owner funds it (from the waterfall's 35% Humanitarian & Civic Innovation
+allocation); how it is used (universal eligibility, education equity,
+accessibility, civic programming, the Legal Services reference corpus); and
+its governance. It is his framework bill of record — not enacted law.
+Also recorded: the Alabama Power merge — his Alabama Power account merges
+under the Jermaine Octavious Blackmon LLC Portfolio (JERM 🐦‍🔥), recorded by
+name as the power line behind the Power Points (account details are not on
+file and appear nowhere); and 421358073LLC 🔢 added as an affiliated entity
+in the MarketBeat Media LLC professional profile.

@@ -21,6 +21,13 @@ counterpart inside his clearing framework.
 The owner also carries a MarketBeat Media LLC repository on his GitHub (an
 actions/deployment repository), the company's engineering presence of record.
 
+## Affiliated Entities
+
+- **421358073LLC** 🔢 — the owner's affiliated entity of record, carried in his
+  Portfolio Asset Registry (as the portfolio "421358073llc" 🔢). Added to this
+  professional profile on the owner's order, 2026-10-31. The entry records the
+  affiliation only.
+
 ## Role in the INTE System
 
 - **Broadcast feed:** MarketBeat Media LLC feeds the INTE broadcasting

@@ -208,6 +208,36 @@ Across both: a **watchlist of his registries' tickers** (the tickers of his asse
 
 ---
 
+## Civil Rights & Constitutional Merge (2026-10-31)
+
+On the owner's order of 2026-10-31, the civil rights and constitutional corpus of public law is merged into this system as its rights foundation, under **The INTE Civil Rights & Constitutional Bill** — the bill of record prepared for this merge. It stands in this system as part of the **Legal Services framework of record** (above).
+
+**The merged corpus** — existing public law, named as the system's operating foundation: the Bill of Rights (1791); Amendments XIII (1865), XIV (1868), XV (1870), XIX (1920), XXIV (1964), and XXVI (1971); the Civil Rights Act of 1866; the Ku Klux Klan Act of 1871; the Equal Pay Act of 1963; the Civil Rights Act of 1964; the Voting Rights Act of 1965; the Fair Housing Act / Civil Rights Act of 1968; Title IX (1972); the Americans with Disabilities Act of 1990; the Civil Rights Act of 1991; and the Lilly Ledbetter Fair Pay Act of 2009.
+
+**Why the owner funds it:** his distribution is universal by design — the Broker Account open to every business and every single person, with no thresholds — and the bill is the rights foundation that universality stands on: it funds the legal framework behind his Humanitarian mission, protects every participant's access to his programs equally, and gives the Legal Services framework its enforcement reference. **Funding source of record: the Humanitarian & Civic Innovation Fund — 35%** allocation of the Celestial Governance v7.1 treasury waterfall.
+
+**How it is used, in sections:** (a) universal eligibility & non-discrimination in distributions — the Broker Account and the IPO installments (everyone, 18+ under that plan); (b) education & licensing equity under Chronicle Article IV; (c) accessibility across his terminals and the Hub, with the ADA as the design reference; (d) civic & voter-education programming through his broadcasting services and PSA channel of record; (e) the Legal Services framework's reference corpus for IP, contracts, and policy work.
+
+**Governance:** under Celestial Governance v7.1; adjustments require the owner's approval; the deposit-signature rule applies to bill funding disbursements of record.
+
+**Status:** the bill is the owner's framework document of record — a concept legislative package prepared for his programs. It is not enacted law, has not been filed with any legislature, and does not change any public law; the merged corpus is existing public law.
+
+**Bill of record:** `~/workspace/your_files/inte-civil-rights-constitutional-bill.md`.
+
+---
+
+## Alabama Power Merge — Jermaine Octavious Blackmon LLC Portfolio (2026-10-31)
+
+On the owner's order of 2026-10-31, the owner's **Alabama Power account** — his electric utility account of record in Alabama — merges into this merged system under the **Jermaine Octavious Blackmon LLC Portfolio** — JERM 🐦‍🔥, the portfolio of his JERM entity in his Portfolio Asset Registry.
+
+**Recorded linkage in his design:** the account stands as the **power line of the merged system** — the utility of record behind the **Power Points** of the INTE Link Protocol access layer, under the merged designation's **PLUG 🔌**. Effect of record: the account is carried in the JERM portfolio's holdings of record within the INTE system, and it is recorded **by name only** — its account details are not on file, and belong only in the owner's private archive if he ever records them.
+
+**Billing and service remain the owner's own arrangements with the utility** — plainly stated: this merge is a record inside his system; it does not change, transfer, or act on the utility account itself.
+
+**Status: MERGE RECORDED** on the owner's word, 2026-10-31.
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
