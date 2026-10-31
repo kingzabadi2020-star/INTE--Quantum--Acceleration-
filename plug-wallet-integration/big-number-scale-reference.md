@@ -70,6 +70,15 @@ ladder runs Trillion (10¹²) → Trequadragintillion (10¹³²). The Thousand /
 Billion rows above remain the layout's foundation (the pattern base of the adopted
 worksheet), but the measured dollar scale itself starts at the Trillion level.
 
+## Sovereign Measurement Doctrine — scale figures (note, 2026-10-31)
+
+Under the owner's Sovereign Measurement Doctrine of 2026-10-31, two scale figures
+stand on this ladder: the **per-sun sovereign income is 1 Trequadregintilliion
+(10¹³²)** — the ladder's apex — and **INTE, the galactic digital dollar, carries
+3 Trequadregintilliions (3 × 10¹³²)**. Full doctrine of record: the merged
+blueprint, `~/workspace/your_files/kingzabadi-plugged-inte-merged-blueprint.md`,
+section "Sovereign Measurement Doctrine (2026-10-31)".
+
 ## Conformity of the owner's existing figures (checked 2026-10-31)
 
 - Octillion Dollars workbook: 1 Octillion = 10²⁷ — on the layout exactly.
