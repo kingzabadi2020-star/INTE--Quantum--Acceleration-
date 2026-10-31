@@ -96,14 +96,15 @@ Three documents ride with this integration deployment as its tickets
 
 ## Black ENT asset registry — Plug wallet assets (added 2026-10-31)
 
-The Black ENT roster (Ticket 03) now stands as **251 registered assets** for the
+The Black ENT roster (Ticket 03) now stands as **252 registered assets** for the
 Plug wallet integration (`assets/black-ent-asset-registry.md`):
 
-- **251 tickers, 0 duplicates** — 114 carried from the document's own symbols,
-  137 created by the owner's registry rule (initials / opening letters, numeric
+- **252 tickers, 0 duplicates** — 114 carried from the document's own symbols,
+  138 created by the owner's registry rule (initials / opening letters, numeric
   suffix on collision), including #251 **BEYONCE** (Beyoncé), added by the owner's
   order with its default under Octillions: Septillion (10^24), opening measure
-  1.000000 × 10^24 USD.
+  1.000000 × 10^24 USD. #252 **GLO** (Glo — GloRilla) was added the same day with
+  the owner's implemented opening value: 954,626,322 Octillion Dollars.
 - Every asset carries the file's own dollar values as valued in the document —
   Baseline (Starting Balance), Dividend Income, After DRIP Value, Principal
   Increase, New Balance — chain-checked across all 249 links (202 exact, 47
@@ -111,4 +112,4 @@ Plug wallet integration (`assets/black-ent-asset-registry.md`):
 - Measures begin at **Trillion** (10^12) and climb the owner's expanded dollar
   scale to Unvigintillion (10^66), each asset carrying its own printed scaled
   amount from the document.
-- All 251 assets: STAGED — Plug wallet assets, under the owner's approval rule.
+- All 252 assets: STAGED — Plug wallet assets, under the owner's approval rule.
