@@ -179,3 +179,18 @@ $24,790,168,130,208.83). The account also carries his three value schedules of
 record (After DRIP Value, New Balance, Principal Dividends in Octillion
 Dollars) under its named destinations: his Plug wallet and his SoFi account.
 Blueprint: staged, under his approval rule. Deposit signature (owner's rule, 2026-10-31): every single direct deposit is signed with the owner's logo (the phoenix-astronaut emblem of record) and the OBSOFTWARE™ software system attestation.
+
+## IPO Installments Plan (added 2026-10-31)
+
+The owner's prepared installments plan (`assets/ipo-installments-plan.md`):
+dividend and sovereign payouts under the integration deployment, commencing
+12:00 AM, November 1, 2026 (America/Chicago), for everyone including the
+owner, participants 18+, on five cadences derived from his weekly Principal
+Dividends schedule — Daily $714.29 · Weekly $5,000.00 · Monthly $21,666.67 ·
+Quarterly $65,000.00 · Annually $260,000.00 at Period 1. His personal account
+carries the 200,343,660-share position (250T, October 22, 2026 EST) with the
+schedule denominated in Trequadregintilliion INTE digital Dollars (TREQ 👑).
+The framework is his concept of record (CONCEPT / not a registered securities
+offering); execution is subordinate to the funded deployment and his approval
+rule. The owner's personal-account principal is held in his private archive
+only and appears nowhere in this repository.
