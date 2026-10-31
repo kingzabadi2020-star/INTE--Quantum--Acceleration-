@@ -156,3 +156,13 @@ blueprint at $9,750,000,000,000,000 gross capacity (INTE 🕋, delivered through
 the Mint Vault route, Plug wallet default), and 13 FDIC-insured app payout
 rails (Cash App first) as fiat alternatives. Blueprint status: staged —
 executes only under the funded deployment and the owner's approval rule. The implementation's Public Service Announcements channel is the owner's YouTube — ~INTE~ Interstellar Computer (https://www.youtube.com/@obsoftwarecopyrightitc) — monitored daily for new PSAs (blueprint Section 5).
+
+## INTE Link Protocol & Broadcasting Asset (added 2026-10-31)
+
+The owner's mobile and local WiFi computer protocol and independent
+broadcasting services (`assets/inte-broadcast-protocol-asset.md`): the INTE
+Link Protocol (Mobile Link / Local WiFi Layer / Computer Nodes; identity
+anchored to his Plug profiles; INTE 🕋 value unit; Internet Computer
+settlement) and broadcasting under his own mark — PSAs on the YouTube channel
+of record — implemented in the private INTE Broadcast Terminal. INTE —
+Powered by OBSOFTWARE™. Blueprint: design of record, staged.
