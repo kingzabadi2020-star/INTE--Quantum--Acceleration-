@@ -58,6 +58,14 @@ own screenshot: Swap / Limit tabs, pair selector, 0.5% slippage setting.
    inte_eth, inte_sol) unified by the cross-chain DeFi ledger (inte_xledger,
    £250 daily gross, owner figure).
 
+## Multi-chain receive directory
+
+Registered by the owner on 2026-10-31 for the Plug wallet release: Bitcoin (Taproot),
+Solana, Dogecoin, and Internet Computer (principal + account) — all five checksums
+verified on receipt. The terminals send and receive across these chains through the
+ICP Holdings Terminal's Send / Receive Directory. **The addresses themselves are held
+only in the owner's private terminals and records — they never enter this repository.**
+
 ## Standing rules carried in this deployment
 
 - Seed phrases, passwords, and wallet identifiers NEVER enter this repository.
