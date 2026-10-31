@@ -113,3 +113,13 @@ Plug wallet integration (`assets/black-ent-asset-registry.md`):
   scale to Unvigintillion (10^66), each asset carrying its own printed scaled
   amount from the document.
 - All 252 assets: STAGED — Plug wallet assets, under the owner's approval rule.
+
+## Mecca Scale (added 2026-10-31)
+
+The owner's named measured scale (`mecca-scale.md`): the ladder runs from
+**Quindecillion Dollars (10^48)** to **Trequadragintillion (10^132)** — 29 levels
+on the adopted layout — and the horizon expands from the standing 250 periods to
+**3,000 annual periods**. Period 1 = 1.000000 × 10^48; Period 3000 =
+1.000000 × 10^132; the ascent is a constant factor of 10^(84/2999) ≈ 1.066619
+per year. Full 3,000-period schedule in the owner's workbook
+(Mecca_Scale_3000_Periods.xlsx, held in his files).
