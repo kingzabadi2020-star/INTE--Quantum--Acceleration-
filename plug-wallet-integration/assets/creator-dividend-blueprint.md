@@ -386,6 +386,10 @@ single person routed through the 25 platforms of Section 1.
   are measured.
 - **Account destinations:** the owner's Plug wallet and the owner's SoFi
   account, both named by his direct order of 2026-10-31.
+- **Deposit signature (owner's rule, 2026-10-31):** every single direct deposit
+  is signed with the owner's logo (the phoenix-astronaut emblem of record) and
+  his software system — *Processed and signed by the OBSOFTWARE™ software
+  system · OBSOFTWARE@COPYRIGHT.ITC*.
 
 Account of record: `inte-broker-account-sovereign-wealth.md` (full record,
 ladder landmarks, and computed totals).

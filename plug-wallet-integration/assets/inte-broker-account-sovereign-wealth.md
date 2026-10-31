@@ -117,6 +117,20 @@ into either runs through the funded deployment and the owner's own actions.
   (deployer → Mint Vault → destination), per the Minting Scale & Phases of
   record (Phase 3 — Distribution & Holdings Funding).
 
+## Direct Deposit Signature (owner's rule, 2026-10-31)
+
+**Every single direct deposit is signed with the owner's logo and software
+system.** Each deposit issued through this account carries:
+
+- the owner's logo of record — the phoenix-astronaut emblem (his artwork,
+  filed 2026-10-31 at `~/workspace/user/archive/inte-logo-emblem-2026-10-31.png`);
+- the software-system attestation: *Processed and signed by the OBSOFTWARE™
+  software system · OBSOFTWARE@COPYRIGHT.ITC*;
+- his signature block: *Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃,
+  Independent Owner · © All Rights Reserved*.
+
+An unsigned deposit is not a deposit of this account.
+
 ## Status
 
 **BLUEPRINT — STAGED.** The INTE Broker Account is the owner's distribution

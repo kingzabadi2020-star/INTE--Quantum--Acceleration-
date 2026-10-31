@@ -178,4 +178,4 @@ Increase ladder ($7,000.00 → $1,628,808,285,814.00; full ladder
 $24,790,168,130,208.83). The account also carries his three value schedules of
 record (After DRIP Value, New Balance, Principal Dividends in Octillion
 Dollars) under its named destinations: his Plug wallet and his SoFi account.
-Blueprint: staged, under his approval rule.
+Blueprint: staged, under his approval rule. Deposit signature (owner's rule, 2026-10-31): every single direct deposit is signed with the owner's logo (the phoenix-astronaut emblem of record) and the OBSOFTWARE™ software system attestation.
