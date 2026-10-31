@@ -1,0 +1,11 @@
+# Quantum ADI — the merged blueprint as a read-core canister (OBSOFTWARE@COPYRIGHT.ITC)
+# Deploy with: icp deploy -e ic --identity mecca-deployer
+# (NOT part of the armed deployment set; deploys only under the funded
+# deployment and on the owner's word — see README.md Status)
+
+canisters:
+  - name: quantum_adi
+    build:
+      steps:
+        - type: pre-built
+          path: dist/quantum-adi.wasm

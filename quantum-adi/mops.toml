@@ -1,0 +1,14 @@
+[toolchain]
+moc = "1.15.1"
+
+[dependencies]
+core = "2.6.2"
+
+[moc]
+args = ["-W=M0223,M0236,M0237"]
+
+[canisters.quantum-adi]
+main = "src/backend/main.mo"
+
+[build]
+outputDir = "dist"

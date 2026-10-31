@@ -1,0 +1,55 @@
+type TreasuryWaterfall = 
+ record {
+   ecosystemOperationsNetworkAudit: nat;
+   humanitarianCivicInnovation: nat;
+   rdInterstellarInfrastructure: nat;
+   sovereignLiquidityReserve: nat;
+ };
+type MergedSystem = 
+ record {
+   brand: text;
+   designation: text;
+   mergeStatus: text;
+   program: text;
+   status: text;
+ };
+type Governance = 
+ record {
+   authority: text;
+   clearingFeeBps: nat;
+   copyright: text;
+   framework: text;
+   vaultRecord: text;
+   waterfall: TreasuryWaterfall;
+ };
+type BotFleet = 
+ record {
+   background: text;
+   divisions: vec BotDivision;
+   status: text;
+   totalBots: nat;
+ };
+type BotDivision = 
+ record {
+   name: text;
+   ticker: text;
+ };
+type AccessPoint = 
+ record {
+   name: text;
+   role: text;
+ };
+type AccessLayer = 
+ record {
+   accessPoints: vec AccessPoint;
+   layers: vec text;
+   protocol: text;
+   status: text;
+ };
+service : {
+  getAccessLayer: () -> (AccessLayer) query;
+  getApprovalRule: () -> (text) query;
+  getBotFleet: () -> (BotFleet) query;
+  getGovernance: () -> (Governance) query;
+  getMergedSystem: () -> (MergedSystem) query;
+}
