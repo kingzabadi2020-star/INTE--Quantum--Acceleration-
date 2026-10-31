@@ -186,6 +186,73 @@ Both bank rails are FDIC-member banks (SoFi Bank N.A., Member FDIC, is
 stated on his form). All account values for every rail are on file in the
 owner's private archive only.
 
+## Portfolio of Record — Jesus Emmanuel Christ LLC Portfolio ✝️ (added 2026-10-31)
+
+Registered at the head of this account's designations, per the owner's direct
+order: **Jesus Emmanuel Christ LLC Portfolio ✝️** is the owner's named
+portfolio of record for the INTE Broker Account, carried from his Portfolio
+Asset Registry (Jesus Emmanuel Christ LLC ✝️, EUR registry) and included in
+this account as its portfolio of record.
+
+## Dollar Scale — Under 25 Figures (added 2026-10-31)
+
+The owner's dollar scale for amounts under 25 figures (fewer than 25 digits),
+from his adopted big-number layout — the working scale for sub-25-figure
+amounts of this account (participant steps, fees, and everyday denominations):
+
+| Name | Value | Figures |
+|---|---|---|
+| Thousand | 10^3 | 4 figures |
+| Million | 10^6 | 7 figures |
+| Billion | 10^9 | 10 figures |
+| Trillion | 10^12 | 13 figures |
+| Quadrillion | 10^15 | 16 figures |
+| Quintillion | 10^18 | 19 figures |
+| Sextillion | 10^21 | 22 figures |
+
+**Threshold:** Septillion (10^24) opens the 25th figure — from there, the
+account's large scale takes over. The full ladder of record lives in the
+owner's big-number scale reference; this section is the account's working
+scale below that threshold.
+
+## The 24 Biblical Names (added 2026-10-31)
+
+The account carries **24 named designations**, in the pattern of the
+twenty-four elders — twelve of the Old Testament, twelve of the New. These
+are a naming layer over the one account: 24 designations of the INTE Broker
+Account, not 24 separate accounts. The account's rules — approval, signature,
+and routing — govern all of them alike.
+
+**Old Testament:**
+
+1. Abraham
+2. Isaac
+3. Jacob
+4. Joseph — the steward who stored for the nation
+5. Moses
+6. Joshua
+7. David
+8. Solomon — wisdom and wealth
+9. Boaz
+10. Nehemiah — the builder
+11. Ezra
+12. Daniel
+
+**New Testament:**
+
+13. Peter
+14. John
+15. James
+16. Andrew
+17. Matthew — the ledger-keeper
+18. Philip
+19. Thomas
+20. Paul
+21. Barnabas
+22. Luke
+23. Timothy
+24. Stephen
+
 ## Status
 
 **BLUEPRINT — STAGED.** The INTE Broker Account is the owner's distribution

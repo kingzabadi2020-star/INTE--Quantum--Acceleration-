@@ -206,3 +206,13 @@ governing directive set (deposit signature, approval rule, this routing); and
 program rails — Plug wallet (default), SoFi (direct), and Huntington Bank.
 All bank account details stay in the owner's private archive and appear
 nowhere in this repository.
+
+## Broker Account — Scale, Names, and Portfolio of Record (2026-10-31)
+
+The INTE Broker Account record now also carries: the owner's dollar scale for
+under 25 figures (Thousand 10^3 through Sextillion 10^21, with Septillion
+10^24 opening the 25th figure, where the large scale takes over); the 24
+Biblical Names — the account's named designations in the pattern of the
+twenty-four elders, twelve of the Old Testament and twelve of the New; and,
+at the head of the designations, his portfolio of record: Jesus Emmanuel
+Christ LLC Portfolio ✝️, carried from his Portfolio Asset Registry.

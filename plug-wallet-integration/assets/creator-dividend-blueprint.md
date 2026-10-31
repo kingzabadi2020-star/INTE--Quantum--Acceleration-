@@ -416,6 +416,28 @@ single person routed through the 25 platforms of Section 1.
   his Huntington direct deposit enrollment is likewise on file in his
   private archive (form archived 2026-10-15). Both bank rails are
   FDIC-member banks (SoFi Bank N.A., Member FDIC, is stated on his form).
+- **Portfolio of record (added 2026-10-31):** **Jesus Emmanuel Christ LLC
+  Portfolio ✝️** — the owner's named portfolio of record, registered at the
+  head of the account's designations and carried from his Portfolio Asset
+  Registry (Jesus Emmanuel Christ LLC ✝️, EUR registry), per his direct
+  order.
+- **Dollar scale — under 25 figures (added 2026-10-31):** the account's
+  working scale for amounts under 25 figures, from the owner's adopted
+  big-number layout — Thousand 10^3 (4 figures) · Million 10^6 (7) ·
+  Billion 10^9 (10) · Trillion 10^12 (13) · Quadrillion 10^15 (16) ·
+  Quintillion 10^18 (19) · Sextillion 10^21 (22 figures); Septillion 10^24
+  opens the 25th figure, where the account's large scale takes over. The
+  full ladder of record lives in the owner's big-number scale reference.
+- **The 24 Biblical Names (added 2026-10-31):** the account's 24 named
+  designations, in the pattern of the twenty-four elders — a naming layer
+  over the one account, not 24 separate accounts; the account's approval,
+  signature, and routing rules govern all of them alike. Old Testament:
+  1 Abraham · 2 Isaac · 3 Jacob · 4 Joseph (the steward who stored for the
+  nation) · 5 Moses · 6 Joshua · 7 David · 8 Solomon (wisdom and wealth) ·
+  9 Boaz · 10 Nehemiah (the builder) · 11 Ezra · 12 Daniel. New Testament:
+  13 Peter · 14 John · 15 James · 16 Andrew · 17 Matthew (the
+  ledger-keeper) · 18 Philip · 19 Thomas · 20 Paul · 21 Barnabas · 22 Luke ·
+  23 Timothy · 24 Stephen.
 
 Account of record: `inte-broker-account-sovereign-wealth.md` (full record,
 ladder landmarks, and computed totals).
