@@ -1,0 +1,24 @@
+type CrossChainLedgerInfo = 
+ record {
+   approvalRule: text;
+   canister: text;
+   chains: vec ChainNode;
+   copyright: text;
+   dailyGross: text;
+   name: text;
+   note: text;
+   plugProfiles: vec text;
+   poweredBy: text;
+   role: text;
+   scope: text;
+   status: text;
+ };
+type ChainNode = 
+ record {
+   chain: text;
+   ledgerPath: text;
+   nodeCanister: text;
+ };
+service : {
+  getCrossChainLedgerInfo: () -> (CrossChainLedgerInfo) query;
+}

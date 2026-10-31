@@ -1,0 +1,10 @@
+# INTE NFT — ICRC-7 collection canister (OBSOFTWARE@COPYRIGHT.ITC)
+# Deploy with: icp deploy -e ic --identity mecca-deployer
+# (mainnet only after cycles are funded and the owner gives the deploy word)
+
+canisters:
+  - name: inte_nft
+    build:
+      steps:
+        - type: pre-built
+          path: src/backend/dist/inte-nft.wasm

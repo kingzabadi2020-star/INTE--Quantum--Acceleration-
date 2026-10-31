@@ -1,0 +1,11 @@
+# INTE backend — clearing ledger canister (OBSOFTWARE@COPYRIGHT.ITC)
+# Deploy with: icp deploy -e ic --identity mecca-deployer
+# (mainnet only after cycles are funded and the owner gives the deploy word;
+#  see README.md / deploy.sh for the full step sequence)
+
+canisters:
+  - name: inte_backend
+    build:
+      steps:
+        - type: pre-built
+          path: src/backend/dist/inte-backend.wasm

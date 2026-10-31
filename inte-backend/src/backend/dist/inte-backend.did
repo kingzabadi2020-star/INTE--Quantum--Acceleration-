@@ -1,0 +1,78 @@
+type YieldResult = 
+ record {
+   clearingFee: float64;
+   dividendReturn: float64;
+ };
+type Transaction = 
+ record {
+   amount: text;
+   date: text;
+   entity: text;
+   fee: text;
+   id: text;
+ };
+type ReleaseInfo = 
+ record {
+   architect: text;
+   copyright: text;
+   kind: text;
+   name: text;
+   network: text;
+   payoutPercent: nat;
+   plugProfiles: vec text;
+   releaseStatus: text;
+ };
+type ProfileTopUp = 
+ record {
+   finalBalance: text;
+   firstBalance: text;
+   periods: nat;
+   profile: text;
+   status: text;
+ };
+type LedgerParams = 
+ record {
+   accountLabel: text;
+   architect: text;
+   brand: text;
+   clearingNode: text;
+   clearingStatus: text;
+   copyright: text;
+   dailyRate: text;
+   dividendYieldPercent: nat;
+   entity: text;
+   feeBasisPoints: nat;
+   primaryReserve: text;
+   termEnd: text;
+   termStart: text;
+   termYears: nat;
+ };
+type CreditProtocol = 
+ record {
+   agentRole: text;
+   approverRole: text;
+   copyright: text;
+   creditSurface: text;
+   executionNote: text;
+   rule: text;
+ };
+type ApiEndpoint = 
+ record {
+   method: text;
+   purpose: text;
+   surface: text;
+ };
+service : {
+  calculateYield: (baseTrillions: float64, feeRatePercent: float64,
+   yieldPercent: float64) -> (YieldResult) query;
+  defaultYield: () -> (YieldResult) query;
+  getAfterDripSchedule: () -> (vec text) query;
+  getApiManifest: () -> (vec ApiEndpoint) query;
+  getClearingLedgerStatus: () -> (LedgerParams) query;
+  getCreditProtocol: () -> (CreditProtocol) query;
+  getPrincipalIncreaseSchedule: () -> (vec text) query;
+  getProfileTopUps: () -> (vec ProfileTopUp) query;
+  getReleaseInfo: () -> (ReleaseInfo) query;
+  getTopUpSchedule: () -> (vec text) query;
+  getTransactions: () -> (vec Transaction) query;
+}

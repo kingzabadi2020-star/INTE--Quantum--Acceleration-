@@ -1,0 +1,22 @@
+# Mecca token project — JERM + INTE ICRC-1 ledgers
+# Deploy with: icp deploy -e ic --identity mecca-deployer
+# (mainnet only after token amounts are finalized and cycles are funded)
+
+canisters:
+  - name: jerm_ledger
+    build:
+      steps:
+        - type: pre-built
+          path: wasm/ic-icrc1-ledger.wasm
+    init_args:
+      path: jerm_ledger_init.args
+      format: candid
+
+  - name: inte_ledger
+    build:
+      steps:
+        - type: pre-built
+          path: wasm/ic-icrc1-ledger.wasm
+    init_args:
+      path: inte_ledger_init.args
+      format: candid

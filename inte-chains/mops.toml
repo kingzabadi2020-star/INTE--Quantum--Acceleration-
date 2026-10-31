@@ -1,0 +1,23 @@
+[toolchain]
+moc = "1.15.1"
+
+[dependencies]
+core = "2.6.2"
+
+[moc]
+args = ["-W=M0223,M0236,M0237"]
+
+[canisters.inte-btc]
+main = "src/btc/main.mo"
+
+[canisters.inte-eth]
+main = "src/eth/main.mo"
+
+[canisters.inte-sol]
+main = "src/sol/main.mo"
+
+[canisters.inte-xledger]
+main = "src/xledger/main.mo"
+
+[build]
+outputDir = "dist"

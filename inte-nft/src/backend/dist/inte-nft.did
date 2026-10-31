@@ -1,0 +1,35 @@
+type Value = 
+ variant {
+   Array: vec Value;
+   Blob: blob;
+   Int: int;
+   Map: vec record {
+              text;
+              Value;
+            };
+   Nat: nat;
+   Text: text;
+ };
+type Account = 
+ record {
+   owner: principal;
+   subaccount: opt blob;
+ };
+service : {
+  icrc7_balance_of: (accounts: vec Account) -> (vec nat) query;
+  icrc7_collection_name: () -> (text) query;
+  icrc7_default_take_value: () -> (opt nat) query;
+  icrc7_max_memo_size: () -> (opt nat) query;
+  icrc7_max_query_batch_size: () -> (opt nat) query;
+  icrc7_max_take_value: () -> (opt nat) query;
+  icrc7_max_update_batch_size: () -> (opt nat) query;
+  icrc7_owner_of: (tokenIds: vec nat) -> (vec opt Account) query;
+  icrc7_supply_cap: () -> (opt nat) query;
+  icrc7_symbol: () -> (text) query;
+  icrc7_token_metadata: (tokenIds: vec nat) ->
+   (vec opt vec record {
+                  text;
+                  Value;
+                }) query;
+  icrc7_total_supply: () -> (nat) query;
+}

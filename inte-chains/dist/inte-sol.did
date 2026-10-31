@@ -1,0 +1,16 @@
+type IntegrationInfo = 
+ record {
+   approvalRule: text;
+   chain: text;
+   chainKeyAsset: text;
+   copyright: text;
+   deployStatus: text;
+   integrationPath: text;
+   modelNote: text;
+   network: text;
+   plugProfiles: vec text;
+   scope: text;
+ };
+service : {
+  getIntegrationInfo: () -> (IntegrationInfo) query;
+}

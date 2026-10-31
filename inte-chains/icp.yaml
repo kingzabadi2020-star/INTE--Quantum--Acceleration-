@@ -1,0 +1,25 @@
+# INTE Chains — separate chain integrations (OBSOFTWARE@COPYRIGHT.ITC)
+# Deploy with: icp deploy -e ic --identity mecca-deployer
+# (mainnet only after cycles are funded; owner deploy word given 2026-10-31)
+
+canisters:
+  - name: inte_btc
+    build:
+      steps:
+        - type: pre-built
+          path: dist/inte-btc.wasm
+  - name: inte_eth
+    build:
+      steps:
+        - type: pre-built
+          path: dist/inte-eth.wasm
+  - name: inte_sol
+    build:
+      steps:
+        - type: pre-built
+          path: dist/inte-sol.wasm
+  - name: inte_xledger
+    build:
+      steps:
+        - type: pre-built
+          path: dist/inte-xledger.wasm
