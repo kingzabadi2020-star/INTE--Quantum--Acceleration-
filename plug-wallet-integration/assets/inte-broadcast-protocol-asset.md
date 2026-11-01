@@ -86,6 +86,14 @@ The protocol operates under the standing rules of the merged system — the owne
 
 ---
 
+## Galactic Scale & Galactic AI (added 2026-10-31)
+
+**Galactic scale of the protocol:** at galactic scale the Bots Operations Protocol stands at **830,000,000,000 bots** — the galactic scale of record (owner's order, 2026-10-31). The **830,000,000** figure stands in the record as the protocol's initial designation; both figures remain of record, and the billion figure governs at galactic scale. The protocol's **operations currency at galactic scale is Light** — the owner's designation; no exchange rate or unit subdivision is stated around it.
+
+**Galactic AI:** designated as the **AI layer of AIFMA INTERGALACTIC**, at **intergalactic scale**. Its components of record: **inte_ai** (NOVA REGENT — system and education inference); **quantum_adi** (merged-system data of record); **INTE-BRAIN** (HYPERION — bot computational coordination); and the **Higher Education Analyst office** (MindSpark education analysis). Its operations currency at galactic scale is **Light**, as the protocol's. The full designation of record stands in the merged blueprint.
+
+---
+
 ## Galactic Wi-Fi — INTE & Galactic Cloud (added 2026-10-31)
 
 On the owner's order of 2026-10-31, this asset gains the galactic designations of the merged system:
