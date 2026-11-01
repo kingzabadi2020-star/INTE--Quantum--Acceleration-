@@ -44,4 +44,28 @@ Displayed values are rounded to 6 decimal places. The rounded column's residual 
 
 **STAGED** — an asset of record in the owner's model. No gold is purchased or held by this record, and the Digital Dollar Vault balances stand at their recorded states until the funded deployment. The asset activates inside the deployment sequence, on the owner's approval, under the merged designation KINGZABADI~PLUGGED_INTE_@OBSOFTWARES.INC.
 
+## Addendum — INTE Currency, Element Creations, and the Universe Measures (2026-10-31)
+
+On the owner's order of 2026-10-31, the tablesheet of record (`Element_Vault_Table_830_Quindecillion.xlsx`) now carries two further columns across all 118 element rows:
+
+- **Currency:** every element vault is denominated in the INTE currency for the digital Dollar of OBSOFTWARE@COPYRIGHT.ITC — **INTE 🕋 — digital Dollar** (118 of 118 rows).
+- **Item Used to Create:** for every single element, the item the element is used to create or make (118 of 118 rows) — e.g. Hydrogen: water, fuels, ammonia fertilizer; Carbon: steel, diamonds, all organic compounds; Gold: jewelry, electronics, coinage; Zinc: makeup and sunscreen, brass, batteries; Bismuth: stomach medicine, makeup pigment, alloys.
+
+**Status: ESTIMATED** — the creations of the elements (jewelry, makeup, and all things made) are **for humanity to survive: longevity generational wealth from 1776, independently owned, indefinitely.**
+
+**Multi-matrix rule: no cycles can be repeated in the multi matrix.**
+
+### The Universe Measures (owner's formulas, computed exactly)
+
+> **Every 1 in the universe is 10^250 × 9546261421358073^365 + 36^250 + 9.75^48**
+
+Computed exactly as written (arbitrary-precision integer and decimal arithmetic):
+
+- **Every 1 (U1) = 4.35675333012 × 10^6082** — the integer part of the total carries **6,083 digits**; its leading 12 significant digits are **4.35675333012**.
+- The dominant term, 10^250 × 9546261421358073^365, alone carries 6,083 digits and fixes those leading digits; the remaining terms stand exact beneath it: **36^250** (390 digits, opening 119021437664…), and **9.75^48 = 296634427183081888196884901391329132631040972026.955971365632771835667723098729583108196588080212319758245664846896261224173940718173980712890625** exactly.
+- **Every 0 is measured in Quindecillions** (10^48), using the same scale.
+- **Light-year reach:** per **0.03 seconds** on the owner's cadence (the Sovereign Measurement Doctrine's tick), one single light-year at light speed spans exactly **1,051,200,000 ticks** — his ticks-per-365-day-year figure of record (31,536,000 seconds × 33⅓ ticks per second).
+
+**Plain line:** the Universe Measures are the owner's formulas and designations of record, computed exactly as written — the digit count and scientific results above are the arithmetic of his formula. The measures are carried by the owner's **Buzz Light-Year Portfolio 🚀** (Portfolio Asset Registry, USD entry 43, ticker BUZZ) and are linked to this 830 Quindecillion element asset.
+
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
