@@ -10,6 +10,7 @@ mixin (
   dripMergerIntegration : Types.DripMergerIntegration,
   exoplanetMeasurement : Types.ExoplanetMeasurement,
   designSystems : Types.DesignSystems,
+  installmentsMerge : Types.InstallmentsMerge,
   approvalRule : Text
 ) {
   // The merged system record: designation, program, brand, and the
@@ -76,6 +77,19 @@ mixin (
   // account, service, or integration is created or claimed.
   public query func getDesignSystems() : async Types.DesignSystems {
     designSystems;
+  };
+
+  // The owner's Installments Intelligence Merge (2026-10-31):
+  // the Quantum IPO Installments framework of record (commence-
+  // ment 12:00 AM November 1, 2026; Daily · Weekly · Monthly ·
+  // Quarterly · Annually; everyone including the owner, 18+)
+  // with Muse (his agent of record) and Gemini (material of
+  // record, no live connection) merged for it, its compliance
+  // surfaces on iOS Cloud and Android — and X and Grok HELD,
+  // not merged: Elon Musk companies, removed under the owner's
+  // 2026-10-31 removal directive, pending his ruling.
+  public query func getInstallmentsMerge() : async Types.InstallmentsMerge {
+    installmentsMerge;
   };
 
   // The owner's standing approval rule.

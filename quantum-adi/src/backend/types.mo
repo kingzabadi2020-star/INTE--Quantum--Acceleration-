@@ -159,4 +159,26 @@ module {
     status : Text;
     approval : Text;
   };
+
+  // The owner's Installments Intelligence Merge (order of
+  // 2026-10-31): the Quantum IPO Installments framework of
+  // record carried with the intelligence surfaces merged for
+  // it — Muse (his agent of record) and Gemini (material of
+  // record as handed over by the owner; no live connection) —
+  // and its designated mobile cloud compliance surfaces, iOS
+  // Cloud and Android. X and Grok are NOT merged: both are
+  // Elon Musk companies (X Corp and xAI), and Elon Musk stands
+  // removed under the owner's removal directive of 2026-10-31;
+  // they are held pending the owner's ruling.
+  public type InstallmentsMerge = {
+    framework : Text;
+    cadences : Text;
+    muse : Text;
+    gemini : Text;
+    heldSystems : Text;
+    complianceSurfaces : Text;
+    systemDesignation : Text;
+    status : Text;
+    approval : Text;
+  };
 };

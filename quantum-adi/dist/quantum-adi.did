@@ -23,6 +23,18 @@ type MergedSystem =
    program: text;
    status: text;
  };
+type InstallmentsMerge = 
+ record {
+   approval: text;
+   cadences: text;
+   complianceSurfaces: text;
+   framework: text;
+   gemini: text;
+   heldSystems: text;
+   muse: text;
+   status: text;
+   systemDesignation: text;
+ };
 type Governance = 
  record {
    authority: text;
@@ -119,6 +131,7 @@ service : {
   getExoplanetMeasurement: () -> (ExoplanetMeasurement) query;
   getGalacticAI: () -> (GalacticAI) query;
   getGovernance: () -> (Governance) query;
+  getInstallmentsMerge: () -> (InstallmentsMerge) query;
   getMergedSystem: () -> (MergedSystem) query;
   getSovereignMeasurement: () -> (SovereignMeasurement) query;
 }
