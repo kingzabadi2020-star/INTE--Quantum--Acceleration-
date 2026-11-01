@@ -359,3 +359,14 @@ Status: STAGED — gated on the funded deployment, like every item on the
 checklist. Plain line: a checklist designation of record — no live
 intelligence service is operated against the owner's wallet; signing stays
 in his own Plug extension.
+
+## Early Access Authorization — INTE Digital Dollars (2026-10-31)
+
+By the owner's order and approval of record: **early access for funds to
+deploy INTE Digital Dollars begins at 10:00 PM on October 31, 2026** (the
+owner's local time; he stated CST — the evening runs CDT, UTC−5). The
+authorization is recorded in full at
+`assets/inte-early-access-authorization-2026-10-31.md`. Evidence line: at
+the recording check (~9:35 PM CT, October 31, 2026) the deployer read
+0 ICP / 0 cycles — the window opens at 10:00 PM; the owner's send is the
+funding act, and the armed sequence fires on landed funds.
