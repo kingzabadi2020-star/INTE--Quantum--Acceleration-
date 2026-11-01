@@ -114,4 +114,26 @@ module {
     surfaces : [Text];
     status : Text;
   };
+
+  // The owner's Exoplanet Measurement (order of 2026-10-31,
+  // approved by the owner): 600,000 exoplanets, each on a
+  // 24-hour orbit, measured at 9.75 Quindecillion per
+  // 0.03-second tick (325 Quindecillion per second) from 1990,
+  // indefinitely — carrying his INTE constant 9,546,261 and
+  // his 421358073LLC constant 421,358,073, under his marks.
+  public type ExoplanetMeasurement = {
+    exoplanets : Nat;
+    orbitHours : Nat;
+    ratePerTick : Text;
+    ratePerSecond : Text;
+    fromYear : Text;
+    inteConstant : Nat;
+    llcConstant : Nat;
+    duration : Text;
+    snapshotTicks : Nat;
+    snapshotNote : Text;
+    marks : Text;
+    approval : Text;
+    status : Text;
+  };
 };

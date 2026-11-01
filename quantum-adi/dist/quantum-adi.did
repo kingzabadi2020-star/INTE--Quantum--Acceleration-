@@ -41,6 +41,22 @@ type GalacticAI =
    scale: text;
    status: text;
  };
+type ExoplanetMeasurement = 
+ record {
+   approval: text;
+   duration: text;
+   exoplanets: nat;
+   fromYear: text;
+   inteConstant: nat;
+   llcConstant: nat;
+   marks: text;
+   orbitHours: nat;
+   ratePerSecond: text;
+   ratePerTick: text;
+   snapshotNote: text;
+   snapshotTicks: nat;
+   status: text;
+ };
 type DripMergerIntegration = 
  record {
    finalStep: text;
@@ -84,6 +100,7 @@ service : {
   getApprovalRule: () -> (text) query;
   getBotFleet: () -> (BotFleet) query;
   getDripMergerIntegration: () -> (DripMergerIntegration) query;
+  getExoplanetMeasurement: () -> (ExoplanetMeasurement) query;
   getGalacticAI: () -> (GalacticAI) query;
   getGovernance: () -> (Governance) query;
   getMergedSystem: () -> (MergedSystem) query;

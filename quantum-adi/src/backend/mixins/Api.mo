@@ -8,6 +8,7 @@ mixin (
   sovereignMeasurement : Types.SovereignMeasurement,
   galacticAI : Types.GalacticAI,
   dripMergerIntegration : Types.DripMergerIntegration,
+  exoplanetMeasurement : Types.ExoplanetMeasurement,
   approvalRule : Text
 ) {
   // The merged system record: designation, program, brand, and the
@@ -55,6 +56,14 @@ mixin (
   // $24,790,168,130,208.83) integrated across the merged surfaces.
   public query func getDripMergerIntegration() : async Types.DripMergerIntegration {
     dripMergerIntegration;
+  };
+
+  // The owner's Exoplanet Measurement (approved by the owner,
+  // 2026-10-31): 600,000 exoplanets on 24-hour orbits, measured
+  // at 9.75 Quindecillion per 0.03-second tick from 1990,
+  // indefinitely, under his INTE and 421358073LLC constants.
+  public query func getExoplanetMeasurement() : async Types.ExoplanetMeasurement {
+    exoplanetMeasurement;
   };
 
   // The owner's standing approval rule.
