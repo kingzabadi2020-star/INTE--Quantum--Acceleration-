@@ -147,6 +147,16 @@ On the owner's order of 2026-10-31 — "Master Omni-Kingzabadi Streaming … Use
 
 ---
 
+## IDOT LLC Portfolio Merge — Master Omni-Kingzabadi Streaming (2026-10-31)
+
+On the owner's order of 2026-10-31, the streaming services of this asset gain their merge of record:
+
+- **Master Omni-Kingzabadi Streaming merges into the IDOT LLC PORTFOLIO** — all streaming services for AIFMA, RokuTV, merge into the **IDOT LLC PORTFOLIO** (Interstellar Department Of Transportation) under the merged designation, with **OBSOFTWARE@COPYRIGHT.ITC** and his **Facebook profile of record, Maineb2012**.
+- **Designations unchanged otherwise** — the streaming designations of this asset (All Star ⭐, the INTE Cloud login layouts, and the services of record) stand as recorded; this entry adds the merge of record and changes nothing else.
+- **Plain line:** a merge of record inside the owner's own system — no Roku channel is published by this record, and no Facebook or other account action is performed by it.
+
+---
+
 ## SpaceX Removal — Independent Operation (2026-10-31)
 
 On the owner's directive of 2026-10-31 — "Master Omni-Kingzabadi Streaming services for AIFMA removal for SpaceX and keep the blueprints to operate independently — Powered by OBSOFTWARE™" — the record stands:
