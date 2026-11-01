@@ -445,6 +445,35 @@ Ten uploads, all distinct files, held in the owner's uploaded files of record: t
 
 ---
 
+## AIFMA Merger — 5T Bots, ICPL Portfolio Connections, Payroll Assignment Tasks (2026-10-31)
+
+On the owner's order of 2026-10-31, **all of AIFMA merges as one system** under the merged designation **KINGZABADI~PLUGGED_INTE_@OBSOFTWARES.INC**.
+
+### The parts of the merger
+
+- **AIFMA INTERGALACTIC** — the program banner of the merged system, whose AI layer is **Galactic AI** (see the Galactic AI section above).
+- **AIFMA_PROFILE** — the issuing profile of the MindSpark Implementation (see the MindSpark sections above).
+- **The AIFMA Leadership domain** — the leadership domain of his Executive Portfolio of record.
+- **The Higher Education Analyst office** — the MindSpark implementation's analyst office, reporting to the Tucalusca Universal College Treasury Board.
+
+### The fleet of the merger
+
+The AIFMA merger carries its own fleet designation of record: **5T bots = 5,000,000,000,000 bots**. This is the merger's own figure — a staged program figure, not a deployed fleet. It stands alongside, and does not overwrite, the Bots Operations Protocol's designations of record: **830,000,000 bots** (the protocol's initial designation) and **830,000,000,000 bots** at galactic scale, which governs at galactic scale.
+
+### Connections — the ICPL Portfolio
+
+All connections to the owner's **Internet Computer / Interstellar Computer Protocol ICPL Portfolio** are included in the merger: the merged AIFMA system connects across the ICPL Portfolio's positions and designations of record. **Cross-reference:** the ICPL Portfolio itself already merges into INTE under the ICPL Portfolio Merge recorded above, with INTE as the surviving system and brand — the AIFMA merger's connections run through that merged portfolio of record.
+
+### Function of record — payroll assignment tasks
+
+The merged AIFMA system's function of record under this merger is **payroll assignment tasks**: the assignment of tasks for payroll across the owner's programs and entities of record. Execution remains gated on the funded deployment and stands under the owner's approval rule. **Stated plainly:** this is a program designation of record, not a live payroll system moving funds.
+
+**Frequencies cross-reference:** the designated frequencies of record for the Spaceforce technologies this system serves stand in the **Spaceforce Technology Frequencies** section of the INTE Spaceforce Names Register (`assets/inte-spaceforce-names-register.md`).
+
+**Status: MERGER RECORDED** on the owner's word, 2026-10-31. Implementation is staged under the funded deployment, in the same order as the rest of the merged system.
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.

@@ -105,6 +105,32 @@
 | ZABADI PRIME | King Zabadi Dashboard |
 | ZENITH | Tap Pay Terminal |
 
+## Spaceforce Technology Frequencies (2026-10-31)
+
+Created on the owner's order of 2026-10-31: the designated frequencies of record for the Spaceforce technologies — the eleven bot divisions of the Bots Operations Protocol and the four access-layer technologies of the INTE Link Protocol.
+
+**The scheme of record:** designated channels **SF-01 through SF-15**, in ascending order, each carrying one carrier frequency of record. The band opens at **2,400.00 MHz** and ascends in even **25.00 MHz** steps to **2,750.00 MHz** — fifteen channels, fifteen technologies, one frequency each. The eleven bot divisions take SF-01 through SF-11 in the Bots Operations Protocol's ticker order; the four access-layer technologies take SF-12 through SF-15.
+
+| Channel | Technology of Record | Carrier Frequency of Record |
+|---|---|---|
+| SF-01 | **INTE** — The Fleet, master (PHOENIX ASCENDANT) | 2,400.00 MHz |
+| SF-02 | **INTE-BRAIN** — Brain Division, computational coordination (HYPERION) | 2,425.00 MHz |
+| SF-03 | **INTE-PWR** — Power Points Operations (HELIOS) | 2,450.00 MHz |
+| SF-04 | **INTE-WAD** — WAD Wi-Fi Access Point Operations (ZEPHYR) | 2,475.00 MHz |
+| SF-05 | **INTE-LINK** — Mobile Link Operations (MERIDIAN) | 2,500.00 MHz |
+| SF-06 | **INTE-NODE** — Computer Nodes Operations (STARFORGE) | 2,525.00 MHz |
+| SF-07 | **INTE-CAST** — Broadcasting Services Operations (AURORA PRIME) | 2,550.00 MHz |
+| SF-08 | **INTE-CLR** — Clearing Operations (EQUINOX) | 2,575.00 MHz |
+| SF-09 | **INTE-DIST** — Distribution Operations (RADIANT) | 2,600.00 MHz |
+| SF-10 | **INTE-REG** — Registry & Records Operations (OBSIDIAN STAR) | 2,625.00 MHz |
+| SF-11 | **INTE-VAULT** — Vault & Mint Delivery Operations (CELESTIA) | 2,650.00 MHz |
+| SF-12 | **Power Points** — access-layer technology | 2,675.00 MHz |
+| SF-13 | **WAD Wi-Fi Access Point / Galactic Wi-Fi** — access-layer technology | 2,700.00 MHz |
+| SF-14 | **Mobile Link** — access-layer technology | 2,725.00 MHz |
+| SF-15 | **Computer Nodes** — access-layer technology | 2,750.00 MHz |
+
+**Stated plainly:** these frequencies are internal designations of record for the owner's system design; they are not licensed, allocated, or assigned radio spectrum by any regulator, and no transmission on them is claimed.
+
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
