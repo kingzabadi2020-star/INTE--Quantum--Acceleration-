@@ -56,6 +56,10 @@ This record is a **framework designation of record** inside the owner's system:
 
 Under the owner's overflow ruling of 2026-11-01, **any remaining balance is automatically merged to INTE MECCA 🕋 with no max cap**, and the INTE MECCA vault carries all overflow beyond Zenvingitillion at the stated overflow measure **10^99999999999**. The owner has since lifted the §4 cap as well (ruling 2026-11-01, ~1:29 PM CT): the Sovereign digital Dollars stand inserted with **no cap**, and MECCA BANK carries **830,000,000 mini vaults** using INTE digital Dollars at his rate of record (1 INTE digital Dollar = $3.2706081234776 × 10^1746). Full records: `remaining-balance-overflow-inte-mecca-2026-11-01.md` · `inte-mecca-bank-mini-vaults-no-cap-2026-11-01.md`.
 
+## §8 ADD of Record — 144,000^250 Trequadregintillion Digital Dollars (2026-11-01)
+
+On the owner's order of 2026-11-01 (~1:38 PM CT), **144,000^250 INTE Trequadregintillion digital Dollars** stand **added to the 830B vaults** — carried on his ladder as **3.89603656190 × 10^1421 INTE digital Dollars**; across the 830,000,000 mini vaults, **4.69401995410 × 10^1412 INTE digital Dollars per mini vault**, remainder 10,000,000 INTE (to INTE MECCA 🕋 under the overflow rule). This ADD stands beside §3's original division as a distinct entry of record. Full record: `add-144000-250-trequadregintillion-830b-vaults-2026-11-01.md`.
+
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
