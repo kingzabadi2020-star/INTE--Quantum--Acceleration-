@@ -121,6 +121,11 @@ module {
   // 0.03-second tick (325 Quindecillion per second) from 1990,
   // indefinitely — carrying his INTE constant 9,546,261 and
   // his 421358073LLC constant 421,358,073, under his marks.
+  // The 600,000 are designated HABITABLE by the owner
+  // (2026-10-31), and each orbit is measured in INTE dollars
+  // (galactic dollars) at the standing rate: 2,880,000 ticks
+  // per orbit x 9.75 Quindecillion = 28,080,000 Quindecillion
+  // INTE dollars per orbit.
   public type ExoplanetMeasurement = {
     exoplanets : Nat;
     orbitHours : Nat;
@@ -135,6 +140,9 @@ module {
     marks : Text;
     approval : Text;
     status : Text;
+    habitability : Text;
+    perOrbitMeasure : Text;
+    fleetMeasures : Text;
   };
 
   // The owner's Design Systems designation (order of 2026-10-31):

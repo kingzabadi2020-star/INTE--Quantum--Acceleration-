@@ -64,6 +64,8 @@ mixin (
   // 2026-10-31): 600,000 exoplanets on 24-hour orbits, measured
   // at 9.75 Quindecillion per 0.03-second tick from 1990,
   // indefinitely, under his INTE and 421358073LLC constants.
+  // The 600,000 are designated habitable by the owner, and
+  // each orbit is measured in INTE dollars (galactic dollars).
   public query func getExoplanetMeasurement() : async Types.ExoplanetMeasurement {
     exoplanetMeasurement;
   };

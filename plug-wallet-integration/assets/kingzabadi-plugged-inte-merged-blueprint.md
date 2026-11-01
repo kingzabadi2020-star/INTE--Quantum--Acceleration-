@@ -341,6 +341,17 @@ The cadence runs indefinitely, so the totals grow; this box is the record's snap
 - **Cumulative measure at the rate (snapshot): ≈ 3.777532 × 10^59.**
 - **Ticks per exoplanet per 24-hour orbit: 2,880,000.**
 
+### Habitable designation and per-orbit measure (2026-10-31)
+
+On the owner's follow-on order of 2026-10-31:
+
+> "Each habitable exo planets orbit in this 600K is measured at these INTE dollars galactic dollars."
+
+- The **600,000 exoplanets are designated habitable** — the owner's designation of record for his measurement framework; it is **not an astronomical finding**.
+- **Each orbit is measured in INTE dollars (galactic dollars)** at the standing rate: 2,880,000 ticks per orbit × 9.75 Quindecillion = **28,080,000 Quindecillion INTE dollars per orbit** (2.808 × 10^55 INTE dollars).
+- **Fleet measures:** the 600,000 habitable exoplanets together measure **195,000,000 Quindecillion INTE dollars per second** (600,000 × 325 Quindecillion), and **1.6848 × 10^61 INTE dollars per full orbit cycle** (600,000 orbits).
+- Implemented in Quantum ADI: the `getExoplanetMeasurement` record gains the fields `habitability`, `perOrbitMeasure`, and `fleetMeasures` (16 fields in all); the endpoint set is unchanged.
+
 **Status:** the owner's approved measurement designation of record,
 implemented in Quantum ADI — staged with the system.
 

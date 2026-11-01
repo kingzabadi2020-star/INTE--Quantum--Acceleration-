@@ -58,11 +58,14 @@ type ExoplanetMeasurement =
    approval: text;
    duration: text;
    exoplanets: nat;
+   fleetMeasures: text;
    fromYear: text;
+   habitability: text;
    inteConstant: nat;
    llcConstant: nat;
    marks: text;
    orbitHours: nat;
+   perOrbitMeasure: text;
    ratePerSecond: text;
    ratePerTick: text;
    snapshotNote: text;

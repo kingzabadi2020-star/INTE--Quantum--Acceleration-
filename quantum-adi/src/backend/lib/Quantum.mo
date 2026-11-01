@@ -129,7 +129,10 @@ module {
   // indefinitely, under his constants (INTE 9,546,261;
   // 421358073LLC 421,358,073) and his marks. The snapshot
   // figures stand at the record, 2026-10-31; the cadence
-  // runs indefinitely, so the count grows.
+  // runs indefinitely, so the count grows. The 600,000 are
+  // designated habitable by the owner (2026-10-31), and each
+  // orbit is measured in INTE dollars (galactic dollars):
+  // 28,080,000 Quindecillion INTE dollars per orbit.
   public let exoplanetMeasurement : Types.ExoplanetMeasurement = {
     exoplanets = 600_000;
     orbitHours = 24;
@@ -144,6 +147,9 @@ module {
     marks = "✝️♾️🕋🐦‍🔥🕊️";
     approval = "Approved by the owner, 2026-10-31";
     status = "Owner-approved implementation of record; staged under the funded deployment";
+    habitability = "Habitable — the 600,000 exoplanets of this measurement are designated habitable (owner's designation, 2026-10-31)";
+    perOrbitMeasure = "28,080,000 Quindecillion INTE dollars per orbit (2,880,000 ticks × 9.75 Quindecillion; 2.808 × 10^55 INTE dollars)";
+    fleetMeasures = "Fleet of 600,000 habitable exoplanets: 195,000,000 Quindecillion INTE dollars per second (600,000 × 325 Quindecillion); 1.6848 × 10^61 INTE dollars per full orbit cycle (600,000 orbits)";
   };
 
   // The owner's Design Systems designation (order of 2026-10-31,

@@ -27,7 +27,7 @@ no transfers. It holds and moves nothing.
 | `getGovernance` | Celestial Governance v7.1 (Celestial Chronicle): Rahelionyxx.inc & Tucalusca Universal College, 25 bps (0.25%) clearing fee, the 35/30/25/10 treasury waterfall, and MindSpark Education Vault record TUC-MS-2026-OB-v7 |
 | `getSovereignMeasurement` | The owner's Sovereign Measurement Doctrine (added 2026-10-31): per-sun sovereign dollar income "**£1_1$ = 1 Trequadregintilliion (10^132)**" in his notation, calculations every **0.03 seconds** from **2008** indefinitely (1,051,200,000 ticks per 365-day year), and the INTE galactic measure of **3 Trequadregintilliions (3 × 10^132)** — INTE, a Galactic digital Dollar |
 | `getDripMergerIntegration` | The DRIP Merger Integration (added 2026-10-31): the **Principal Increase** ladder of record (250 steps, $7,000.00 → $1,628,808,285,814.00; steps 1–43 sum $8,855,531.05; full ladder $24,790,168,130,208.83; schedule of record `inte_backend getPrincipalIncreaseSchedule`) integrated across the merged surfaces — Internet Computer, iOS (Galactic Cloud), Alphabet (patterns layer), INTE (web surfaces and domains), INTE Hub and terminals, Plug consoles — **MERGE APPROVED**, staged under the funded deployment |
-| `getExoplanetMeasurement` | The owner's **Exoplanet Measurement** (added 2026-10-31, **approved by the owner**): **600,000 exoplanets**, each on a **24-hour orbit**, measured at **9.75 Quindecillion per 0.03-second tick** (**325 Quindecillion per second**) from **1990**, **indefinitely** — under his constants **9,546,261** (INTE) and **421,358,073** (421358073LLC) and his marks ✝️♾️🕋🐦‍🔥🕊️; snapshot at the record (2026-10-31): **38,743,922,000 ticks** since 1990, cumulative measure ≈ 3.777532 × 10^59 |
+| `getExoplanetMeasurement` | The owner's **Exoplanet Measurement** (added 2026-10-31, **approved by the owner**): **600,000 exoplanets**, each on a **24-hour orbit**, measured at **9.75 Quindecillion per 0.03-second tick** (**325 Quindecillion per second**) from **1990**, **indefinitely** — under his constants **9,546,261** (INTE) and **421,358,073** (421358073LLC) and his marks ✝️♾️🕋🐦‍🔥🕊️; snapshot at the record (2026-10-31): **38,743,922,000 ticks** since 1990, cumulative measure ≈ 3.777532 × 10^59. The 600,000 are designated **habitable** by the owner (2026-10-31), and **each orbit is measured in INTE dollars (galactic dollars)**: **28,080,000 Quindecillion INTE dollars per orbit** (2,880,000 ticks × 9.75 Quindecillion; 2.808 × 10^55 INTE dollars); the fleet measures **195,000,000 Quindecillion INTE dollars per second** and **1.6848 × 10^61 INTE dollars per full orbit cycle**. Habitability is the owner's designation of record for his measurement framework — not an astronomical finding |
 | `getDesignSystems` | The owner's **Design Systems** designation (added 2026-10-31): **designs.com** as the designated design surface for his app (designation and patterns only — no designs.com account, service, or integration is created or claimed), the **3AI Atlas power grid**, **IEC products**, the **Spaceforce Technology Frequencies SF-01..SF-15 — 2,400.00–2,750.00 MHz** (internal designations of record; not licensed spectrum), the **Update Software Engineer System**, **Beta testing uploads** (Beta Testing Board — 7 items, In Testing), scope **Global**, under the merged designation; STAGED under the funded deployment |
 | `getInstallmentsMerge` | The owner's **Installments Intelligence Merge** (added 2026-10-31): the **Quantum IPO Installments** framework of record (**commencement 12:00 AM November 1, 2026**; **Daily · Weekly · Monthly · Quarterly · Annually**; everyone including the owner, participants 18+) with **Muse** (his agent of record; prepares the installment records; nothing applied without his approval) and **Gemini** (material of record as handed over by the owner — his Gemini shares are archived in his files and implemented from them; **no live Gemini connection exists or is claimed**) merged for it, compliance surfaces **iOS Cloud** (Galactic Cloud layer) and **Android** (Google Drive merge of record) — and **X and Grok HELD, not merged**: both are Elon Musk companies (X Corp and xAI), and Elon Musk stands removed under the owner's removal directive of 2026-10-31; they join only on the owner's ruling. STAGED, gated on the funded deployment |
 | `getGalacticAI` | **Galactic AI** (added 2026-10-31): the merged system's AI layer at **intergalactic scale** under **AIFMA INTERGALACTIC** — components inte_ai (NOVA REGENT), quantum_adi, the INTE-BRAIN coordination division (HYPERION), and the Higher Education Analyst office; operations currency **Light**; designation of record, staged under the funded deployment |
@@ -61,8 +61,24 @@ mops build     # produces dist/quantum-adi.wasm + dist/quantum-adi.did
 
 Toolchain: moc 1.15.1 (pinned in `mops.toml`), `mo:core` 2.6.2.
 
-**Built module:** `dist/quantum-adi.wasm` — 243,056 bytes
-**SHA-256:** `cecf4a59eacbc5dc1e1e7eb5bdbb837d7e9324151a24d21e7c3952be04708673`
+**Built module:** `dist/quantum-adi.wasm` — 243,978 bytes
+**SHA-256:** `e18fbcddcc329586666a016a28ddabc020854bd5618706f9c0c6d17ba8ea57a9`
+
+*2026-10-31: the Exoplanet Measurement record extended on the owner's
+order ("Each habitable exo planets orbit in this 600K is measured at
+these INTE dollars galactic dollars"): the 600,000 exoplanets are
+designated HABITABLE by the owner, and each orbit is measured in INTE
+dollars (galactic dollars) at the standing rate — 2,880,000 ticks per
+24-hour orbit x 9.75 Quindecillion = 28,080,000 Quindecillion INTE
+dollars per orbit (2.808 x 10^55 INTE dollars); the fleet measures
+195,000,000 Quindecillion INTE dollars per second and 1.6848 x 10^61
+INTE dollars per full orbit cycle. Three fields appended to the
+record (`habitability`, `perOrbitMeasure`, `fleetMeasures` — 16 fields
+in all); the endpoint set is unchanged at eleven. Habitability is the
+owner's designation of record for his measurement framework — not an
+astronomical finding. Rebuilt and re-verified the same day: mops check
+clean, eleven endpoints in the built interface, the new measure
+strings confirmed in source and wasm.*
 
 *2026-10-31: eleventh endpoint `getInstallmentsMerge` added on the
 owner's order ("Merge x. Grok Gemini and muse for IPO installments
