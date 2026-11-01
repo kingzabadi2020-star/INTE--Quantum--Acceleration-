@@ -337,3 +337,11 @@ Computer, iOS (Galactic Cloud), the Alphabet patterns layer, dot-com, and his
 remaining surfaces, with a companion endpoint in Quantum ADI. His re-pasted
 250-value list was verified landmark-for-landmark against the schedule of
 record; it was not re-transcribed.
+
+## INTE Spaceforce Names Register (2026-10-31)
+
+The owner's Spaceforce names of record (`assets/inte-spaceforce-names-register.md`):
+35 designations in alphabetical order — one for each AI bot division (11),
+canister (11), and terminal/surface (13) of the INTE system — with the
+individual bots numbered within their named divisions. The merged blueprint
+carries the full roster in its INTE Spaceforce Names section.

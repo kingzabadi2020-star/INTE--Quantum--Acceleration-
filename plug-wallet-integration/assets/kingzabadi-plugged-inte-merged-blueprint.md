@@ -425,6 +425,22 @@ Every AI bot division, canister, and terminal/surface of the INTE system carries
 
 ---
 
+## Design Standard — Glass Theme & INTE Wallet Layout (2026-10-31)
+
+On the owner's order, the **Glass Theme** is adopted as the design standard of record for OBSOFTWARE@COPYRIGHT.ITC surfaces: glossy neon glass — glassmorphism panels and app icons — in a cyan–violet spectrum over a deep cosmic field, with glass-sphere motifs. The owner's terminals, hubs, and app surfaces carry this standard forward.
+
+### The INTE Wallet layout of record
+
+From the owner's concept artwork, the INTE Wallet layout of record: the phoenix-robot emblem set in a glowing ring; the "INTE Wallet" title; the INTE 🕋 chip; a Balance card reading "Connect wallet to view"; the "Connect Plug Wallet" action; and bottom navigation — Wallet / Activity / Settings. Tagline of record: **"YOUR DIGITAL ASSETS. ONE UNIVERSE."**
+
+### Image batch of record (2026-10-31)
+
+Ten uploads, all distinct files, held in the owner's uploaded files of record: the INTE Wallet phone UI and the preview-concept poster (the pair already on file from earlier today, received again as new copies); the app icon solo; two renders of the combined poster-and-phone layout; the glass-spheres sunset — the glass motif source; a premium app-icon sheet (neon-headphones music icon); a camera-lens glass icon; the glossy robot circuit icon; and the "~INTE~ Interstellar Computer Protocol — GLOBAL MERGE COMPLETE" poster ("Subnet Merges Verified by OBSOFTWARE@COPYRIGHT.ITC"), which stands as the merge artwork of record. The merge poster and the app icon are also preserved in the owner's archive (`inte-global-merge-complete-poster-2026-10-31.png`; `inte-wallet-app-icon-2026-10-31.png`).
+
+**Standing line:** the poster is the owner's designation artwork; on-chain canister deployment remains staged at the funding gate.
+
+---
+
 ## Status
 
 **BLUEPRINT / STAGED.** This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.

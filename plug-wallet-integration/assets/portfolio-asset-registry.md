@@ -6,7 +6,7 @@ Portfolio assets staged for the owner's wallet — registry tickers with emoji s
 
 Scale measures follow the owner's adopted dollar scale (each level +3 zeros; exponent = 3 × (n + 1); the scale begins at Trillion). Values under 10^12 are stated plainly, under the Trillion floor.
 
-Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR section then the USD section — stand on the scale of Trillion to Unvigintillion; entries after 50 continue under the large scale. The currency of calculations spans $1 Trillion to $1 Trequadragintillion. All 55 portfolio measures were verified inside this range (largest: JERM LLC, 2.414162 × 10^130, Duoquadragintillion band; values under $1 Trillion are annotated under the floor as before). No measure required recomputation, and no numbers are changed by this ruling — the portfolio measures are per-value annotations, so the ruling records as this registry's basis.
+Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR section then the USD section — stand on the scale of Trillion to Unvigintillion; entries after 50 continue under the large scale. The currency of calculations spans $1 Trillion to $1 Trequadragintillion. All 55 valued portfolio measures were verified inside this range (largest: JERM LLC, 2.414162 × 10^130, Duoquadragintillion band; values under $1 Trillion are annotated under the floor as before); the registry's 56th portfolio, Blu Chips (USD #42, added 2026-10-31), stands open, to be valued by the owner, on the same basis. No measure required recomputation, and no numbers are changed by this ruling — the portfolio measures are per-value annotations, so the ruling records as this registry's basis.
 
 **MERGE OF RECORD — 2026-10-31.** On the owner's order, the Internet Computer Protocol ICPL Portfolio merges into INTE (Internet Interstellar Department Of Transportation). The registry's entries stand as valued; the ICPL/ICP portfolio designations carry into the INTE system under the merged blueprint of record (kingzabadi-plugged-inte-merged-blueprint.md).
 
@@ -33,7 +33,7 @@ Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR
 
 **Note on entry 7 (JERM LLC 🐦‍🔥) — 2026-10-31:** Alabama Power account merged under this portfolio per the owner's order, 2026-10-31 — recorded by name as the power line of the merged system (utility of record behind the Power Points); account details are not on file and appear nowhere in this registry.
 
-## Portfolios valued in US Dollars (USD) — 41
+## Portfolios valued in US Dollars (USD) — 42
 
 | # | Ticker | Emoji | Portfolio | Value (as pasted) | Scale Measure | Shares | Dividends | Status | Galactic Allocation (owner figure) |
 |---|---|---|---|---|---|---|---|---|---|
@@ -78,6 +78,9 @@ Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR
 | 39 | TECH | 🖥️ | Tech Hardware | 13,330.42 USD | $13,330.42 — under the Trillion floor | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset | ~£6.7410019012984e+27 |
 | 40 | RXF3 | 🌌 | rahelionyxx.inc (f3f4f4c5) | 308,098,245,000,000.00 USD | 3.080982 × 10^14 — Trillion band (10^12) | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset | ~£6.7410019012984e+27 |
 | 41 | RXEU | 🌌 | €Rahelionyxx.INC | 1.00 USD | $1.00 — under the Trillion floor | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset | ~£6.7410019012984e+27 |
+| 42 | BLU | 🔵 | Blu Chips | — open, to be valued by the owner | — open, to be valued by the owner | — open, to be valued by the owner | — open, to be valued by the owner | STAGED — wallet asset | ~£6.7410019012984e+27 |
+
+**Note on USD entry 42 (Blu Chips 🔵) — 2026-10-31:** Added 2026-10-31 on the owner's order ("Add Blu Chips portfolio INTE") — Blu Chips, an INTE portfolio, under ticker BLU, verified unique among the registry's 56 tickers. Its value, scale measure, shares, and dividends stand open, to be valued by the owner; its Galactic Allocation carries the owner's standard figure, as in every row.
 
 ## Merged Portfolio — presented computation and registry verification (2026-10-31)
 
@@ -100,11 +103,11 @@ The presented totals stand as presented; the computed totals stand as computed. 
 
 ## Registry counts and rules
 
-- **Total assets:** 55 — 14 EUR + 41 USD, exactly the portfolios in the owner's 2026-10-31 account-page paste, in pasted order.
-- **Tickers:** one unique ticker per portfolio, 3–6 uppercase ASCII letters/digits derived from the name; repeated names are distinct portfolios and carry distinct tickers (parenthetical IDs used where the paste gives them; otherwise the first occurrence is plain and later occurrences take a numeric suffix). Verified: 55 tickers, 0 duplicates.
-- **Emoji symbols:** one per asset. The owner's established marks stand where they apply — INTE 🕋 (his INTE dollar symbol), JERM 🐦‍🔥, Jesus Emmanuel Christ LLC ✝️, Internet Computer / ICPL / ICP ♾️, MECCA BANK 🏦, INTE MECCA BANK LLC 🕌, INTE MECCA BANK LLC PORTFOLIO 🏦, Jermaine Octavious Blackmon 👑, the Octavious Blackmon set 🔱, OBSOFTWARE 💠, Rahelionyxx 🌌, crypto ₿/🪙, Google 🔍, Meta 🔷, SoFi Savings 💵, Top Predictions 🎯, Tech Hardware 🖥️, Multi-Asset 🧺, New Portfolios 🌱, My Portfolios 📂, Pro Haumantai Moor 🌺, 421358073llc 🔢, Octavious Blackmon Core 🧭.
+- **Total assets:** 56 — 14 EUR + 42 USD: the 55 portfolios of the owner's 2026-10-31 account-page paste, in pasted order, plus Blu Chips (USD #42), added on the owner's order of 2026-10-31, standing open, to be valued by the owner.
+- **Tickers:** one unique ticker per portfolio, 3–6 uppercase ASCII letters/digits derived from the name; repeated names are distinct portfolios and carry distinct tickers (parenthetical IDs used where the paste gives them; otherwise the first occurrence is plain and later occurrences take a numeric suffix). Verified: 56 tickers, 0 duplicates.
+- **Emoji symbols:** one per asset. The owner's established marks stand where they apply — INTE 🕋 (his INTE dollar symbol), JERM 🐦‍🔥, Jesus Emmanuel Christ LLC ✝️, Internet Computer / ICPL / ICP ♾️, MECCA BANK 🏦, INTE MECCA BANK LLC 🕌, INTE MECCA BANK LLC PORTFOLIO 🏦, Jermaine Octavious Blackmon 👑, the Octavious Blackmon set 🔱, OBSOFTWARE 💠, Rahelionyxx 🌌, crypto ₿/🪙, Google 🔍, Meta 🔷, SoFi Savings 💵, Top Predictions 🎯, Tech Hardware 🖥️, Multi-Asset 🧺, New Portfolios 🌱, My Portfolios 📂, Pro Haumantai Moor 🌺, 421358073llc 🔢, Octavious Blackmon Core 🧭, Blu Chips 🔵.
 - **Shares cross-referenced from standing records:** INTE (EUR #3) — 9,546,261 shares, and the Internet Computer Protocol ICPL portfolio (EUR #2) — 200,343,660 shares, both from the Sovereign Share Registry as recorded 2026-10-22. Every other Shares cell, and every Dividends cell, stands open to be valued by the owner.
-- **Owner's scale ruling (2026-10-31):** entries 1–50 stand on the scale of Trillion to Unvigintillion; entries after 50 continue under the large scale. The currency of calculations spans $1 Trillion to $1 Trequadragintillion — all 55 measures verified inside this range; no numbers changed.
+- **Owner's scale ruling (2026-10-31):** entries 1–50 stand on the scale of Trillion to Unvigintillion; entries after 50 continue under the large scale. The currency of calculations spans $1 Trillion to $1 Trequadragintillion — all 55 valued measures verified inside this range; no numbers changed.
 - **Value basis:** every value is transcribed from the owner's paste exactly as printed — full digit strings, no rounding, no recomputation, no live aggregation. The five longest EUR figures are zero-run values; their digit counts as transcribed are: INTE 56 digits (head 20,522,849,582,216,900 + 13 zero groups), INTE MECCA BANK LLC 56 (head 18,617,166,755,245,155 + 13), JERM LLC 131 (head 24,141,616,901,596,970 + 38), OBSOFTWARE@COPYRIGHT.ITC 128 (head 14,849,103,203,281,854 + 37), Jesus Emmanuel Christ LLC 110 (head 94,546,261 + 34) — segment-counted from the paste; a ±1-group variance on a zero run would shift only that figure's scale band by one level and is flagged here for the owner's confirmation against his app.
 
 Powered by OBSOFTWARE™ · Octavious Blackmon, Independent Owner · © All Rights Reserved
