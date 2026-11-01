@@ -15,13 +15,15 @@ Governing measure: the owner's big-number formula layout (each level +3 zeros).
 
 | Phase | Name | Content | Gate / Status |
 | --- | --- | --- | --- |
-| 0 | Foundation Mint | Mint 5,000,000,000,000 cycles (5T) from the funding ICP (~3 ICP) | AWAITING FUNDING |
+| 0 | Foundation Mint | Mint 5,000,000,000,000 cycles (5T) from the funding ICP (~3 ICP). Node/vault of record: **MINDSPARK ⚡** (created 2026-11-01) | AWAITING FUNDING |
 | 1 | System Deploy | Vault modules install in the armed order: inte_backend → inte_nft → inte_ai → inte-chains (inte_btc, inte_eth, inte_sol, inte_xledger) | ARMED — fires with Phase 0 |
 | 2 | INTE Genesis | INTE ledger deploys at the owner's final supply; issuance credited to the deployer. INTE = digital dollars, measured in Euros (€); symbol 🕋 | GATED — owner's final supply |
 | 3 | Distribution & Holdings Funding | 9,546,261 INTE to the owner's confirmed Plug destination; Holdings Vault positions activate; Dividend Exchange Ledger opens | STAGED — follows Phase 2 |
 | 4 | JERM Genesis | JERM ledger deploys at the owner's final supply (Jermaine Octavious Blackmon LLC 🐦‍🔥); issuance credited to the deployer | GATED — owner's final supply |
 | 5 | Scale Ascent | The holdings are measured and grown through the owner's big-number ladder (below); each level is entered only on the owner's approval | STAGED |
-| — | Phase Starship | A new phase PREPARED at the Quantum Computing Acceleration integration for the INTE Digital Dollar: carries the sovereign payroll processing, the creator contractor postings, and the streaming/social announcement (record: `phase-starship-sovereign-payroll-2026-10-31.md`) | PREPARED (2026-10-31) — stands beyond Phase 5; activation follows the funded deployment in the armed order, on the owner's approval |
+| — | Phase Starship | A new phase PREPARED at the Quantum Computing Acceleration integration for the INTE Digital Dollar: carries the sovereign payroll processing, the creator contractor postings, and the streaming/social announcement (record: `phase-starship-sovereign-payroll-2026-10-31.md`). Vault of record: **Phoenix 🐦‍🔥** (created 2026-11-01) | PREPARED (2026-10-31) — stands beyond Phase 5; activation follows the funded deployment in the armed order, on the owner's approval |
+
+**Named phase vaults (owner's order, 2026-11-01; record: `phase-vaults-mindspark-phoenix-2026-11-01.md`):** Phase 0's node/vault is **MINDSPARK ⚡**; the final phase's vault (Phase Starship, for the digital Dollar) is **Phoenix 🐦‍🔥**. Both are creations of record — MINDSPARK ⚡ activates at Phase 0 funding, Phoenix 🐦‍🔥 at the final phase in the armed order; no gate changed and no balance is held by either yet. **Funding designation (2026-11-01):** MINDSPARK ⚡'s USD Digital Dollar line is designated to fund the Digital Dollar Vault and all 118 Element Vaults by atomic-number weighting (record: `use-usd-digital-dollars-fund-vault-elements-2026-11-01.md`).
 
 ## The minting scale (owner's layout)
 
