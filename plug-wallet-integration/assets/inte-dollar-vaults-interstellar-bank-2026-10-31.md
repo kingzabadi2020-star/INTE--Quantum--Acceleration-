@@ -17,6 +17,8 @@ The vaults for INTE dollars, named in the INTE MECCA BANK dashboard. **INTE 🕋
 | 9 | 💎 INTE 🕋 Diamond Vault | Quindecillion | 10^48 | Diamond Measure Institutions | 1 Quindecillion in INTE digital dollars |
 | 10 | 👑 INTE 🕋 Apex Vault | Unvigintillion | 10^66 | Apex Dollars · Omiex Ascent | 1 Unvigintillion in INTE digital dollars |
 
+**Total Vault Worth: 1,000,000,000,000,000,001,000,000,000,000,001,001,001,001,001,001,001,001,000,000,000,000 INTE dollars** — the sum of the ten vault measures of record (≈ 1.000000 × 10^66 — just over 1 Unvigintillion, the Apex measure carrying the whole).
+
 ## Brand Lines of Record
 
 - **INTE 🕋** — the unique digital dollar; 🕋 is the INTE dollar symbol, INTE is the unique digital dollar name; INTE digital dollars are measured in Euros (€).
