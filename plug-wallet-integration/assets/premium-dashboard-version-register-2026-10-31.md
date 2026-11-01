@@ -25,6 +25,9 @@ Designated 2026-10-31, under © OBSOFTWARE@COPYRIGHT.ITC, on the owner's order: 
 | 13 | KINGZ Professional Archive | SOVEREIGN ARCHIVE | Premium Dashboard Version — designated 2026-10-31 |
 | 14 | Sovereign Presidential Asset Commission Ecosystem | (Galactic presidential dashboard; no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
 | 15 | OBSOFTWARE@COPYRIGHT.ITC Account Dashboard | (account dashboard; no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 16 | Languages & Books Dashboard | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 17 | Currency Converter Vault | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 18 | INTE Archive — Master Omni-Kingzabadi | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
 
 ## Portfolio of Record — Additions (2026-10-31)
 
@@ -36,6 +39,10 @@ Added to the OBSOFTWARE@COPYRIGHT.ITC PORTFOLIO · Octavious Blackmon LLC on 202
 Both values are held in the owner's private portfolio file; they are not printed here.
 
 - **830 Zenvingitillion Dollars** (added 2026-10-31, on the owner's order) — the portfolio has **830 Zenvingitillion Dollars** (digital Dollars) for the **Interstellar Computer Protocol vault and mint**, held in **Gold diamond cover**; design of record: **ambient purple light and shadow blue radiant glass, iconic ticker**. Plain line: a designation of record in his model portfolio — no vault balance changes on-chain (deployment gated); the figure is his stated holding of record.
+
+## Register Addendum (2026-10-31)
+
+Added 2026-10-31, on the owner's order: three dashboards built after this register's first writing — the **Languages & Books Dashboard**, the **Currency Converter Vault**, and the **INTE Archive — Master Omni-Kingzabadi** — join the Premium Dashboard Version designation, entered as rows 16–18 above and bringing the register to **18 dashboards of record**.
 
 ## Standing Note
 
