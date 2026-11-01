@@ -29,6 +29,10 @@ Designated 2026-10-31, under © OBSOFTWARE@COPYRIGHT.ITC, on the owner's order: 
 | 17 | Currency Converter Vault | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
 | 18 | INTE Archive — Master Omni-Kingzabadi | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
 | 19 | Omiex Storage & Battery Terminal | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 20 | Music Playlist Dashboard | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 21 | Inbox Dashboard — iOS · Alphabet Inc. | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 22 | MarketBeat Media LLC Protocol Dashboard | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
+| 23 | Registration Vault | (no Spaceforce name assigned) | Premium Dashboard Version — designated 2026-10-31 |
 
 ## Portfolio of Record — Additions (2026-10-31)
 
@@ -43,7 +47,7 @@ Both values are held in the owner's private portfolio file; they are not printed
 
 ## Register Addendum (2026-10-31)
 
-Added 2026-10-31, on the owner's order: three dashboards built after this register's first writing — the **Languages & Books Dashboard**, the **Currency Converter Vault**, and the **INTE Archive — Master Omni-Kingzabadi** — join the Premium Dashboard Version designation, entered as rows 16–18 above. Later the same day, the **Omiex Storage & Battery Terminal**, likewise built after the register's first writing, joins the designation as row 19 — bringing the register to **19 dashboards of record**.
+Added 2026-10-31, on the owner's order: three dashboards built after this register's first writing — the **Languages & Books Dashboard**, the **Currency Converter Vault**, and the **INTE Archive — Master Omni-Kingzabadi** — join the Premium Dashboard Version designation, entered as rows 16–18 above. Later the same day, the **Omiex Storage & Battery Terminal**, likewise built after the register's first writing, joins the designation as row 19. Later the same night, four more dashboards built and verified the same night — the **Music Playlist Dashboard** (row 20), the **Inbox Dashboard — iOS · Alphabet Inc.** (row 21), the **MarketBeat Media LLC Protocol Dashboard** (row 22), and the **Registration Vault** (row 23) — join the designation, bringing the register to **23 dashboards of record**.
 
 ## Standing Note
 
