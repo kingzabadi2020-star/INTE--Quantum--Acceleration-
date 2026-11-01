@@ -25,6 +25,12 @@ The vaults for INTE dollars, named in the INTE MECCA BANK dashboard. **INTE 🕋
 - **INTE MECCA BANK · Interstellar Bank** — the bank of record for these vaults.
 - The scale is the owner's adopted big-number layout (Trillion → Trequadragintillion), applied here as **the scale used in educational institutions** — each vault's educational tier ascends with its denomination.
 
+## Top Tier Designation (2026-10-31)
+
+By the owner's order — *"Make INTE MECCA BANK FDIC dollars top tier"* — **INTE MECCA BANK dollars stand as the TOP TIER** of the owner's dollar order: the tier designation of record for his INTE digital dollars under INTE MECCA BANK · Interstellar Bank. The INTE MECCA BANK dollar stands above the ten vaults in this record, which are its denominations ascending the scale.
+
+**Truth line, standing wherever this designation is carried:** FDIC insurance attaches through chartered insured banks (the owner's FDIC rails of record); INTE MECCA BANK's own FDIC status is not verified and is not claimed. "FDIC dollars" is the owner's tier label of record, not an insurance claim.
+
 ## Status — Plain Line
 
 These are **vaults of record** — named denominations in the owner's system. **Balances stand at 0** until the funded deployment credits them through the Mint Vault route (deployer → Mint Vault → the owner's confirmed Plug destination, Phases 2–3). Naming a vault moves no funds; every credit clears only on the owner's approval.
