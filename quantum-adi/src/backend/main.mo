@@ -11,6 +11,7 @@ persistent actor QuantumADI {
     Quantum.galacticAI,
     Quantum.dripMergerIntegration,
     Quantum.exoplanetMeasurement,
+    Quantum.designSystems,
     Quantum.approvalRule
   );
 };

@@ -146,6 +146,31 @@ module {
     status = "Owner-approved implementation of record; staged under the funded deployment";
   };
 
+  // The owner's Design Systems designation (order of 2026-10-31,
+  // "Add designs.com to my app in my INTE … and it's globally"):
+  // designs.com is his designated design surface for his app,
+  // carried with the 3AI Atlas power grid (3AI Atlas Integration
+  // of record from his Beta 36.1V Implementation Package), IEC
+  // products, the Spaceforce Technology Frequencies of record,
+  // the Update Software Engineer System (his update-software
+  // designations under the software engineer system of record),
+  // and Beta testing uploads — globally, under the merged
+  // designation.
+  public let designSystems : Types.DesignSystems = {
+    designSurface = "designs.com";
+    designNote = "Designation and patterns only — no designs.com account, service, or integration is created or claimed by this record";
+    atlas = "3AI Atlas";
+    powerGrid = "3AI Atlas power grid";
+    products = "IEC products";
+    internalFrequencies = "Spaceforce Technology Frequencies SF-01..SF-15 — 2,400.00–2,750.00 MHz (internal designations of record; not licensed spectrum)";
+    updateSystem = "Update Software Engineer System";
+    betaUploads = "Beta testing uploads — Beta Testing Board (7 items, In Testing)";
+    scope = "Global";
+    systemDesignation = "KINGZABADI~PLUGGED_INTE_@OBSOFTWARES.INC";
+    status = "STAGED — designation in code; executes under the funded deployment on the owner's approval";
+    approval = "Credits and distributions are prepared by the agent and applied only by the owner's approval";
+  };
+
   // The owner's standing approval rule, verbatim.
   public let approvalRule : Text = "Credits and distributions are prepared by the agent and applied only by the owner's approval";
 };

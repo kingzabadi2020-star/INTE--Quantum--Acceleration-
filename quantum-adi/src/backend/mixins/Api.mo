@@ -9,6 +9,7 @@ mixin (
   galacticAI : Types.GalacticAI,
   dripMergerIntegration : Types.DripMergerIntegration,
   exoplanetMeasurement : Types.ExoplanetMeasurement,
+  designSystems : Types.DesignSystems,
   approvalRule : Text
 ) {
   // The merged system record: designation, program, brand, and the
@@ -64,6 +65,17 @@ mixin (
   // indefinitely, under his INTE and 421358073LLC constants.
   public query func getExoplanetMeasurement() : async Types.ExoplanetMeasurement {
     exoplanetMeasurement;
+  };
+
+  // The owner's Design Systems designation (2026-10-31):
+  // designs.com as the designated design surface for his app,
+  // with the 3AI Atlas power grid, IEC products, the Spaceforce
+  // internal frequencies of record, the Update Software Engineer
+  // System, and Beta testing uploads — globally, under the
+  // merged designation. Designation in code only; no designs.com
+  // account, service, or integration is created or claimed.
+  public query func getDesignSystems() : async Types.DesignSystems {
+    designSystems;
   };
 
   // The owner's standing approval rule.

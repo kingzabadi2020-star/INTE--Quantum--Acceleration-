@@ -136,4 +136,27 @@ module {
     approval : Text;
     status : Text;
   };
+
+  // The owner's Design Systems designation (order of 2026-10-31):
+  // designs.com as the designated design surface for his app,
+  // carried with the 3AI Atlas power grid and IEC products, the
+  // Spaceforce internal frequencies of record, the Update
+  // Software Engineer System, and Beta testing uploads — at
+  // global scope, under the merged designation. Designation in
+  // code only — no designs.com account, service, or integration
+  // is created or claimed by this record.
+  public type DesignSystems = {
+    designSurface : Text;
+    designNote : Text;
+    atlas : Text;
+    powerGrid : Text;
+    products : Text;
+    internalFrequencies : Text;
+    updateSystem : Text;
+    betaUploads : Text;
+    scope : Text;
+    systemDesignation : Text;
+    status : Text;
+    approval : Text;
+  };
 };

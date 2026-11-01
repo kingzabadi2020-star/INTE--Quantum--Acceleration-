@@ -68,6 +68,21 @@ type DripMergerIntegration =
    steps1to43Sum: text;
    surfaces: vec text;
  };
+type DesignSystems = 
+ record {
+   approval: text;
+   atlas: text;
+   betaUploads: text;
+   designNote: text;
+   designSurface: text;
+   internalFrequencies: text;
+   powerGrid: text;
+   products: text;
+   scope: text;
+   status: text;
+   systemDesignation: text;
+   updateSystem: text;
+ };
 type BotFleet = 
  record {
    background: text;
@@ -99,6 +114,7 @@ service : {
   getAccessLayer: () -> (AccessLayer) query;
   getApprovalRule: () -> (text) query;
   getBotFleet: () -> (BotFleet) query;
+  getDesignSystems: () -> (DesignSystems) query;
   getDripMergerIntegration: () -> (DripMergerIntegration) query;
   getExoplanetMeasurement: () -> (ExoplanetMeasurement) query;
   getGalacticAI: () -> (GalacticAI) query;
