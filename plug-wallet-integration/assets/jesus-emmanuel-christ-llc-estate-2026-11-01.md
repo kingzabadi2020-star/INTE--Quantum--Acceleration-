@@ -18,6 +18,10 @@
 - **Status:** IMPLEMENTED of record (2026-11-01)
 - **Value:** open, to be valued by the owner (no figure invented)
 
+## §1B The 830B Designation (owner's addition, 2026-11-01 ~3:14 PM CT)
+
+Added to the estate of record on the owner's word: **830B for OBSOFTWARE@COPYRIGHT.ITC** — tagged by the owner **Longevity generational wealth · Sovereign**. Carried in the dashboard's Estate section as a designation line of record, in his "830B" form as written (his standing 830-billion motif). It designates the estate under his Longevity Generational Wealth framework as a Sovereign holding; it moves no funds and changes no plain line below.
+
 ## §2 The Heartfelt Note — as signed in the dashboard
 
 > With a grateful heart, this estate is set apart as a house of provision.
@@ -27,6 +31,14 @@
 > May every room carry peace. May every door welcome family home. And may every generation that passes through these walls know, without doubt, the name over this house:
 >
 > **Jehovah Jireh ✝️♾️**
+
+## §2A The Combined Note (owner's order, 2026-11-01 ~3:14 PM CT)
+
+On the owner's word — *"Yes be still include the original note and combined them"* — the original note (§2) stands **retained** and is **combined** with the housing amendment into ONE dedication in the dashboard, constructed exactly as follows: original paragraphs 1–2 stand word for word; original paragraph 3 keeps its first two sentences ("May every room carry peace. May every door welcome family home."); then the combined paragraph enters, opening with his "Be still" and carrying the housing amendment into the original closing line:
+
+> Be still — and know: these are homes of the future, built in luxury and given in provision — futuristic luxury homes, condos, and residences of every type needed — until poverty itself has no address, and may every generation that passes through these walls know, without doubt, the name over this house:
+
+The combined dedication then closes with the signature: **Jehovah Jireh ✝️♾️**. The separate Housing of Record and Purpose lines remain in the section as the estate's facts; the note itself is now one combined text.
 
 ## §3 Plain Lines
 
