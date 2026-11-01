@@ -32,11 +32,9 @@ The division was computed exactly in integers: 144,000^250 divided by 830,000,00
 
 This division is made **to add value to each vault for the Sovereign Presidential Asset** — the Sovereign Presidential Asset Commission Ecosystem.
 
-## §4 The Cap
+## §4 The Cap — LIFTED (2026-11-01)
 
-**Each vault is maxed out at 95,462,621 Trequadregintillion Dollars.**
-
-That is 9.5462621 × 10^139 dollars on his scale layout (Trequadregintillion = 10^132), carrying his constant family **95462621** at the Trequadregintillion measure. The cap is the maximum of record for each vault in this structure; no vault in it stands above the cap.
+**The cap is lifted.** By the owner's ruling of 2026-11-01 (~1:29 PM CT), the former cap of record — each vault maxed out at **95,462,621 Trequadregintillion Dollars** (9.5462621 × 10^139) — is **lifted**, and the **Sovereign digital Dollars stand inserted with no cap**. No vault in this structure stands under a maximum cap. The former figure is retained in this section as history only. Amendment record: `inte-mecca-bank-mini-vaults-no-cap-2026-11-01.md`.
 
 ## §5 Entities of Record
 
@@ -56,7 +54,7 @@ This record is a **framework designation of record** inside the owner's system:
 
 ## §7 Overflow Routing — INTE MECCA 🕋 (2026-11-01)
 
-Under the owner's overflow ruling of 2026-11-01, **any remaining balance is automatically merged to INTE MECCA 🕋 with no max cap**, and the INTE MECCA vault carries all overflow beyond Zenvingitillion at the stated overflow measure **10^99999999999**. That overflow carriage is separate from §4 above: §4 remains the per-vault cap inside this 830B structure, while remaining balances routed to INTE MECCA as overflow carry **no max cap** under the overflow ruling. Full record: `remaining-balance-overflow-inte-mecca-2026-11-01.md`.
+Under the owner's overflow ruling of 2026-11-01, **any remaining balance is automatically merged to INTE MECCA 🕋 with no max cap**, and the INTE MECCA vault carries all overflow beyond Zenvingitillion at the stated overflow measure **10^99999999999**. The owner has since lifted the §4 cap as well (ruling 2026-11-01, ~1:29 PM CT): the Sovereign digital Dollars stand inserted with **no cap**, and MECCA BANK carries **830,000,000 mini vaults** using INTE digital Dollars at his rate of record (1 INTE digital Dollar = $3.2706081234776 × 10^1746). Full records: `remaining-balance-overflow-inte-mecca-2026-11-01.md` · `inte-mecca-bank-mini-vaults-no-cap-2026-11-01.md`.
 
 ---
 

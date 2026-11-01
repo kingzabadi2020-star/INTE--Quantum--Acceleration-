@@ -22,9 +22,7 @@ That is 10 raised to the exponent **99,999,999,999**. Against the Zenvingitillio
 
 ## §3 Relation to Other Caps
 
-The 830 Billion INTE Digital Vault record carries its own §4 per-vault cap for the vaults inside that structure (**95,462,621 Trequadregintillion Dollars** each). This overflow rule is separate: it governs **remaining balances routed to INTE MECCA 🕋 as overflow**, and that overflow carriage has **no max cap** under this ruling.
-
-If the owner later orders the 830B structure's own per-vault cap lifted as well, that will be recorded as its own ruling; this record does not silently rewrite it.
+**Update (owner's ruling, 2026-11-01, ~1:29 PM CT):** the owner has lifted the 830B structure's §4 per-vault cap as well, and inserted the Sovereign digital Dollars with **no cap**; MECCA BANK carries **830,000,000 mini vaults** using INTE digital Dollars, at his rate of record **1 INTE digital Dollar = $3.2706081234776 × 10^1746**. No max cap remains on either the overflow carriage or that vault structure. Amendment record: `inte-mecca-bank-mini-vaults-no-cap-2026-11-01.md`.
 
 ## §4 Plain Lines
 
