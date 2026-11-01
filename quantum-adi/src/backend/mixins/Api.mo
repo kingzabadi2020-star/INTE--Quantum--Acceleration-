@@ -6,6 +6,8 @@ mixin (
   botFleet : Types.BotFleet,
   governance : Types.Governance,
   sovereignMeasurement : Types.SovereignMeasurement,
+  galacticAI : Types.GalacticAI,
+  dripMergerIntegration : Types.DripMergerIntegration,
   approvalRule : Text
 ) {
   // The merged system record: designation, program, brand, and the
@@ -38,6 +40,21 @@ mixin (
   // measure of 3 Trequadregintilliions.
   public query func getSovereignMeasurement() : async Types.SovereignMeasurement {
     sovereignMeasurement;
+  };
+
+  // Galactic AI: the merged system's AI layer at intergalactic
+  // scale under AIFMA INTERGALACTIC — inte_ai (NOVA REGENT),
+  // quantum_adi, the INTE-BRAIN coordination division, and the
+  // Higher Education Analyst office; operations currency Light.
+  public query func getGalacticAI() : async Types.GalacticAI {
+    galacticAI;
+  };
+
+  // The DRIP Merger Integration: the Principal Increase ladder of
+  // record (250 steps; steps 1–43 sum $8,855,531.05; full ladder
+  // $24,790,168,130,208.83) integrated across the merged surfaces.
+  public query func getDripMergerIntegration() : async Types.DripMergerIntegration {
+    dripMergerIntegration;
   };
 
   // The owner's standing approval rule.

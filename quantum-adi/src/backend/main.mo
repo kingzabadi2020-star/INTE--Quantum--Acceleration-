@@ -8,6 +8,8 @@ persistent actor QuantumADI {
     Quantum.botFleet,
     Quantum.governance,
     Quantum.sovereignMeasurement,
+    Quantum.galacticAI,
+    Quantum.dripMergerIntegration,
     Quantum.approvalRule
   );
 };

@@ -34,12 +34,19 @@ module {
   };
 
   // The bot fleet of record: the owner's 830,000,000-bot designation,
-  // the galactic background rule, and the division tickers.
+  // the galactic background rule, and the division tickers. The
+  // galactic scale layer (owner's scale-up, 2026-10-31) extends the
+  // record at galactic scale — 830,000,000,000 bots, operations
+  // currency Light — while totalBots stands unchanged as the initial
+  // designation of record.
   public type BotFleet = {
     totalBots : Nat;
     background : Text;
     divisions : [BotDivision];
     status : Text;
+    galacticScaleBots : Nat;
+    operationsCurrency : Text;
+    scaleNote : Text;
   };
 
   // The Celestial Governance v7.1 treasury waterfall, in percent.
@@ -75,5 +82,36 @@ module {
     ticksPerYear : Nat;
     inteGalacticMeasure : Text;
     doctrineStatus : Text;
+  };
+
+  // Galactic AI (owner's follow-on designation, 2026-10-31): the
+  // merged system's AI layer at intergalactic scale under the
+  // AIFMA INTERGALACTIC banner — inte_ai inference, quantum_adi
+  // data of record, the INTE-BRAIN coordination division, and the
+  // Higher Education Analyst office — operating in Light, the
+  // operations currency at galactic scale.
+  public type GalacticAI = {
+    designation : Text;
+    program : Text;
+    scale : Text;
+    components : [Text];
+    currency : Text;
+    status : Text;
+  };
+
+  // The DRIP Merger Integration (owner's order, 2026-10-31): the
+  // Principal Increase schedule of record (inte_backend
+  // getPrincipalIncreaseSchedule) carried as the merged system's DRIP
+  // integration across the owner's surfaces. All figures are Text in
+  // the schedule's own two-decimal form, exactly as recorded.
+  public type DripMergerIntegration = {
+    schedule : Text;
+    firstStep : Text;
+    finalStep : Text;
+    steps1to43Sum : Text;
+    fullLadderSum : Text;
+    scheduleOfRecord : Text;
+    surfaces : [Text];
+    status : Text;
   };
 };

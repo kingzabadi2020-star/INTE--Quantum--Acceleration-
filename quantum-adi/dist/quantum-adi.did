@@ -32,10 +32,33 @@ type Governance =
    vaultRecord: text;
    waterfall: TreasuryWaterfall;
  };
+type GalacticAI = 
+ record {
+   components: vec text;
+   currency: text;
+   designation: text;
+   program: text;
+   scale: text;
+   status: text;
+ };
+type DripMergerIntegration = 
+ record {
+   finalStep: text;
+   firstStep: text;
+   fullLadderSum: text;
+   schedule: text;
+   scheduleOfRecord: text;
+   status: text;
+   steps1to43Sum: text;
+   surfaces: vec text;
+ };
 type BotFleet = 
  record {
    background: text;
    divisions: vec BotDivision;
+   galacticScaleBots: nat;
+   operationsCurrency: text;
+   scaleNote: text;
    status: text;
    totalBots: nat;
  };
@@ -60,6 +83,8 @@ service : {
   getAccessLayer: () -> (AccessLayer) query;
   getApprovalRule: () -> (text) query;
   getBotFleet: () -> (BotFleet) query;
+  getDripMergerIntegration: () -> (DripMergerIntegration) query;
+  getGalacticAI: () -> (GalacticAI) query;
   getGovernance: () -> (Governance) query;
   getMergedSystem: () -> (MergedSystem) query;
   getSovereignMeasurement: () -> (SovereignMeasurement) query;
