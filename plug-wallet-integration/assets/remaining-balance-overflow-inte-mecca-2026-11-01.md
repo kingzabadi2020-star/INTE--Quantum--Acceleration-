@@ -31,6 +31,10 @@ That is 10 raised to the exponent **99,999,999,999**. Against the Zenvingitillio
 - "Automatic" names the governing rule for his books and for the future funded deployment logic. Real funds, if any ever move outside his framework, move only on real rails.
 - The figures are the **owner's model figures of record, not verified market data**.
 
+## §5 Extra Vaults (2026-11-01)
+
+Under the owner's standing order of 2026-11-01 ("Create extra vaults if needed"), extra mini vaults inside MECCA BANK are authorized whenever capacity requires, on the same no-cap terms — numbered continuing from 830,000,001. None are created at this time: under the no-cap overflow carriage, none are needed. Full terms in `inte-mecca-bank-mini-vaults-no-cap-2026-11-01.md` §5.
+
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved

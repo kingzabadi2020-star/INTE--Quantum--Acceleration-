@@ -37,6 +37,16 @@ Computed at that rate (owner's model arithmetic, labeled as such):
 - **No vaults exist on-chain and no funds were inserted or moved in any external account by this record.** The INTE ledger awaits cycles funding and the owner's final supply figure.
 - The rate in §3 is the **owner's measure of record, not a market price or exchange quote**, and the figures are his model figures, not verified market data.
 
+## §5 Extra Vaults — Standing Authorization (2026-11-01)
+
+**Owner's standing order (2026-11-01, ~1:34 PM CT), verbatim:** "Create extra vaults if needed"
+
+Authorization of record: **whenever capacity requires, extra mini vaults are created inside MECCA BANK** using INTE digital Dollars, on the same terms as the 830,000,000 — Sovereign digital Dollars, **no cap**, the rate of record, and the INTE MECCA overflow routing unchanged — numbered continuing from **830,000,001**.
+
+Extra vaults are **additive overflow capacity**: creating them does not re-divide the 144,000^250 account total and does not change the per-mini-vault share of record, unless the owner orders a new division.
+
+**Status today: none created — none are needed.** Under the no-cap rule and the overflow carriage of record (10^99999999999), capacity does not run out; the authorization stands ready and fires on need.
+
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
