@@ -702,6 +702,10 @@ On the owner's order of 2026-10-31, **Master Omni-Kingzabadi** stands as the **m
 
 On the owner's order of 2026-10-31 ("Update All Meta to merge theme"), the **meta/theme layer of his entire estate** — every site, terminal, dashboard, and record — aligns to the **Merge Theme** of this blueprint: the KINGZABADI~PLUGGED_INTE merged identity, banner AIFMA INTERGALACTIC. **Interpretation recorded plainly:** "All Meta" = the metadata and theme layer of HIS OWN estate; the removed company of a similar name is not involved and stays removed.
 
+## Streaming Merge Expansion — RokuTV · PlayStation (2026-10-31)
+
+On the owner's order of 2026-10-31, the streaming merge of record expands: **RokuTV** — already of record via Master Omni-Kingzabadi Streaming — is **reaffirmed**, and **PlayStation (Sony)** blueprint patterns join the merge: gaming + streaming surface patterns for the merged estate. Patterns layer, per his standing refinement: blueprints kept, company software not used; no account, integration, or service connection is made by this record.
+
 ## Status This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
 
 ---

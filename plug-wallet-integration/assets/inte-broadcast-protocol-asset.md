@@ -123,6 +123,16 @@ On the owner's order, his Android handset and the Wi-Fi connection shown on its 
 
 ---
 
+## AIFMA Register — Mobile Endpoint Registration (2026-10-31)
+
+On the owner's order of 2026-10-31, the owner's Android handset stands **REGISTERED in the AIFMA register** as the mobile endpoint of record for AIFMA Quantum Streaming: its **mobile eSIM line is its line of record in the register**, and its **Wi-Fi connection stands as the registered Wi-Fi endpoint**.
+
+**Labels only:** the handset is registered by role only — no device identifiers of any kind are recorded, under his standing rule.
+
+**Plain lines:** registration is a record in his system — **no eSIM was generated or activated by it** (carrier issuance and handset activation remain the carrier's flow and the owner's act on the device), and **no Wi-Fi connection was switched on by it**; the register records the endpoint, it does not operate the handset.
+
+---
+
 ## Mobile eSIM Wi-Fi Launch — Prepared (2026-10-31)
 
 On the owner's order of 2026-10-31, the **Mobile eSIM Wi-Fi launch** is prepared of record for this asset's Galactic Wi-Fi layer:
