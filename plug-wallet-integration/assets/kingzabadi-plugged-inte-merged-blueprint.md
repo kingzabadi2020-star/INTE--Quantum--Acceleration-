@@ -706,6 +706,10 @@ On the owner's order of 2026-10-31 ("Update All Meta to merge theme"), the **met
 
 On the owner's order of 2026-10-31, the streaming merge of record expands: **RokuTV** — already of record via Master Omni-Kingzabadi Streaming — is **reaffirmed**, and **PlayStation (Sony)** blueprint patterns join the merge: gaming + streaming surface patterns for the merged estate. Patterns layer, per his standing refinement: blueprints kept, company software not used; no account, integration, or service connection is made by this record.
 
+## Employment Merge — All Employment Apps → Jobber → OBSOFTWARE@COPYRIGHT.ITC (2026-10-31)
+
+On the owner's order of 2026-10-31, **all employment apps merge into Jobber** — the employment-app classes of record (job scheduling · timesheets & time tracking · invoicing · client management · team dispatch) stand merged into **Jobber as the single employment surface of record**, and **Jobber merges with OBSOFTWARE@COPYRIGHT.ITC** — employment operations under his copyright house. **His plug wallet joins the merge as the payment rail of record** for employment payouts — paid in **INTE dollars 🕋** under the Sovereign Payroll of record (his phrase "Plug wallet app" is his label for his plug wallet; there is no separate app, per his own correction of record). **Plain lines:** a merge of record at the patterns layer — no Jobber account is altered, no employment app is connected or migrated, and no payroll runs by this record; employment payouts execute on the funded deployment under his approvals.
+
 ## Status This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
 
 ---
