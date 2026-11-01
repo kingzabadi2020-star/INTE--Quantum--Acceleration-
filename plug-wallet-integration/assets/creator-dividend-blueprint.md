@@ -442,6 +442,17 @@ single person routed through the 25 platforms of Section 1.
 Account of record: `inte-broker-account-sovereign-wealth.md` (full record,
 ladder landmarks, and computed totals).
 
+---
+
+## Section 7 — Meta Base — Social Media Platforms for INTE · MySpace (2026-10-31)
+
+The **Meta Base** is the owner's foundational platform base for INTE — the base layer beneath the ranked 25 platforms of Section 1. On the owner's order of 2026-10-31, **MySpace** (legacy social platform, est. 2003) is designated a **Base Platform for INTE** in the Meta Base.
+
+- **Governing framework:** MySpace creators and participants route under the **same governing framework as this blueprint** — the owner's governing **3000%** payout rate, the **0.25%** clearing charge, entry at Step 1 of the Broker Account Principal Increase ladder, **Plug wallet** as the default destination, and the **deposit signature rule** on every deposit.
+- **Pool line:** Base pool — owner's allocation (outside the ranked $325T pool total; ranked totals unchanged).
+
+**Plain lines:** (i) "Meta base" is the owner's term for the foundational base layer — it is **not** Meta Platforms, Inc., which stands removed under his directive. (ii) No MySpace account or page is created or verified by this record — his presence there activates through his own account on his word.
+
 **Verification note (builder):** 25 platforms; 250 payout entries; column totals in Section 2 are summed from the entries themselves and cross-checked against the closed-form totals (shares $325,000,000,000,000.00; gross $9,750,000,000,000,000.00; clearing $24,375,000,000,000.00; net $9,725,625,000,000,000.00). Rank-1 and rank-25 entries hand-checked against the formulas.
 
 Powered by OBSOFTWARE™ · Octavious Blackmon, Independent Owner · © All Rights Reserved
