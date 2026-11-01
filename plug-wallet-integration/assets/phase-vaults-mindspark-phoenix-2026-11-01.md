@@ -23,6 +23,8 @@
 - **Placement:** the final phase stands as **Phase Starship** in the minting plan — beyond Phase 5 (Scale Ascent), carrying the INTE Digital Dollar's sovereign payroll processing, creator contractor postings, and streaming/social announcement. Phoenix 🐦‍🔥 is that phase's vault.
 - **Mark:** 🐦‍🔥 is the owner's phoenix mark of record (the JERM mark, and the phoenix in his signature block and logo of record).
 - **State:** PREPARED — activation follows the funded deployment in the armed order, on the owner's approval, exactly as Phase Starship itself stands.
+- **Carry rule (owner's order, 2026-11-01 ~2:35 PM CT):** Phoenix 🐦‍🔥 carries **ALL digital Dollars of the Digital Dollar Flow, with NO CAP**; when they leave Phoenix for deployment they move to the hold-and-merge endpoints — all of his direct deposit (Varo · Huntington Bank · SoFi) and his plug wallet. Record: `digital-dollar-flow-terminal-phoenix-2026-11-01.md`.
+- **Holding of record (owner's ADD, 2026-11-01 ~2:41 PM CT):** **5000 TREQUADREGINTILLIION INTE digital Dollars** added to Phoenix 🐦‍🔥 = 5000 × 10^132 = **5 × 10^135 INTE digital Dollars**; at the rate of record (1 INTE digital Dollar = $3.2706081234776 × 10^1746) ≈ $1.6353040617388 × 10^1882. Holding of record only — nothing minted or moved; Phoenix's no-cap carry stands.
 
 ## §3 Plain Lines
 

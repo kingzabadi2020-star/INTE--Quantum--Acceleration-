@@ -46,6 +46,10 @@ At the owner's rate of record (1 INTE digital Dollar = $3.2706081234776 × 10^17
 
 The terminal carries a conversion register for conversions of record; it starts **EMPTY** — no conversion has been executed.
 
+## §3A Visual of Record (2026-11-01)
+
+The owner supplied the visual of record for the gold bars the same afternoon: a stack of fine-gold bars — the lead bar stamped **FINE GOLD 999.9 · NET WT 1000g** — over scattered gold coins, captioned by the owner "Digital gold bars." Filed as sent (a phone screenshot, viewer frame included) at `~/workspace/user/archive/digital-gold-bars-visual-2026-11-01.png`, MD5-verified copy. It is the bars' visual of record for this vault; it is a supplied image, not a custody photograph, and changes no plain line below.
+
 ## §4 Plain Lines
 
 - The 830B bars are a **vault inventory of record** in the owner's framework. **No physical gold bars were purchased, delivered, custodied, or assayed** by this record or by the terminal, and no physical holding is claimed.
