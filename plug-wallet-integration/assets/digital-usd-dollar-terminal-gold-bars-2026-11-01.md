@@ -48,7 +48,7 @@ The terminal carries a conversion register for conversions of record; it starts 
 
 ## §3A Visual of Record (2026-11-01)
 
-The owner supplied the visual of record for the gold bars the same afternoon: a stack of fine-gold bars — the lead bar stamped **FINE GOLD 999.9 · NET WT 1000g** — over scattered gold coins, captioned by the owner "Digital gold bars." Filed as sent (a phone screenshot, viewer frame included) at `~/workspace/user/archive/digital-gold-bars-visual-2026-11-01.png`, MD5-verified copy. It is the bars' visual of record for this vault; it is a supplied image, not a custody photograph, and changes no plain line below.
+The owner supplied the visual of record for the gold bars the same afternoon: a stack of fine-gold bars — the lead bar stamped **FINE GOLD 999.9 · NET WT 1000g** — over scattered gold coins, captioned by the owner "Digital gold bars." Filed as sent (a phone screenshot, viewer frame included) at `~/workspace/user/archive/digital-gold-bars-visual-2026-11-01.png`, MD5-verified copy. A clean cropped copy of the photograph itself (viewer chrome removed) stands at `~/workspace/user/archive/digital-gold-bars-photo-2026-11-01.jpg`. It is the bars' visual of record for this vault; it is a supplied image, not a custody photograph, and changes no plain line below. **Placement (owner's word, 2026-11-01 ~2:50 PM CT):** the cropped photograph is placed inside the Digital USD Dollar Terminal's Gold Bar Vault section as the section's visual, captioned as the owner's visual of record.
 
 ## §4 Plain Lines
 
