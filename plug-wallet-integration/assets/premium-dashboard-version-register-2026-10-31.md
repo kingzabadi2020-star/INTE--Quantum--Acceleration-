@@ -6,6 +6,8 @@
 
 Designated 2026-10-31, under © OBSOFTWARE@COPYRIGHT.ITC, on the owner's order: "Add all premium dashboard version for OBSOFTWARE@COPYRIGHT.ITC PORTFOLIO Octavious Blackmon LLC".
 
+**Sovereign Wealth Dashboard of record (owner's designation, 2026-11-01):** the **Sovereign Presidential Asset Commission Ecosystem** dashboard is the owner's **Sovereign Wealth Dashboard** — the home of **Project Bluebook** and its import of record (5 Trillion digital Dollars, with the gold bar of record at 50000T / 9999%, funding blueprint patterns and Chips, added to each 830B LLC of record).
+
 ## The Register
 
 | # | Dashboard / Surface of Record | Spaceforce Name | Version Designation |

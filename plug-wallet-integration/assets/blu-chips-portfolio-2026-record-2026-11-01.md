@@ -40,6 +40,14 @@ On the owner's word — *"Implement 830 trequadregintilliion Blu Chips for this 
 
 **LLC charter of record (same order):** *"The LLC can be in any for of business and state independently inherited from Jehovah Jireh ✝️"* — the portfolio's LLCs are **not limited to the twelve technology classes of §3**: an LLC of this portfolio may stand in **any form of business and any state**, **independently inherited from Jehovah Jireh ✝️**. The twelve classes remain the classes of the generated registry; the charter governs what the LLCs may be beyond them.
 
+## §3B Import of Record — Project Bluebook (owner's order, 2026-11-01 ~3:21 PM CT)
+
+Under **Project Bluebook** in the owner's Sovereign Wealth Dashboard, an **import of record of 5 Trillion digital Dollars** (5 × 10^12), **with the gold bar of record at 50000T / 9999%** (as written), stands as assets to **fund the blueprint patterns and Chips of this portfolio, including the digital Dollar per chip**, **added to each 830B LLC of record**. Full record: `project-bluebook-import-2026-11-01.md`. An import of record only — no funds transferred from any external source; no gold physically held.
+
+## §3C Fund-Movement Allowance (owner's order, 2026-11-01 ~3:22 PM CT)
+
+On the owner's word — *"Allow chips to move funds with LLC"* — the Blu Chips stand **ALLOWED of record to move funds with their LLCs**: each chip may move funds together with the LLC it is patterned with, inside the owner's program. The allowance is carried in the dashboard's Implementation of Record panel and in the Project Bluebook import record, whose 5 Trillion digital Dollars fund the patterns and chips the allowance serves. Plain line: the allowance is a **permission of record inside his framework** — a movement in the real world still executes only on real rails (his banks, his plug wallet, the funded deployment) by his own hand and approval; the allowance itself transfers nothing and connects no account.
+
 ## §4 Plain Lines
 
 - This is a **portfolio of record** — creative designations inside the owner's framework under OBSOFTWARE@COPYRIGHT.ITC. **No LLC named in the dataset was legally formed by this record** (an LLC exists by state filing; these are portfolio company designations and blueprint names), **no patent was filed** (a patent is a USPTO filing; the chips carry blueprint *patterns*), **no crypto was issued** (the crypto names are designations; no token exists on any chain from this record), and **no gold is physically held** by the pattern's gold bars.
