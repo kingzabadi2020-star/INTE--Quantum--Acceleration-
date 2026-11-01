@@ -522,6 +522,10 @@ On the owner's order of 2026-10-31, the launch is prepared of record:
 
 The full preparation of record stands in `mobile-esim-wifi-launch-preparation-2026-10-31.md`.
 
+## Watermark System — Beta Testing Drip (2026-10-31)
+
+The owner's **Watermark System** of record: his marking system for Beta testing under © OBSOFTWARE@COPYRIGHT.ITC — his beta builds and surfaces in testing (the Beta Testing Board of record, 7 items In Testing, and the Beta 36.1V package) carry the watermark. The system operates as a **drip of 5T cycles per hour** (5,000,000,000,000 cycles/hour) directed to the mint, on his **250 scale** (the 250-period framework of record), toward **Unvigintillion Euros cycles** — the target denomination measure, Unvigintillion = 10^66, cycles measured in Euros per his INTE denomination doctrine (digital dollars measured in Euros). Computed from his stated rate: per hour 5 × 10^12 cycles · per 24 hours 1.2 × 10^14 cycles (120T) · across 250 hours 1.25 × 10^15 cycles (1,250T). **Plain lines:** a designation/model system of record — the deployer today holds 0 ICP and 0 cycles, so no drip is running and nothing is minting; the drip activates only inside the funded deployment (Phase 0 first), under the owner's approval rule; the watermark at beta stage is a marking/designation system for his beta builds, and the 5T/hour figure is his model rate, not a measured flow. The full designation stands in `minting-scale-and-phases.md`.
+
 ## Status This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
 
 ---
