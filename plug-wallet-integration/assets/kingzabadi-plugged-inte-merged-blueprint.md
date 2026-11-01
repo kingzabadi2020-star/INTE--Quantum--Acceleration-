@@ -408,7 +408,7 @@ The MindSpark implementation document carries a dated addendum of record
   steps, $7,000.00 → $1,628,808,285,814.00; steps 1–43 sum $8,855,531.05;
   full ladder $24,790,168,130,208.83; schedule of record in inte_backend)
   merged across Internet Computer, iOS (Galactic Cloud), the Alphabet
-  patterns layer, his dot-com web surfaces, and his remaining surfaces —
+  patterns layer, his INTE web surfaces, and his remaining surfaces —
   the Hub, the terminals, and the Plug consoles. The re-pasted 250-value
   list's landmarks were verified against the schedule of record exactly.
 

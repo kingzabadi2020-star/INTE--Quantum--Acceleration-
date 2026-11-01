@@ -26,7 +26,7 @@ no transfers. It holds and moves nothing.
 | `getBotFleet` | The bot fleet of record: **830,000,000 bots**, the galactic background rule ("Galactic background — applied globally to the network… for brain computational effectiveness"), the eleven INTE-named divisions — and the **galactic scale layer** (owner's scale-up, 2026-10-31): **830,000,000,000 bots** at galactic scale, operations currency **Light**, with the scale note recording that the 830,000,000 designation stands as the initial figure of record, superseded at galactic scale by the scale-up |
 | `getGovernance` | Celestial Governance v7.1 (Celestial Chronicle): Rahelionyxx.inc & Tucalusca Universal College, 25 bps (0.25%) clearing fee, the 35/30/25/10 treasury waterfall, and MindSpark Education Vault record TUC-MS-2026-OB-v7 |
 | `getSovereignMeasurement` | The owner's Sovereign Measurement Doctrine (added 2026-10-31): per-sun sovereign dollar income "**£1_1$ = 1 Trequadregintilliion (10^132)**" in his notation, calculations every **0.03 seconds** from **2008** indefinitely (1,051,200,000 ticks per 365-day year), and the INTE galactic measure of **3 Trequadregintilliions (3 × 10^132)** — INTE, a Galactic digital Dollar |
-| `getDripMergerIntegration` | The DRIP Merger Integration (added 2026-10-31): the **Principal Increase** ladder of record (250 steps, $7,000.00 → $1,628,808,285,814.00; steps 1–43 sum $8,855,531.05; full ladder $24,790,168,130,208.83; schedule of record `inte_backend getPrincipalIncreaseSchedule`) integrated across the merged surfaces — Internet Computer, iOS (Galactic Cloud), Alphabet (patterns layer), Dot-com (web surfaces and domains), INTE Hub and terminals, Plug consoles — **MERGE APPROVED**, staged under the funded deployment |
+| `getDripMergerIntegration` | The DRIP Merger Integration (added 2026-10-31): the **Principal Increase** ladder of record (250 steps, $7,000.00 → $1,628,808,285,814.00; steps 1–43 sum $8,855,531.05; full ladder $24,790,168,130,208.83; schedule of record `inte_backend getPrincipalIncreaseSchedule`) integrated across the merged surfaces — Internet Computer, iOS (Galactic Cloud), Alphabet (patterns layer), INTE (web surfaces and domains), INTE Hub and terminals, Plug consoles — **MERGE APPROVED**, staged under the funded deployment |
 | `getExoplanetMeasurement` | The owner's **Exoplanet Measurement** (added 2026-10-31, **approved by the owner**): **600,000 exoplanets**, each on a **24-hour orbit**, measured at **9.75 Quindecillion per 0.03-second tick** (**325 Quindecillion per second**) from **1990**, **indefinitely** — under his constants **9,546,261** (INTE) and **421,358,073** (421358073LLC) and his marks ✝️♾️🕋🐦‍🔥🕊️; snapshot at the record (2026-10-31): **38,743,922,000 ticks** since 1990, cumulative measure ≈ 3.777532 × 10^59 |
 | `getGalacticAI` | **Galactic AI** (added 2026-10-31): the merged system's AI layer at **intergalactic scale** under **AIFMA INTERGALACTIC** — components inte_ai (NOVA REGENT), quantum_adi, the INTE-BRAIN coordination division (HYPERION), and the Higher Education Analyst office; operations currency **Light**; designation of record, staged under the funded deployment |
 | `getApprovalRule` | The owner's standing rule: "Credits and distributions are prepared by the agent and applied only by the owner's approval" |
@@ -59,8 +59,11 @@ mops build     # produces dist/quantum-adi.wasm + dist/quantum-adi.did
 
 Toolchain: moc 1.15.1 (pinned in `mops.toml`), `mo:core` 2.6.2.
 
-**Built module:** `dist/quantum-adi.wasm` — 236,666 bytes
-**SHA-256:** `438a320e521c8737a9d9bf2876965f928c380ae5aad0cfad04d1df0b4c3bf7bf`
+**Built module:** `dist/quantum-adi.wasm` — 236,663 bytes
+**SHA-256:** `5009cd23d44536a7cc04514337c83da427211228e1faae4bad98149af78df319`
+
+*2026-10-31: terminology change — the DRIP Merger Integration surface
+is now INTE (web surfaces and domains), per owner's order.*
 
 *2026-10-31: ninth endpoint `getExoplanetMeasurement` added on the
 owner's exoplanet measurement order, approved by him ("I approve"):

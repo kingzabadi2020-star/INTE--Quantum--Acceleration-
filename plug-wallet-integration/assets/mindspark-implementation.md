@@ -199,7 +199,7 @@ merged across the surfaces the owner named:
 - **Surfaces of the merger:** **Internet Computer** (the canister schedule
   of record, with quantum_adi's integration endpoint); **iOS** (the owner's
   devices via the Galactic Cloud layer); **Alphabet** (the pulled patterns
-  layer); **Dot-com** (his web surfaces and domains of record); **etc.** —
+  layer); **INTE** (his web surfaces and domains of record); **etc.** —
   his remaining surfaces: the Hub, the terminals, and the Plug consoles.
 - **Verification:** the owner re-pasted the full 250-value list with this
   order. Its landmarks match the schedule of record exactly — first

@@ -333,7 +333,7 @@ University and Wake Forest — his order spelled it "WAKES FOREST" — under the
 waterfall's 30% R&D & Interstellar Infrastructure allocation, implemented in
 code by the inte-construction canister); and the DRIP Merger Integration —
 the Principal Increase schedule of record merged across the Internet
-Computer, iOS (Galactic Cloud), the Alphabet patterns layer, dot-com, and his
+Computer, iOS (Galactic Cloud), the Alphabet patterns layer, INTE, and his
 remaining surfaces, with a companion endpoint in Quantum ADI. His re-pasted
 250-value list was verified landmark-for-landmark against the schedule of
 record; it was not re-transcribed.

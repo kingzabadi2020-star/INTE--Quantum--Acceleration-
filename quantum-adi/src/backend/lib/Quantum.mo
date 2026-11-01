@@ -115,7 +115,7 @@ module {
       "Internet Computer",
       "iOS (Galactic Cloud)",
       "Alphabet (patterns layer)",
-      "Dot-com (web surfaces and domains)",
+      "INTE (web surfaces and domains)",
       "INTE Hub and terminals",
       "Plug consoles",
     ];
