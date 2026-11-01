@@ -34,6 +34,8 @@ Added to MINDSPARK ⚡, of record, **no minting needed** (the owner's words — 
 
 Carried exactly: 421345807532245 × 10^132 = **4.21345807532245 × 10^146 USD digital Dollars** (147 digits).
 
+**Funding use (owner's order, 2026-11-01 ~2:21 PM CT):** this USD Digital Dollar line is designated to fund the Digital Dollar Vault and all 118 Element Vaults through MINDSPARK ⚡, allocated by the Element Vaults' atomic-number weighting (N / 7021). Record: `use-usd-digital-dollars-fund-vault-elements-2026-11-01.md`.
+
 ## §4 Gold Cover — For All Costs of Digital Dollar Assets
 
 Added on gold in the vault for MINDSPARK ⚡, of record:
