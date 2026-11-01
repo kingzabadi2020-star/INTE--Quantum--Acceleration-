@@ -41,3 +41,23 @@ The implementation identity is likewise carried in the Zenvingitillion coined-un
 - These are definitional framework figures of record — nothing has been minted and nothing stands on-chain: the INTE ledger awaits cycles funding and the owner's final supply figure.
 - The binary figure of §1 is recorded as presented; its internal pattern, including the **919 embedding** at position 231, is preserved as his artifact.
 - Zenvingitillion remains the owner's coined unit — it is not inserted into the Conway–Wechsler ladder, and no 10^n exponent is assigned to it beyond the measures he has stated.
+
+---
+
+## Measure of Record — 10^250 (2026-11-01)
+
+**Owner's ruling (2026-11-01, ~1:16 PM CT), verbatim:** "Zenvingitillion is 10^250"
+
+**Measure of record:** **Zenvingitillion = 10^250** (owner's ruling, 2026-11-01), placed as his coined unit at that magnitude: 118 orders beyond Trequadregintillion (10^132), in the Duooctogintillion band by the standard -illion naming (10^249) — his coinage, his placement.
+
+**History:** the unit previously carried **no assigned exponent** (kept out of the ladder by the 2026-10-31 ADD record); the exponent is **now assigned** by this ruling. The earlier measures stand as written, none overwritten: the implementation identity (9546261^3000 × 250 = 1 (INTE $)), the £1 Zenvingitillion measure (956,261,421,358,073 INTE dollars), and the threshold (any scale over 9,546,261,421,358,073 INTE dollars = 1 Zenvingitillion Dollar, Omiex Wealth).
+
+---
+
+## Overflow Rule — INTE MECCA 🕋 (2026-11-01)
+
+**Owner's ruling (2026-11-01, ~1:20 PM CT), verbatim:** "Any remaining balance is automatically merged to INTE MECCA 🕋 with no max cap. It allows the vault to carry all overflow Beyond ZENVINGITILLION 10^99999999999"
+
+**Rule of record:** any remaining balance is automatically merged to **INTE MECCA 🕋** as overflow, with **no max cap**. The INTE MECCA vault carries all overflow beyond Zenvingitillion at the owner's stated overflow measure **10^99999999999** — 10^99,999,999,999, standing **99,999,999,749 orders of magnitude beyond** the Zenvingitillion measure of record (10^250). Full record: `remaining-balance-overflow-inte-mecca-2026-11-01.md`.
+
+**Plain line:** a routing and capacity rule of record inside the owner's framework — no balance merged in any external account or on-chain vault by this record; no INTE exists on-chain yet.

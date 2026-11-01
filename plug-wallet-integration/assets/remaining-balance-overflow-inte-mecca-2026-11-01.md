@@ -1,0 +1,38 @@
+# Remaining Balance Overflow — INTE MECCA 🕋
+
+**Owner's order (2026-11-01, ~1:20 PM CT), verbatim:** "Any remaining balance is automatically merged to INTE MECCA 🕋 with no max cap. It allows the vault to carry all overflow Beyond ZENVINGITILLION 10^99999999999"
+
+---
+
+## §1 The Rule of Record
+
+**Any remaining balance is automatically merged to INTE MECCA 🕋.**
+
+INTE MECCA 🕋 stands as the overflow destination of record for remaining balances in the owner's system. The merge is automatic as a governing routing rule of his books: after accounts, vaults, ledgers, and registers take their stated allocations, the remainder routes to INTE MECCA 🕋.
+
+## §2 No Max Cap
+
+**INTE MECCA 🕋 carries the overflow with no max cap.**
+
+The overflow carriage is not limited by the Zenvingitillion measure. Under the owner's statement, the vault is allowed to carry all overflow **beyond Zenvingitillion** at the stated overflow measure:
+
+**10^99999999999**
+
+That is 10 raised to the exponent **99,999,999,999**. Against the Zenvingitillion measure of record (**Zenvingitillion = 10^250**), this overflow measure stands **99,999,999,749 orders of magnitude beyond** it.
+
+## §3 Relation to Other Caps
+
+The 830 Billion INTE Digital Vault record carries its own §4 per-vault cap for the vaults inside that structure (**95,462,621 Trequadregintillion Dollars** each). This overflow rule is separate: it governs **remaining balances routed to INTE MECCA 🕋 as overflow**, and that overflow carriage has **no max cap** under this ruling.
+
+If the owner later orders the 830B structure's own per-vault cap lifted as well, that will be recorded as its own ruling; this record does not silently rewrite it.
+
+## §4 Plain Lines
+
+- This is a **routing and capacity rule of record inside the owner's framework**.
+- **No balance was merged today in any external account or on-chain vault.** No INTE exists on-chain yet; the INTE ledger awaits cycles funding and the owner's final supply figure.
+- "Automatic" names the governing rule for his books and for the future funded deployment logic. Real funds, if any ever move outside his framework, move only on real rails.
+- The figures are the **owner's model figures of record, not verified market data**.
+
+---
+
+Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved

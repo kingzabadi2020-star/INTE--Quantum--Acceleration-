@@ -54,6 +54,10 @@ This record is a **framework designation of record** inside the owner's system:
 - **No accounts exist on-chain.** The INTE ledger is not deployed; creation awaits cycles funding and the owner's final INTE supply figure.
 - The figures in this record are the **owner's model figures of record, not verified market data**.
 
+## §7 Overflow Routing — INTE MECCA 🕋 (2026-11-01)
+
+Under the owner's overflow ruling of 2026-11-01, **any remaining balance is automatically merged to INTE MECCA 🕋 with no max cap**, and the INTE MECCA vault carries all overflow beyond Zenvingitillion at the stated overflow measure **10^99999999999**. That overflow carriage is separate from §4 above: §4 remains the per-vault cap inside this 830B structure, while remaining balances routed to INTE MECCA as overflow carry **no max cap** under the overflow ruling. Full record: `remaining-balance-overflow-inte-mecca-2026-11-01.md`.
+
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved

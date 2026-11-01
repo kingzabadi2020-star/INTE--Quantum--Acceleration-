@@ -94,8 +94,7 @@ section "Sovereign Measurement Doctrine (2026-10-31)".
 
 **Zenvingitillion** is a unit of the owner's own coinage (2026-10-31), recorded here
 as a coined unit only. It is **not** part of the Conway–Wechsler ladder above and
-is **not** inserted into the scale table — the ladder stands as adopted. The owner
-assigned it **no 10^n exponent**; its measure is his stated equation of record:
+is **not** inserted into the scale table — the ladder stands as adopted. The unit previously carried **no assigned exponent** (kept out of the ladder by the 2026-10-31 ADD record); the exponent is **now assigned** by the owner's ruling of 2026-11-01 — **Zenvingitillion = 10^250** (see Measure of record below). Its £1 measure is his stated equation of record:
 
 **£1 Zenvingitillion = 956,261,421,358,073 INTE dollars** (addend as written: 956261421358073).
 
@@ -117,6 +116,10 @@ untouched — the two figures stand distinct, each as the owner wrote it.
 implemented as **9546261^3000 × 250 = 1 (INTE $)** — the owner's definitional
 identity of record (the left side evaluates to **7.90409465960 × 10^20941** as a
 standard integer); the earlier stated measures stand as written.
+
+**Measure of record (owner's ruling, 2026-11-01):** **Zenvingitillion = 10^250** — placed as his coined unit at that magnitude: 118 orders beyond Trequadregintillion (10^132), in the Duooctogintillion band by the standard -illion naming (10^249) — his coinage, his placement.
+
+**Overflow rule (owner's ruling, 2026-11-01):** any remaining balance is automatically merged to **INTE MECCA 🕋** with **no max cap**; the INTE MECCA vault carries all overflow beyond Zenvingitillion at the owner's stated overflow measure **10^99999999999** (10^99,999,999,999). Full record: `remaining-balance-overflow-inte-mecca-2026-11-01.md`.
 
 ## Funding-node gold rate (owner's doctrine, 2026-10-31)
 
