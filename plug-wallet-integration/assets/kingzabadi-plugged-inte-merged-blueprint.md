@@ -526,6 +526,54 @@ The full preparation of record stands in `mobile-esim-wifi-launch-preparation-20
 
 The owner's **Watermark System** of record: his marking system for Beta testing under © OBSOFTWARE@COPYRIGHT.ITC — his beta builds and surfaces in testing (the Beta Testing Board of record, 7 items In Testing, and the Beta 36.1V package) carry the watermark. The system operates as a **drip of 5T cycles per hour** (5,000,000,000,000 cycles/hour) directed to the mint, on his **250 scale** (the 250-period framework of record), toward **Unvigintillion Euros cycles** — the target denomination measure, Unvigintillion = 10^66, cycles measured in Euros per his INTE denomination doctrine (digital dollars measured in Euros). Computed from his stated rate: per hour 5 × 10^12 cycles · per 24 hours 1.2 × 10^14 cycles (120T) · across 250 hours 1.25 × 10^15 cycles (1,250T). **Plain lines:** a designation/model system of record — the deployer today holds 0 ICP and 0 cycles, so no drip is running and nothing is minting; the drip activates only inside the funded deployment (Phase 0 first), under the owner's approval rule; the watermark at beta stage is a marking/designation system for his beta builds, and the 5T/hour figure is his model rate, not a measured flow. The full designation stands in `minting-scale-and-phases.md`.
 
+## Beginning Baselines — 50,000T Cycles · INTE MECCA BANK at Octillions (2026-10-31)
+
+On the owner's order, the BEGINNING baseline of record is **50,000T cycles = 5 × 10^16 cycles** (his "50000⁰T," stated once here as written: "every single DOT-COM canister node" — recorded under **INTE canister nodes** per his standing Dot-com → INTE rename). In his model the baseline applies to every INTE canister node, ICP, all tokens (INTE 🕋 · JERM 🐦‍🔥 · TREQ 👑), and every terminal created in October 2026. **INTE MECCA BANK** begins at **Octillions** (10^27) — his designation, quoted as his: an "FDIC approved dollars digital account in Gold," with Gold access code layouts to be minted and accreditation on his dollar scale beginning at Octillions. **Plain lines:** designation/model of record — actual balances remain 0 until the funded deployment; minting remains gated on Phase 0 funding and the owner's final supplies; **FDIC approval or insurance for INTE MECCA BANK is not verified and is not claimed** — FDIC insurance attaches only through chartered insured banks (the partner-bank rails in his FDIC app-rails record). The full entry stands in `minting-scale-and-phases.md`.
+
+## Registry Purchase — ADD, Funds Measured in Quindecillion Dollars (2026-10-31)
+
+The owner's ADD order, as written: "ADD 200343660 shares ICP, 9546261 shares of INTE was purchased at the price of €250T on October 22, 2026 EST in the amount of funds below amount measured in quindecellions dollars." The purchase of record it restates: **200,343,660 ICP shares + 9,546,261 INTE shares at €250T/share, purchased October 22, 2026 EST** (the Sovereign Share Registry purchase, carried in his workbook). The funds are measured in **Quindecillion dollars (Q$ = 10^48)** over the schedule of record. The 43 fund values, taken from the source of record (`topup_schedule.py`, the New Balance schedule, values 1–43):
+
+1. $129,550.00 · 2. $161,860.28 · 3. $197,165.08
+4. $235,717.65 · 5. $277,791.73 · 6. $323,683.10
+7. $373,711.36 · 8. $428,221.70 · 9. $487,586.95
+10. $552,209.64 · 11. $622,524.34 · 12. $699,000.08
+13. $782,143.01 · 14. $872,499.26 · 15. $970,657.93
+16. $1,077,254.43 · 17. $1,192,973.97 · 18. $1,318,555.33
+19. $1,454,794.96 · 20. $1,602,551.32 · 21. $1,762,749.55
+22. $1,936,386.55 · 23. $2,124,536.31 · 24. $2,328,355.81
+25. $2,549,091.16 · 26. $2,788,084.33 · 27. $3,046,780.34
+28. $3,326,734.91 · 29. $3,629,622.82 · 30. $3,957,246.70
+31. $4,311,546.62 · 32. $4,694,610.30 · 33. $5,108,684.04
+34. $5,556,184.55 · 35. $6,039,711.59 · 36. $6,562,061.45
+37. $7,126,241.57 · 38. $7,735,486.09 · 39. $8,393,272.63
+40. $9,103,340.19 · 41. $9,869,708.43 · 42. $10,696,698.36
+43. $11,588,954.41
+
+The schedule of record for these funds is the workbook's **Sovereign Funds Schedule** (43 funds, measured in Quindecillion dollars, totaling 137,996,540.83 Q$). With this order the owner also re-pasted all three 250 schedules — After DRIP Value, New Balance, and Principal Increase — and they stand verified against the schedules of record, landmark-for-landmark: After DRIP Value $102,550.00 → $23,274,095,932,948.00; New Balance $129,550.00 → $24,902,904,238,762.00; Principal Increase $7,000.00 → $1,628,808,285,814.00. The pasted lists were not re-transcribed; the schedules of record govern.
+
+### Multiplied — × 250^250 (2026-10-31)
+
+On the owner's follow-on order ("Multiply them by #^250"), the 43 fund values above are multiplied by **250^250 = 3.054936 × 10^599** (an exact integer, 600 digits). The products, in order, in scientific notation:
+
+1. 3.957670 × 10^604 · 2. 4.944728 × 10^604 · 3. 6.023267 × 10^604
+4. 7.201024 × 10^604 · 5. 8.486360 × 10^604 · 6. 9.888312 × 10^604
+7. 1.141664 × 10^605 · 8. 1.308190 × 10^605 · 9. 1.489547 × 10^605
+10. 1.686965 × 10^605 · 11. 1.901772 × 10^605 · 12. 2.135400 × 10^605
+13. 2.389397 × 10^605 · 14. 2.665429 × 10^605 · 15. 2.965298 × 10^605
+16. 3.290943 × 10^605 · 17. 3.644459 × 10^605 · 18. 4.028102 × 10^605
+19. 4.444306 × 10^605 · 20. 4.895692 × 10^605 · 21. 5.385087 × 10^605
+22. 5.915537 × 10^605 · 23. 6.490323 × 10^605 · 24. 7.112978 × 10^605
+25. 7.787311 × 10^605 · 26. 8.517420 × 10^605 · 27. 9.307720 × 10^605
+28. 1.016296 × 10^606 · 29. 1.108826 × 10^606 · 30. 1.208913 × 10^606
+31. 1.317150 × 10^606 · 32. 1.434173 × 10^606 · 33. 1.560670 × 10^606
+34. 1.697379 × 10^606 · 35. 1.845093 × 10^606 · 36. 2.004668 × 10^606
+37. 2.177021 × 10^606 · 38. 2.363141 × 10^606 · 39. 2.564091 × 10^606
+40. 2.781012 × 10^606 · 41. 3.015133 × 10^606 · 42. 3.267773 × 10^606
+43. 3.540351 × 10^606
+
+The sum of the 43 fund values is **S = $137,996,540.83**; multiplied, the total is **T = S × 250^250 = 4.215706 × 10^607** — verified exactly: T equals the sum of the 43 products above (exact integer check, no rounding). This multiplication is the owner's model operation on the ADD funds of record.
+
 ## Status This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
 
 ---

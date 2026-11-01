@@ -33,6 +33,8 @@ Owner's scale ruling (2026-10-31): entries 1–50 — in registry order, the EUR
 
 **Note on entry 7 (JERM LLC 🐦‍🔥) — 2026-10-31:** Alabama Power account merged under this portfolio per the owner's order, 2026-10-31 — recorded by name as the power line of the merged system (utility of record behind the Power Points); account details are not on file and appear nowhere in this registry.
 
+**Note on entry 6 (INTE MECCA BANK LLC PORTFOLIO 🏦) — 2026-10-31:** On the owner's order, the **digital Dollar — INTE 🕋** (the unique digital dollar name; dollar symbol 🕋) is ADDED to the INTE MECCA BANK portfolio, carrying the multiplied fund measure **T = 4.215706 × 10^607** as its associated fund line of record — the 43 ADD funds of the Registry Purchase (blueprint of record) multiplied by 250^250 on the owner's order, 2026-10-31. This note adds the digital Dollar to the portfolio; the entry's pasted value and its Shares/Dividends cells stand unchanged.
+
 ## Portfolios valued in US Dollars (USD) — 42
 
 | # | Ticker | Emoji | Portfolio | Value (as pasted) | Scale Measure | Shares | Dividends | Status | Galactic Allocation (owner figure) |

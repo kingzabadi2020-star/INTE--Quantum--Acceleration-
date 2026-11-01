@@ -78,3 +78,32 @@ holds 0 ICP and 0 cycles, so no drip is running and nothing is minting. The drip
 activates only inside the funded deployment (Phase 0 first), under the owner's
 approval rule. The watermark at beta stage is a marking/designation system for his
 beta builds, and the 5T/hour figure is his model rate, not a measured flow.
+
+## Beginning Baselines — 50,000T Cycles · INTE MECCA BANK at Octillions (2026-10-31)
+
+On the owner's order of 2026-10-31: "Begin at 50000⁰T cycles for every single
+DOT-COM canister node ICP all tokens for ever terminal that was created in the
+month of October. Begin at octillions to begin INTE MECCA BANK FDIC approved
+dollars digital account in Gold as the access code layouts to be minted and
+accreditation for dollar scale."
+
+- **Reading of record:** "50000⁰T" is read as **50,000T cycles = 5 × 10^16
+  cycles** — the BEGINNING baseline. His "DOT-COM canister nodes" are recorded
+  under **INTE canister nodes**, per his standing rename (Dot-com → INTE,
+  2026-10-31); his phrase stands quoted once above, as written.
+- **Scope of the baseline (his model):** the 50,000T cycles beginning baseline
+  applies to every INTE canister node, to ICP, to all tokens — INTE 🕋,
+  JERM 🐦‍🔥, TREQ 👑 — and to every terminal created in the month of
+  October 2026 (the terminal family of record).
+- **INTE MECCA BANK:** the digital account **begins at Octillions** — 10^27
+  on his dollar scale. His designation for the account, quoted as his: an
+  "FDIC approved dollars digital account in Gold," with **Gold access code
+  layouts to be minted** and **accreditation on his dollar scale** beginning
+  at Octillions.
+
+**Plain lines.** These baselines are the owner's designation/model of record.
+Actual balances remain 0 until the funded deployment; minting remains gated
+on Phase 0 funding and the owner's final supplies. **FDIC approval or
+insurance for INTE MECCA BANK is not verified and is not claimed** — FDIC
+insurance attaches only through chartered insured banks (the partner-bank
+rails in his FDIC app-rails record).
