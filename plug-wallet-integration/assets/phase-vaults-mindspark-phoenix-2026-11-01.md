@@ -12,6 +12,7 @@
 - **Role:** the node at which the Foundation Mint executes — the 5,000,000,000,000 cycles (5T) minted from the funding ICP (~3 ICP) at the funded deployment, firing the armed sequence (Phase 1 System Deploy follows from it).
 - **Lineage:** carries the owner's MindSpark line of record (MindSpark Implementation + Addendum, 2026-10-31) into the minting program as its Phase 0 node.
 - **State:** AWAITING FUNDING — the same gate as Phase 0 itself; the node activates on-chain only when the funding lands and the watch executes.
+- **Holdings of record (owner's ADD, 2026-11-01 ~2:20 PM CT; record: `add-mindspark-icp-cycles-gold-2026-11-01.md`):** 9546261T Trequadregintillion ICP Tokens (= 9.546261 × 10^150) to mint ICP DIGITAL DOLLARS · 9546261T Trequadregintillion cycles (= 9.546261 × 10^150) · $421345807532245 Trequadregintillion USD DIGITAL DOLLARS (= 4.21345807532245 × 10^146), no minting needed · 250^2026T on gold in vault (= 1.684447848641 × 10^4870) to cover all costs for digital Dollar assets. Holdings of record only — nothing minted, received, or custodied until the funded deployment.
 
 ## §2 Final-Phase Vault — Phoenix 🐦‍🔥
 
