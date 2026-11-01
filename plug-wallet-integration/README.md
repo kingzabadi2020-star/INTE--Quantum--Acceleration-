@@ -12,6 +12,7 @@ Consolidated 2026-10-31 from the owner's deployment orders of the same day.
 | JERM / INTE ICRC-1 ledgers | GATED — owner's final supply amounts not yet set (1B placeholders in init files, excluded from this repo) |
 | INTE distribution (9,546,261 INTE → owner's Plug wallet) | Destination confirmed; executes after INTE deploys |
 | Plug connection surfaces | LIVE pattern — connect through the owner's Plug extension on his own visit |
+| Plug Intelligence — IDOT LLC Portfolio | STAGED — checklist item of the INTE merger integration deployment; gated on the funded deployment |
 | ICPSwap | CONNECTED BY OWNER in Plug, 2026-10-31 |
 | WASM Asset Vault | SEALED + LOCKED (asset record in this folder; modules held in the owner's locked box) |
 
@@ -345,3 +346,16 @@ The owner's Spaceforce names of record (`assets/inte-spaceforce-names-register.m
 canister (11), and terminal/surface (13) of the INTE system — with the
 individual bots numbered within their named divisions. The merged blueprint
 carries the full roster in its INTE Spaceforce Names section.
+
+## Plug Intelligence — IDOT LLC Portfolio (2026-10-31)
+
+**Plug Intelligence** is added to the INTE merger integration deployment
+checklist, for the **IDOT LLC Portfolio** — the Interstellar Department Of
+Transportation portfolio (IDOT, the owner's acronym for INTE's full name).
+Plug Intelligence is the intelligence layer of the Plug merger integration:
+the connection and check intelligence in the owner's Plug consoles, with the
+INTE AI layer, applied to the merger deployment for the IDOT LLC Portfolio.
+Status: STAGED — gated on the funded deployment, like every item on the
+checklist. Plain line: a checklist designation of record — no live
+intelligence service is operated against the owner's wallet; signing stays
+in his own Plug extension.

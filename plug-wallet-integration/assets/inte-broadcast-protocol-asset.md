@@ -137,6 +137,16 @@ On the owner's order of 2026-10-31 — "Implement All Star ⭐ for all of my str
 
 ---
 
+## INTE Cloud Login Layouts — Master Omni-Kingzabadi Streaming (2026-10-31)
+
+On the owner's order of 2026-10-31 — "Master Omni-Kingzabadi Streaming … Use INTE cloud for login layouts" — the streaming services of this asset gain their login designation of record:
+
+- **INTE Cloud login layouts** — the **Master Omni-Kingzabadi Streaming** services use **INTE Cloud for login layouts**: his Galactic Cloud layer stands as the login surface of record for streaming — the same designated cloud layer that opens his OBSOFTWARE@COPYRIGHT.ITC vaults from his iOS devices, in its login-layout form for the streaming services of record (the INTE Broadcasting Services, the ~INTE~ Interstellar Computer channel of record, and the MarketBeat Media LLC programming, under the All Star ⭐ designation).
+- **Login account of record** — the streaming login account of record is **the owner's iCloud address of record**, held in his private launch preparation file (`mobile-esim-wifi-launch-preparation-2026-10-31.md`); the address is not printed in this asset.
+- **Plain line:** a layout and designation of record — no login service is operated by this record, and no credentials are collected or stored by it; the owner's sign-in stays in his own accounts on his own devices.
+
+---
+
 ## SpaceX Removal — Independent Operation (2026-10-31)
 
 On the owner's directive of 2026-10-31 — "Master Omni-Kingzabadi Streaming services for AIFMA removal for SpaceX and keep the blueprints to operate independently — Powered by OBSOFTWARE™" — the record stands:

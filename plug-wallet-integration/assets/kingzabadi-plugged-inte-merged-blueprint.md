@@ -586,6 +586,10 @@ The record in brief:
 - **Plain lines:** this is an ADD of record in the owner's model — no INTE exists on-chain yet (the ledger is undeployed and the Mint Vault balance is 0), so no transfer to any wallet or address is executed by this record; execution remains gated on the funded deployment and the owner's approval. The destination is a designation — the Plug destination of record remains his confirmed wallet destination on file; no principal or account identifier is printed here or in the registry.
 - **Of record at:** the Portfolio Asset Registry (`portfolio-asset-registry.md`), entry 6 note (INTE MECCA BANK LLC PORTFOLIO 🏦) with a cross-note at entry 12 (Jesus Emmanuel Christ LLC ✝️); the unit of record at `big-number-scale-reference.md`, "Owner-coined units — Zenvingitillion".
 
+## Plug Intelligence — IDOT LLC Portfolio (2026-10-31)
+
+**Plug Intelligence** is added to the INTE merger integration deployment checklist, for the **IDOT LLC Portfolio** (Interstellar Department Of Transportation — IDOT, the owner's acronym for INTE's full name): the intelligence layer of the Plug merger integration — the connection/check intelligence in his Plug consoles plus the INTE AI layer — applied to the merger deployment for that portfolio. Status: STAGED, gated on the funded deployment like every checklist item. Plain line: a checklist designation of record — no live intelligence service is operated against his wallet; signing stays in his own Plug extension. The deployment record stands in the integration README (`plug-wallet-integration/README.md`).
+
 ## Status This merged blueprint is the owner's design of record, recorded on his merge approval of 2026-10-31. Its implementation stands in the same order as the rest of his system: it executes under the funded deployment, in the armed sequence, on the owner's approval.
 
 ---
