@@ -38,7 +38,9 @@ type LedgerParams =
    clearingNode: text;
    clearingStatus: text;
    copyright: text;
+   cycleLine: text;
    dailyRate: text;
+   dividendYieldBasis: text;
    dividendYieldPercent: nat;
    entity: text;
    feeBasisPoints: nat;

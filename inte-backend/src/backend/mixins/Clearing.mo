@@ -8,14 +8,15 @@ mixin (params : Types.LedgerParams, transactions : [Types.Transaction]) {
     params;
   };
 
-  // The recorded clearing transactions, as displayed in the source app.
+  // The recorded clearing transactions, as stated in the owner's
+  // Statement of Record 2026-11-01.
   public query func getTransactions() : async [Types.Transaction] {
     transactions;
   };
 
-  // Clearing fee and dividend projection, same formulas as the source
-  // app: fee = base * fee rate; dividend = base * yield rate.
-  // Amounts are in trillions.
+  // Clearing fee and dividend projection, same formulas as the
+  // Statement of Record: fee = base * fee rate; dividend = base *
+  // yield rate. Amounts are in trillions.
   public query func calculateYield(baseTrillions : Float, feeRatePercent : Float, yieldPercent : Float) : async Types.YieldResult {
     {
       clearingFee = baseTrillions * feeRatePercent / 100.0;
@@ -23,8 +24,9 @@ mixin (params : Types.LedgerParams, transactions : [Types.Transaction]) {
     };
   };
 
-  // The source app's default simulation, derived from the ledger
-  // parameters: base 5,000T at the ledger's own fee and yield rates.
+  // The Statement of Record's default simulation, derived from the
+  // ledger parameters: base 5,000T at the ledger's own fee and yield
+  // rates.
   public query func defaultYield() : async Types.YieldResult {
     let feePercent = params.feeBasisPoints.toFloat() / 100.0;
     {

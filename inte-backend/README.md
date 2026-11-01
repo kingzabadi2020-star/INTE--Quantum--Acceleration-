@@ -13,31 +13,41 @@ hardcoded in that script.
 - Source: `src/backend/` — `main.mo` (composition root), `mixins/Clearing.mo`
   (endpoints), `lib/Ledger.mo` (parameters), `types.mo` (shared types)
 - Built artifact: `src/backend/dist/inte-backend.wasm` + `inte-backend.did`
-  (built 2026-10-31, `mops check --fix` clean, `mops build` OK)
+  (built 2026-10-31; rebuilt 2026-11-01 for the Clearing Ledger alignment
+  to the owner's Statement of Record, `mops check --fix` clean,
+  `mops build` OK)
 - Toolchain: mops 3.5.1, moc pinned 1.15.1 (same pin as the INTE AI canister),
   `core 2.6.2`. No mutable state, so no migration chain.
 
 ## API (all queries)
 
 - `getClearingLedgerStatus() -> LedgerParams` — entity RAHELIONYXX.INC,
-  brand OBSOFTWARE™, account label MECCA, clearing node 4232354, status
-  ACTIVE (MECCA), fee 25 bps (0.25%), dividend yield target 800,000%,
-  primary reserve £6.741e+270, daily rate $3 Unvigintillion, term
-  24/10/2026–24/10/3000 (974 years), architect Octavious Blackmon,
+  brand OBSOFTWARE™, account label MECCA, clearing node 423235466, status
+  ACTIVE (MECCA), fee 25 bps (0.25%), dividend yield target 800,000% for
+  $250 Quindecillions, primary reserve £6.7410019012984e+270, daily line
+  $3 Unvigintillion daily tasks, cycle line €9.75T cycles × £5000T cycles,
+  term 24/10/2026–24/10/3000 (974 years), architect Octavious Blackmon,
   © OBSOFTWARE@COPYRIGHT.ITC.
-- `getTransactions() -> [Transaction]` — TX-001 ICP LLC (internetcomputer.org)
-  and TX-002 MarketBeat LLC, as displayed in the source app.
+- `getTransactions() -> [Transaction]` — TX-001 ICP LLC
+  (£9546261421358073e+250, fee £2.50T) and TX-002 MarketBeat LLC
+  (£5423235466410019012984, fee £12.50T), as recorded in the owner's
+  Statement of Record 2026-11-01.
 - `calculateYield(baseTrillions, feeRatePercent, yieldPercent) -> YieldResult`
-  — fee = base × rate; dividend = base × yield (source app's formulas).
-- `defaultYield() -> YieldResult` — the app's default simulation derived from
-  the ledger parameters: 5,000T base → £12.50T fee, £40,000,000.00T dividend.
+  — fee = base × rate; dividend = base × yield (the Statement of Record's
+  formulas).
+- `defaultYield() -> YieldResult` — the Statement of Record's default
+  simulation derived from the ledger parameters: 5,000T base → £12.50T fee,
+  £40,000,000.00T dividend.
 
-Privacy: the source app displays the account's full EIN as its "Reg ID".
-That value is deliberately NOT in this code or these docs — only the MECCA
-label and the truncated node form are carried, matching the INTE Universe Hub.
+Privacy: the account's full EIN is deliberately NOT in this code or these
+docs — only the MECCA label and the clearing-node designation in the form
+the owner's Statement of Record carries (423235466).
 
-Figures are owner-provided, transcribed from the source app as displayed;
-they are parameters of the owner's model, not verified financial records.
+Figures are owner-provided, transcribed from the owner's Statement of
+Record 2026-11-01 (Internal Clearing Ledger), which governs over the
+Clearing Ledger app figures per the owner's ruling of 2026-11-01
+("This statement governs"); they are parameters of the owner's model,
+not verified financial records.
 
 ## Deployment — all steps (STAGED, not deployed)
 

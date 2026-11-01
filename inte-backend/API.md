@@ -22,8 +22,8 @@ The backend now exposes the full integration surface (all queries):
 | Endpoint | Returns |
 |---|---|
 | `getClearingLedgerStatus` | Clearing ledger parameters + ACTIVE (MECCA) status |
-| `getTransactions` | TX-001 / TX-002 as recorded in the source app |
-| `calculateYield` / `defaultYield` | Fee + dividend projections (app formulas) |
+| `getTransactions` | TX-001 / TX-002 as recorded in the owner's Statement of Record 2026-11-01 |
+| `calculateYield` / `defaultYield` | Fee + dividend projections (Statement of Record formulas) |
 | `getReleaseInfo` | IPO release (concept) parameters — see below |
 | `getTopUpSchedule` / `getProfileTopUps` | The owner's "New Balance" top-up schedule (250 values, $129,550.00 → $24,902,904,238,762.00) applied to both Plug profiles — owner model figures, not wallet balances; source data in `topup_schedule.py`, archived at `~/workspace/user/archive/plug-topup-schedule-2026-10-31.md` |
 | `getCreditProtocol` | The credit-approval protocol (agent prepares, owner approves) — see the protocol section below |

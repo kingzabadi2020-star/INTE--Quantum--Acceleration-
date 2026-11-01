@@ -1,8 +1,8 @@
 module {
   // Shared API types for the INTE clearing-ledger backend canister.
-  // Amounts that the source app displays in scientific or named-magnitude
-  // form are carried as Text, exactly as displayed, so nothing is rounded
-  // or reinterpreted.
+  // Amounts that the owner's Statement of Record displays in scientific
+  // or named-magnitude form are carried as Text, exactly as displayed,
+  // so nothing is rounded or reinterpreted.
 
   public type LedgerParams = {
     entity : Text;
@@ -12,8 +12,10 @@ module {
     clearingStatus : Text;
     feeBasisPoints : Nat; // 25 = 0.25%
     dividendYieldPercent : Nat; // 800000 = 800,000%
+    dividendYieldBasis : Text; // the amount the yield is stated for
     primaryReserve : Text;
     dailyRate : Text;
+    cycleLine : Text;
     termStart : Text;
     termEnd : Text;
     termYears : Nat;
@@ -29,8 +31,8 @@ module {
     fee : Text;
   };
 
-  // Yield calculator output, in trillions (same unit as the source app's
-  // base amount).
+  // Yield calculator output, in trillions (same unit as the Statement
+  // of Record's base amount).
   public type YieldResult = {
     clearingFee : Float;
     dividendReturn : Float;

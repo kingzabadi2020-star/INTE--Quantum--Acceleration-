@@ -34,7 +34,7 @@ Itemized:
 ## §3 Variances, stated plainly
 
 - **(a) Node form.** The node appears here in fuller form (423235466) than the truncated form carried in the inte_backend code. The code stays as-is. The longer form also appeared in his Migration Protocol v4.0 paste; neither paste changed the code.
-- **(b) TX presentations.** This statement's TX figures are its own presentation: TX-001 fee £2.50T and the TX amounts as pasted above. The earlier v4.0 excerpt carried yet another TX-002 presentation (€410,019,012,984 / "£12.50"). **Standing rule of record: the Clearing Ledger APP governs inte_backend's data unless the owner rules otherwise — this statement is filed as a statement of record, and the governing question stands put to him with this filing.**
+- **(b) TX presentations.** This statement's TX figures are its own presentation: TX-001 fee £2.50T and the TX amounts as pasted above. The earlier v4.0 excerpt carried yet another TX-002 presentation (€410,019,012,984 / "£12.50"). **RULING (2026-11-01, ~10:32 AM CT): the owner ruled "This statement governs — align the backend + Hub §08 to it." The statement now GOVERNS. Alignment executed the same day: inte_backend rebuilt on the statement figures (new module SHA-256 9b5f64a1…), the WASM Asset Vault re-sealed under the ruling (new box SHA-256 3bd3c102…), and Hub §08 aligned in its new build. The former rule (the Clearing Ledger app governs) is SUPERSEDED.**
 
 ## §4 Plain lines
 
