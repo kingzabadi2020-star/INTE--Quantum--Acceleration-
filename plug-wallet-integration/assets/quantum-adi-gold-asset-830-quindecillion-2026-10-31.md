@@ -68,4 +68,6 @@ Computed exactly as written (arbitrary-precision integer and decimal arithmetic)
 
 **Plain line:** the Universe Measures are the owner's formulas and designations of record, computed exactly as written — the digit count and scientific results above are the arithmetic of his formula. The measures are carried by the owner's **Buzz Light-Year Portfolio 🚀** (Portfolio Asset Registry, USD entry 43, ticker BUZZ) and are linked to this 830 Quindecillion element asset.
 
+**Diamond measure tie (2026-10-31):** under the owner's Byte Credits doctrine of record — each 1 INTE dollar = 9,546,261 pressure of a Trequadregintilliion dollar in diamonds — the diamond measure anchors here, at **Element Vault 6 (Carbon)**: diamonds are carbon, and Carbon's Item Used to Create on the tablesheet already carries diamonds. Full record: the Minting Scale & Phases plan, "Byte Credits for Cycles — INTE Dollars · Diamond Measure (2026-10-31)".
+
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved

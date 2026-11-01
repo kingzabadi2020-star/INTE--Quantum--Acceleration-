@@ -107,3 +107,36 @@ on Phase 0 funding and the owner's final supplies. **FDIC approval or
 insurance for INTE MECCA BANK is not verified and is not claimed** — FDIC
 insurance attaches only through chartered insured banks (the partner-bank
 rails in his FDIC app-rails record).
+
+## Byte Credits for Cycles — INTE Dollars · Diamond Measure (2026-10-31)
+
+On the owner's order of 2026-10-31: "Credit bytes for cycles using INTE
+dollars and right the dollar in diamonds because each 1 INTE dollar is
+9546261 pressure of a trequadregintilliion dollar in diamonds status"
+
+- **Readings of record:** "right" is applied as **WRITE** — the dollar is
+  written (denominated) in diamonds. "Pressure" is his measure term, carried
+  as written. His coinage spelling **Trequadregintilliion** is the dollar
+  name of record (scale layout name Trequadragintillion, 10^132).
+- **Byte credits for cycles, using INTE dollars:** cycles in his system are
+  **credited by bytes**, paid and denominated in **INTE dollars 🕋** — the
+  crediting framework of record for cycles across his system.
+- **The dollar is written in diamonds:** the INTE dollar's denomination of
+  record is **diamonds**.
+- **The rate (status):** **each 1 INTE dollar = 9,546,261 pressure of a
+  Trequadregintilliion dollar in diamonds** — his constant 9546261 as the
+  standing measure of record.
+- **Anchor:** diamonds are carbon, so the measure anchors at **Element
+  Vault 6 (Carbon)** in the Element Vault Table, whose Item Used to Create
+  already carries diamonds.
+- **Derived line** (the arithmetic of his rate): at that rate, 1 Quindecillion
+  INTE dollars (10^48) carry **9,546,261 × 10^48 pressure** of the measure —
+  9.546261 × 10^54 pressure.
+
+**Plain lines.** This is a crediting and denomination framework of record in
+his model. No cycles exist to credit until the funded deployment — the
+deployer today holds 0 ICP and 0 cycles — and byte crediting executes only
+inside the funded deployment, under the owner's approval rule. The diamond
+denomination is his doctrine of record; it is not a claim that diamonds are
+held in reserve.
+
