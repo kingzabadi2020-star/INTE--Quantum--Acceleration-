@@ -85,3 +85,19 @@ section "Sovereign Measurement Doctrine (2026-10-31)".
 - Quindecillion framework (Q$): 1 Quindecillion = 10⁴⁸ — on the layout exactly.
 - Dollar Scale sheet top: Unvigintillion = 10⁶⁶ — on the layout exactly.
 - Beyond the table, keep stepping +3 zeros per level using exponent = 3 × (n + 1).
+
+## Owner-coined units — Zenvingitillion (note, 2026-10-31)
+
+**Zenvingitillion** is a unit of the owner's own coinage (2026-10-31), recorded here
+as a coined unit only. It is **not** part of the Conway–Wechsler ladder above and
+is **not** inserted into the scale table — the ladder stands as adopted. The owner
+assigned it **no 10^n exponent**; its measure is his stated equation of record:
+
+**£1 Zenvingitillion = 956,261,421,358,073 INTE dollars** (addend as written: 956261421358073).
+
+The unit arises from the owner's Zenvingitillion ADD of 2026-10-31 (956,261,421,358,073
+INTE dollars added to make £1 Zenvingitillion Dollars); the resulting holding of
+record and its plain lines stand in the Portfolio Asset Registry (entry 6,
+INTE MECCA BANK LLC PORTFOLIO 🏦, with a cross-note at entry 12, Jesus Emmanuel
+Christ LLC ✝️) and in the merged blueprint, section "Zenvingitillion ADD —
+INTE MECCA BANK · Jesus Emmanuel Christ LLC (2026-10-31)".
