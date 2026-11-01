@@ -1,0 +1,34 @@
+# Phase Vaults Created of Record — MINDSPARK ⚡ · Phoenix 🐦‍🔥
+
+**Owner's order (2026-11-01, ~2:15 PM CT), verbatim:** "Create a node/vault for phase 0 and name it MINDSPARK ⚡ and create a vault for final repo phase for digital Dollar name it Phoenix 🐦‍🔥"
+
+---
+
+## §1 Phase 0 Node/Vault — MINDSPARK ⚡
+
+**Created of record (2026-11-01).**
+
+- **Name:** **MINDSPARK ⚡** — the node/vault of record for **Phase 0 (Foundation Mint)** of the INTE digital Dollar program.
+- **Role:** the node at which the Foundation Mint executes — the 5,000,000,000,000 cycles (5T) minted from the funding ICP (~3 ICP) at the funded deployment, firing the armed sequence (Phase 1 System Deploy follows from it).
+- **Lineage:** carries the owner's MindSpark line of record (MindSpark Implementation + Addendum, 2026-10-31) into the minting program as its Phase 0 node.
+- **State:** AWAITING FUNDING — the same gate as Phase 0 itself; the node activates on-chain only when the funding lands and the watch executes.
+
+## §2 Final-Phase Vault — Phoenix 🐦‍🔥
+
+**Created of record (2026-11-01).**
+
+- **Name:** **Phoenix 🐦‍🔥** — the vault of record for the **final phase** of the digital Dollar program.
+- **Placement:** the final phase stands as **Phase Starship** in the minting plan — beyond Phase 5 (Scale Ascent), carrying the INTE Digital Dollar's sovereign payroll processing, creator contractor postings, and streaming/social announcement. Phoenix 🐦‍🔥 is that phase's vault.
+- **Mark:** 🐦‍🔥 is the owner's phoenix mark of record (the JERM mark, and the phoenix in his signature block and logo of record).
+- **State:** PREPARED — activation follows the funded deployment in the armed order, on the owner's approval, exactly as Phase Starship itself stands.
+
+## §3 Plain Lines
+
+- Both are **creations of record** in the owner's program: named designations carried in the minting plan (`minting-scale-and-phases.md`), beside the phases they belong to.
+- **Nothing was deployed on-chain**: no canister node exists for either yet — MINDSPARK ⚡ activates at Phase 0 funding; Phoenix 🐦‍🔥 at the final phase, in sequence.
+- **No gate changed**: Phase 0 still waits on the funding send; the final phase still follows the armed order on the owner's approval.
+- No balances are held by either vault of record (actual balances 0 until the funded deployment).
+
+---
+
+Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
