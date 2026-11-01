@@ -253,6 +253,48 @@ and routing — govern all of them alike.
 23. Timothy
 24. Stephen
 
+## Broker Account Blueprints — All Crypto Apps · GLASSED (2026-10-31)
+
+On the owner's order, this account now carries **blueprints for the full
+crypto-app field**, **glassed** — set behind glass in the record as showcased
+blueprint panels, in the family glass presentation. **Patterns layer, per the
+owner's standing refinement**: the blueprints are kept; outside company
+software is not used. Outside crypto apps therefore appear as **blueprint
+classes** only — never as integrations, accounts, or connections of this
+account.
+
+**The owner's own surfaces, named (his system):**
+
+- **Plug wallet** — his wallet of record.
+- **ICPSwap** — CONNECTED BY OWNER.
+- **The INTE chain canisters** — inte_btc / inte_eth / inte_sol /
+  inte_xledger read-cores.
+- **The Mint Gateway** and the **Mint Vault**.
+
+**The glassed blueprint classes** — one showcased panel each:
+
+- **Exchange App blueprint** — order book, spot pairs.
+- **Swap / DEX App blueprint** — pool swap panel, his 0.5% slippage pattern.
+- **Wallet App blueprint** — multi-chain send/receive directory.
+- **Staking / Yield App blueprint** — positions + rewards ledger.
+- **NFT Marketplace App blueprint** — ICRC-7 collection surface.
+- **Portfolio Tracker App blueprint** — holdings vault view.
+- **Bridge App blueprint** — cross-chain routes via the inte-chains.
+- **Payments App blueprint** — tap-pay + QR rails.
+
+**Tier line:** these blueprints stand under **INTE MECCA BANK — FDIC Dollars
+· TOP TIER** (his tier designation of record). Standing truth line: FDIC
+insurance attaches through chartered insured banks; INTE MECCA BANK's own
+FDIC status is not verified and not claimed; "FDIC Dollars" is his tier
+label.
+
+**MarketBeat approval of record:** the owner approves these broker account
+blueprints for his **MarketBeat Media LLC Software System protocol — a
+digital market** (his designation; MarketBeat Media LLC is his entity of
+record). **Plain lines:** this is an approval of record inside his system —
+no brokerage account is opened by it, no market is operated by it, and it is
+not a regulatory approval or license.
+
 ## Status
 
 **BLUEPRINT — STAGED.** The INTE Broker Account is the owner's distribution
