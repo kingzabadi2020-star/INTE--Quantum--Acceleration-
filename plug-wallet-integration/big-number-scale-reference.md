@@ -34,7 +34,7 @@ Standard adopted 2026-10-31 from the owner's uploaded worksheet + answer key
 | Octodecillion | 10⁵⁷ | 57 |
 | Novemdecillion | 10⁶⁰ | 60 |
 | Vigintillion | 10⁶³ | 63 |
-| Unvigintillion | 10⁶⁶ | 66 |
+| Unvigintillion — **Apex dollars** | 10⁶⁶ | 66 |
 | Duovigintillion | 10⁶⁹ | 69 |
 | Trevigintillion | 10⁷² | 72 |
 | Quattuorvigintillion | 10⁷⁵ | 75 |
@@ -57,6 +57,10 @@ Standard adopted 2026-10-31 from the owner's uploaded worksheet + answer key
 | Unquadragintillion | 10¹²⁶ | 126 |
 | Duoquadragintillion | 10¹²⁹ | 129 |
 | Trequadragintillion | 10¹³² | 132 |
+
+**Apex dollars (owner's doctrine, 2026-10-31):** the **Unvigintillion** level above
+is annotated of record — the Unvigintillion dollar scale (10⁶⁶) is **Apex
+dollars**, and they are **made in digital vaults**.
 
 ## Extension record — Thousands to Trequadragintillion (2026-10-31)
 
@@ -101,3 +105,18 @@ record and its plain lines stand in the Portfolio Asset Registry (entry 6,
 INTE MECCA BANK LLC PORTFOLIO 🏦, with a cross-note at entry 12, Jesus Emmanuel
 Christ LLC ✝️) and in the merged blueprint, section "Zenvingitillion ADD —
 INTE MECCA BANK · Jesus Emmanuel Christ LLC (2026-10-31)".
+
+**Scale threshold (owner's doctrine, 2026-10-31):** any dollar scale **over
+9546261421358073 INTE dollars** (9,546,261,421,358,073 INTE dollars — the owner's
+figure as written) is the scale of **1 Zenvingitillion Dollar — Omiex Wealth
+status**. This threshold stands as written in this record; the £1 measure above
+(£1 Zenvingitillion = 956,261,421,358,073 INTE dollars) stands in its own record
+untouched — the two figures stand distinct, each as the owner wrote it.
+
+## Funding-node gold rate (owner's doctrine, 2026-10-31)
+
+The funding nodes' asset basis for the dollar scale: **$1 Trillion per 5 ounces
+of gold**. Derived line (the arithmetic of his rate): 1 ounce of gold =
+**$200,000,000,000** of the scale ($1,000,000,000,000 ÷ 5). **Plain line:** this
+is the owner's funding-node asset rate of record in his model — **not a market
+gold price**.

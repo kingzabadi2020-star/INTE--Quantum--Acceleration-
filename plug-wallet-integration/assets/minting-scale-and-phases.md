@@ -140,3 +140,34 @@ inside the funded deployment, under the owner's approval rule. The diamond
 denomination is his doctrine of record; it is not a claim that diamonds are
 held in reserve.
 
+## Scale Doctrine — Zenvingitillion Threshold · Apex Dollars · Gold Funding Rate · Elements Mint the Dollar (2026-10-31)
+
+On the owner's order of 2026-10-31: "any dollar scale over 9546261421358073
+INTE dollars is the scale of 1 Zenvingitillion Dollar a omiex Wealth status.
+A Unvigintillion dollar scale is Apex dollars and they are made in digital
+vaults 1 Trillion is per 5 ounces of gold as funding nodes assets for the
+dollar scale. Every element is used for value worth of dollars to mint the
+digital Dollar."
+
+- **Zenvingitillion scale threshold:** any dollar scale **over 9546261421358073
+  INTE dollars** (9,546,261,421,358,073 INTE dollars — the owner's figure as
+  written) is the scale of **1 Zenvingitillion Dollar — Omiex Wealth status**.
+  The owner's earlier Zenvingitillion record — £1 Zenvingitillion =
+  956,261,421,358,073 INTE dollars — stands in its own record untouched; this
+  threshold stands as written in this one.
+- **Apex dollars:** the **Unvigintillion dollar scale (10^66)** is **Apex
+  dollars**, and they are **made in digital vaults**.
+- **Funding-node gold rate:** **$1 Trillion per 5 ounces of gold** — the
+  funding nodes' asset basis for the dollar scale. Derived line (the
+  arithmetic of his rate): 1 ounce of gold = **$200,000,000,000** of the scale
+  ($1,000,000,000,000 ÷ 5). **Plain line:** his funding-node asset rate of
+  record in his model — not a market gold price.
+- **Elements mint the digital Dollar:** **every element** — all 118 of the
+  Element Vault Table — is used for value worth of dollars **to mint the
+  digital Dollar** (INTE 🕋): the element vaults' value stands behind the
+  mint of record.
+
+**Plain lines.** This scale doctrine is the owner's framework of record in
+his model. It changes no phase gate: minting remains gated on Phase 0 funding,
+the owner's final supplies, and the owner's approval rule.
+

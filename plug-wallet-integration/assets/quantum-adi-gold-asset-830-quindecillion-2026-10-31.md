@@ -70,4 +70,8 @@ Computed exactly as written (arbitrary-precision integer and decimal arithmetic)
 
 **Diamond measure tie (2026-10-31):** under the owner's Byte Credits doctrine of record — each 1 INTE dollar = 9,546,261 pressure of a Trequadregintilliion dollar in diamonds — the diamond measure anchors here, at **Element Vault 6 (Carbon)**: diamonds are carbon, and Carbon's Item Used to Create on the tablesheet already carries diamonds. Full record: the Minting Scale & Phases plan, "Byte Credits for Cycles — INTE Dollars · Diamond Measure (2026-10-31)".
 
+**Elements mint the digital Dollar — tie (2026-10-31):** under the owner's Scale Doctrine of 2026-10-31, **every element is used for value worth of dollars to mint the digital Dollar** (INTE 🕋) — the value of these 118 element vaults stands behind the mint of record.
+
+**Funding-node gold rate — tie (2026-10-31):** the funding nodes' asset basis for the dollar scale is **$1 Trillion per 5 ounces of gold** — the asset basis line of record for this gold asset. Derived line (the arithmetic of his rate): 1 ounce of gold = **$200,000,000,000** of the scale ($1,000,000,000,000 ÷ 5). **Plain line:** his funding-node asset rate of record in his model — not a market gold price. Full record: the Minting Scale & Phases plan, "Scale Doctrine — Zenvingitillion Threshold · Apex Dollars · Gold Funding Rate · Elements Mint the Dollar (2026-10-31)".
+
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
