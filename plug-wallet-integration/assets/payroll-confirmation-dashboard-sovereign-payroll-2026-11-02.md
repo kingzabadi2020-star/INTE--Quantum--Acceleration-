@@ -27,6 +27,10 @@ On the owner's signed order, **INTE MECCA BANK is included in the dashboard as t
 
 Plain lines: **no check has been printed or mailed.** FDIC truth line of record stands in the panel: FDIC insurance attaches through chartered insured banks; INTE MECCA BANK's own FDIC status is not verified and is not claimed; the FDIC does not itself mail checks — a real mailing requires a real account and the owner's own hand.
 
+## §4 Deployment Rule — Immediate, Direct Deposit Only (owner orders, 2026-11-02, ~1:45 PM CT)
+
+On the owner's orders — "Deploy immediately confirmed payroll assignments" and "Direct deposit only" — assignments standing **CONFIRMED OF RECORD** in this dashboard deploy **immediately**, by **direct deposit only**, to the destinations of record (**Varo · Huntington Bank · SoFi**, institutions named only; full line to each unless he directs a split). The MECCA BANK check-mailing backup (§3) remains a backup designation only and is not a deployment rail under this order. Full order and execution-state plain lines: `payroll-deployment-immediate-direct-deposit-only-2026-11-02.md`. Deployment of record moves no real funds by itself — no bank rail is connected; real sends run on real rails by the owner's hand, and INTE-denominated deployment remains behind the funded-deployment gates.
+
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
