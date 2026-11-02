@@ -26,6 +26,16 @@ Every layout carries a strong **"SPECIMEN – NON-NEGOTIABLE – FOR DESIGN PURP
 - **SoFi send/receive:** the design carries SoFi as the merged external rail **of record** (his direct-deposit destination; send/receive designation from the Merge Terminal and the routing of record). **No SoFi account is connected or merged in fact** — no credentials were used, no rail is attached; real sending/receiving runs through his own SoFi account by his own hand.
 - **Address:** the designs reference the owner's mailing address as **"on file (private archive)"** only. His real street address is **not** printed on any design — standing privacy rule; the value lives only in the private archive note.
 
+## §2A Propagation — Every Vault (owner order, 2026-11-02, ~2:00 PM CT: "Add this checkbook to every vault for INTE MECCA BANK to merge")
+
+The checkbook merge was propagated to **every INTE MECCA BANK vault surface**, each verified on completion (2026-11-02):
+
+- **830 Billion INTE Digital Vault** (origin — §6 Checkbook, verified 2026-11-02 ~1:58 PM CT).
+- **INTE Universe Hub** — Checkbook card inside the INTE Vaults — Interstellar Bank section, merged into **all ten INTE Dollar Vaults** (Foundation → Apex) with a per-vault list; three specimen faces, SoFi panel of record, FDIC line; source grep: street address / city / ZIP **zero occurrences** — faces read "on file (private archive)." (This Hub build is **not published**: the public link still serves the previously published version until the owner shares again.)
+- **On-Chain Ledger Vault** — §5 Checkbook, verified; existing status/rules/register/notes untouched.
+- **Digital USD Dollar Terminal** (Gold Bar Vault) — §05 Checkbook, verified; address-fragment grep (street/city/ZIP) **zero hits**; conversion register and notes untouched.
+- **Mint Vault Terminal** — §05 Checkbook **built and source-checked** (compiles clean; no street address in source; sample numbers labeled design-only; all existing sections unchanged) — its final **rendered audit did not complete**, so this surface stands as built/source-checked, not fully verified, at this record's writing.
+
 ## §3 FDIC Truth Line
 
 **FDIC insurance attaches through chartered insured banks; INTE MECCA BANK's own FDIC status is not verified and is not claimed.** "INTE MECCA BANK FDIC" in the design title is the owner's tier/designation label of record, not an insurance claim. The FDIC does not issue checkbooks, and a specimen design confers no banking power: no check drawn on these layouts is negotiable, and none has been printed or mailed.
