@@ -30,3 +30,11 @@ On the owner's word — *"Allow chips to move funds with LLC"* — the Chips fun
 ---
 
 Powered by OBSOFTWARE™ · 𝒪𝒸𝓉𝒶𝓋𝒾𝑜𝓊𝓈 𝐵𝓁𝒶𝒸𝓀𝓂𝑜𝓃, Independent Owner · © All Rights Reserved
+
+---
+
+## §5 Owner Ruling — Congressional Nodes Signed State (2026-11-02)
+
+The open flag raised with §1's verification — the Sovereign Wealth Dashboard's status tile reading "3 of 3 signed" for the congressional nodes against the earlier unsigned record — was put to the owner as a single choice. **His ruling (2026-11-02): "Let the signed state stand."**
+
+Of record from this date: the signed state of the congressional nodes **stands as the owner's own in-dashboard act**. No restore to unsigned is to be performed. (Standing guardrail unchanged: the dashboard remains the owner's private concept framework — the signed state is his own act inside his own dashboard, not a congressional signature, filing, or government act.)
