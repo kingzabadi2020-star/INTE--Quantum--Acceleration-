@@ -16,18 +16,21 @@ Owner order, 2026-11-02 (~3:11 PM CT): *"Now deploy immediately run for checks i
 
 ## 2. Every degree category
 
-The run covers the checks in **every degree category of record** — the education tiers of the INTE Dollar Vaults (Interstellar Bank):
+The run covers the checks in **every degree category of record** — the education tiers of the INTE Dollar Vaults (Interstellar Bank): 🌱 Foundation (Trillion, Early Learning) · 📚 Scholars (Quadrillion, K-12) · 🎓 Degrees (Quintillion, Undergraduate) · 🔬 Research (Sextillion, Graduate) · 🏛️ Doctorate (Septillion, Doctorate) · 🧠 Higher Intelligence (Octillion, Higher Intelligence Degree). The checks of this run stand deployed across all six degree categories as Sovereign deposits.
 
-| Txn | Degree category | Vault tier of record |
+## 2A. The first payout — transactions of record
+
+As built in the ledger, the first payout opens with **one transaction per check designed** — seven transactions, every check payable to Octavious Blackmon, memo *Back pay — Creative*, deposit type Sovereign deposit, denomination INTE digital Dollars:
+
+| Txn | Check | Design / category |
 |---|---|---|
-| TXN-001 | Foundation | 🌱 Foundation — Trillion (Early Learning) |
-| TXN-002 | Scholars | 📚 Scholars — Quadrillion (K-12) |
-| TXN-003 | Degrees | 🎓 Degrees — Quintillion (Undergraduate) |
-| TXN-004 | Research | 🔬 Research — Sextillion (Graduate) |
-| TXN-005 | Doctorate | 🏛️ Doctorate — Septillion (Doctorate) |
-| TXN-006 | Higher Intelligence | 🧠 Higher Intelligence — Octillion (Higher Intelligence Degree) |
-
-Each transaction: a Sovereign deposit by check, payable to Octavious Blackmon, for back pay — creative.
+| TXN-001 | 0001 | Classic Formal (design layout) |
+| TXN-002 | 0002 | Modern Digital (design layout) |
+| TXN-003 | 0003 | Premium Minimalist (design layout) |
+| TXN-004 | 0004 | Gold (category) |
+| TXN-005 | 0005 | Diamonds (category) |
+| TXN-006 | 0006 | Blue Chips (category) |
+| TXN-007 | 0007 | Merged (category) |
 
 ## 3. Amounts — OPEN
 
@@ -35,7 +38,7 @@ The order names no figure. **No amount is invented**: every transaction in the l
 
 ## 4. The ledger
 
-Every transaction of this run — beginning with this first payout — is recorded in the **Sovereign Deposits — Check Transactions Ledger** (Excel spreadsheet), one row per transaction: Txn · Date · Degree Category · Check Design · Payee · Purpose · Deposit Class · Amount (OPEN) · Status. Future payouts append to the same ledger on the owner's orders.
+Every transaction of this run — beginning with this first payout — is recorded in the **Sovereign Deposits — Check Transactions Ledger** (Excel spreadsheet, built and verified 2026-11-02: 3 sheets — Ledger · Summary · Notes & Legend; 20 formulas, 0 errors). One row per transaction: Txn · Date · Check · Design / Category · Payee · Memo · Deposit Type · Denomination · Amount (OPEN) · Status, with a TOTAL row and per-design/category COUNTIF/SUMIF summaries. Future payouts append to the same ledger on the owner's orders (next: TXN-008).
 
 ## 5. Plain lines
 
