@@ -39,9 +39,9 @@ All six private surfaces stamped and verified the same day, every embedded image
 
 The QR images and any values they encode stay inside these private artifacts only, per the owner's standing instruction for his wallet material — nothing is pushed to the public repo (this record carries the registration of the stamp only, no images, no values).
 
-## §4 The Hub — Held for One Word
+## §4 The Hub — Held, Then APPROVED by the Owner (2026-11-02, ~2:39 PM CT)
 
-The INTE Universe Hub is his **published** surface. Stamping wallet receive QRs into its build means the codes go **public** the moment he re-publishes — a standing scam-target risk under his own anti-scam directive. The Hub stamp is therefore **held** until he confirms expressly that the barcodes may ride the Hub build. All other surfaces proceed.
+The INTE Universe Hub is his **published** surface. Stamping wallet receive QRs into its build means the codes go **public** the moment he re-publishes — a standing scam-target risk under his own anti-scam directive. The Hub stamp was therefore **held** and put to him as an explicit choice (stamp it, accepting the codes go public on re-publish — or keep the Hub unstamped). **His answer, 2026-11-02 ~2:39 PM CT: "Yes stamp it too."** The Hub stamp stands **APPROVED on his express confirmation** and was dispatched the same minute. **COMPLETED + VERIFIED the same day:** the Hub build carries a "Barcode Stamps — Stamped on Every Vault" card in the INTE Vaults / INTE MECCA BANK checkbook area embedding all seven supplied images, MD5 byte-identical, under © OBSOFTWARE@COPYRIGHT.ITC, with the approval banner worded as approval of record only (deployment gates unchanged) and the ICPSwap / Add-ICP codes flagged as distinct from the confirmed Plug pair; source grep zero for street address, city, ZIP, and email; all other Hub content unchanged. The build is **NOT published** — the public link still serves the previously published version until he shares/re-publishes again; that tap remains his.
 
 ## §5 Plain Lines
 
