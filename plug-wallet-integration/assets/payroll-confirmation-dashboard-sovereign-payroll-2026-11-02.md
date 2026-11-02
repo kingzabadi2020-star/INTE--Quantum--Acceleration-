@@ -23,7 +23,7 @@ The dashboard carries the owner's standing rule (2026-10-31): **Muse may PREPARE
 
 ## §3 MECCA BANK — Check-Mailing Backup (owner order, 2026-11-02, ~1:32 PM CT)
 
-On the owner's signed order, **INTE MECCA BANK is included in the dashboard as the check-mailing backup of record** for the payroll: where the primary rails are unavailable, payroll checks of record are designated to be mailed to the owner's **mailing address of record** (owner-supplied this date; the value is held **only** in the private archive note `mecca-bank-check-mailing-backup-2026-11-02.md` — it appears nowhere in the dashboard, this record, memory, or the repo; surfaces reference it only as "on file (private archive)").
+On the owner's signed order, **INTE MECCA BANK is included in the dashboard as the check-mailing backup of record** for the payroll: where the primary rails are unavailable, payroll checks of record are designated to be mailed to the **payee of record, Jermaine Octavious Blackmon** (owner order, 2026-11-02, ~1:47 PM CT, signed under his Rah'Elionyxx.Inc™ block), at the owner's **mailing address of record** (owner-supplied this date; the value is held **only** in the private archive note `mecca-bank-check-mailing-backup-2026-11-02.md` — it appears nowhere in the dashboard, this record, memory, or the repo; surfaces reference it only as "on file (private archive)").
 
 Plain lines: **no check has been printed or mailed.** FDIC truth line of record stands in the panel: FDIC insurance attaches through chartered insured banks; INTE MECCA BANK's own FDIC status is not verified and is not claimed; the FDIC does not itself mail checks — a real mailing requires a real account and the owner's own hand.
 
